@@ -1,0 +1,8 @@
+# 忽略临时文件
+*.tmp
+*.log
+.DS_Store
+
+# 数据目录由 Actions 管理，本地无需提交
+# 但保留目录结构
+!data/.gitkeep
