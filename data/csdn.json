@@ -1,0 +1,308 @@
+{
+  "type": "csdn",
+  "update_time": "2026-03-17 22:07:29",
+  "list": [
+    {
+      "index": 1,
+      "title": "5分钟部署 OpenClaw：从零到运行的完整流程",
+      "url": "https://blog.csdn.net/sinat_41617212/article/details/159089928",
+      "hot_value": "3.4w",
+      "extra": {
+        "article_id": "159089928",
+        "author": "七夜zippoe",
+        "comment_count": "63",
+        "view_count": "1597"
+      }
+    },
+    {
+      "index": 2,
+      "title": "OpenClaw横空出世：星标榜第一的AI Agent框架凭什么引爆2026？",
+      "url": "https://blog.csdn.net/2401_86326742/article/details/159125944",
+      "hot_value": "2.1w",
+      "extra": {
+        "article_id": "159125944",
+        "author": "我不是呆头",
+        "comment_count": "60",
+        "view_count": "709"
+      }
+    },
+    {
+      "index": 3,
+      "title": "【Java 开发日记】你分得清 Prompt、Agent、Function Call、Skill、MCP 吗？",
+      "url": "https://blog.csdn.net/2402_87298751/article/details/159121842",
+      "hot_value": "1.9w",
+      "extra": {
+        "article_id": "159121842",
+        "author": "程序员小假",
+        "comment_count": "56",
+        "view_count": "5463"
+      }
+    },
+    {
+      "index": 4,
+      "title": "【数据库】复杂场景下基于代价的连接条件下推：实践与思考",
+      "url": "https://blog.csdn.net/qq_38628970/article/details/159053157",
+      "hot_value": "1.8w",
+      "extra": {
+        "article_id": "159053157",
+        "author": "杰西笔记",
+        "comment_count": "1",
+        "view_count": "15188"
+      }
+    },
+    {
+      "index": 5,
+      "title": "SkyWalking - Spring Cloud Alibaba 全链路追踪实战",
+      "url": "https://blog.csdn.net/qq_41187124/article/details/157511402",
+      "hot_value": "1.7w",
+      "extra": {
+        "article_id": "157511402",
+        "author": "Jinkxs",
+        "comment_count": "51",
+        "view_count": "955"
+      }
+    },
+    {
+      "index": 6,
+      "title": "【AI】高效交互的艺术：AI提示工程与大模型对话指南",
+      "url": "https://blog.csdn.net/2401_87342824/article/details/159045256",
+      "hot_value": "1.7w",
+      "extra": {
+        "article_id": "159045256",
+        "author": "小龙报",
+        "comment_count": "30",
+        "view_count": "627"
+      }
+    },
+    {
+      "index": 7,
+      "title": "实战教程：Leaflet+SpringBoot 实现地图任意点位点击查看时间功能",
+      "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/159054409",
+      "hot_value": "1.6w",
+      "extra": {
+        "article_id": "159054409",
+        "author": "夜郎king",
+        "comment_count": "37",
+        "view_count": "574"
+      }
+    },
+    {
+      "index": 8,
+      "title": "GTC2026前瞻（二）Agentic AI 与开源模型篇+（三）Physical AI 与机器人篇",
+      "url": "https://blog.csdn.net/kkiron/article/details/159125109",
+      "hot_value": "1.5w",
+      "extra": {
+        "article_id": "159125109",
+        "author": "Allen_Lyb",
+        "comment_count": "23",
+        "view_count": "296"
+      }
+    },
+    {
+      "index": 9,
+      "title": "清华团队首发OpenClaw研究报告：AI智能体生态闭环全解析",
+      "url": "https://blog.csdn.net/m0_58782205/article/details/159128787",
+      "hot_value": "1.3w",
+      "extra": {
+        "article_id": "159128787",
+        "author": "予枫的编程笔记",
+        "comment_count": "46",
+        "view_count": "756"
+      }
+    },
+    {
+      "index": 10,
+      "title": "【HarmonyOS 6.0】Media Kit：细粒度控制屏幕捕获，详解图像填充模式C API",
+      "url": "https://blog.csdn.net/weixin_74809706/article/details/158932127",
+      "hot_value": "1.3w",
+      "extra": {
+        "article_id": "158932127",
+        "author": "枫叶丹4",
+        "comment_count": "25",
+        "view_count": "157"
+      }
+    },
+    {
+      "index": 11,
+      "title": "2026年3月UU远程副屏功能测评：平板设备秒变高效工作台",
+      "url": "https://blog.csdn.net/2503_91389547/article/details/159160655",
+      "hot_value": "1.2w",
+      "extra": {
+        "article_id": "159160655",
+        "author": "草莓熊Lotso",
+        "comment_count": "24",
+        "view_count": "201"
+      }
+    },
+    {
+      "index": 12,
+      "title": "数据库迁移 TCO 全景账本：MySQL 替代中的隐性成本与工程化工具链实测",
+      "url": "https://blog.csdn.net/2302_78391795/article/details/159113142",
+      "hot_value": "1.1w",
+      "extra": {
+        "article_id": "159113142",
+        "author": "倔强的石头_",
+        "comment_count": "34",
+        "view_count": "13070"
+      }
+    },
+    {
+      "index": 13,
+      "title": "Go channel 深入解析",
+      "url": "https://blog.csdn.net/2302_80067378/article/details/159053964",
+      "hot_value": "9288",
+      "extra": {
+        "article_id": "159053964",
+        "author": "ん贤",
+        "comment_count": "48",
+        "view_count": "1266"
+      }
+    },
+    {
+      "index": 14,
+      "title": "自适应图像变焦与边界框变换用于无人机目标检测",
+      "url": "https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/159051546",
+      "hot_value": "8861",
+      "extra": {
+        "article_id": "159051546",
+        "author": "AI浩",
+        "comment_count": "0",
+        "view_count": "658"
+      }
+    },
+    {
+      "index": 15,
+      "title": "Kafka Partition 深度解析：数据分片的艺术与性能之舞",
+      "url": "https://blog.csdn.net/qq_41840843/article/details/158541975",
+      "hot_value": "8710",
+      "extra": {
+        "article_id": "158541975",
+        "author": "Seal^_^",
+        "comment_count": "27",
+        "view_count": "1341"
+      }
+    },
+    {
+      "index": 16,
+      "title": "AI Agent 开发学习 --- 构建软件团队智能体（二）",
+      "url": "https://blog.csdn.net/m0_52409770/article/details/159128964",
+      "hot_value": "8634",
+      "extra": {
+        "article_id": "159128964",
+        "author": "wincheshe",
+        "comment_count": "0",
+        "view_count": "373"
+      }
+    },
+    {
+      "index": 17,
+      "title": "UnityMCP+Claude+VSCode，构建最强AI游戏开发环境",
+      "url": "https://blog.csdn.net/zhangay1998/article/details/159155494",
+      "hot_value": "8215",
+      "extra": {
+        "article_id": "159155494",
+        "author": "呆呆敲代码的小Y",
+        "comment_count": "22",
+        "view_count": "269"
+      }
+    },
+    {
+      "index": 18,
+      "title": "视觉Transformer实战 | Cross-Attention Multi-Scale Vision Transformer（CrossViT）详解与实现",
+      "url": "https://blog.csdn.net/LOVEmy134611/article/details/149259084",
+      "hot_value": "6099",
+      "extra": {
+        "article_id": "149259084",
+        "author": "盼小辉丶",
+        "comment_count": "3",
+        "view_count": "332"
+      }
+    },
+    {
+      "index": 19,
+      "title": "LangChain 消息处理全解析：缓存、过滤、合并与流式输出实战",
+      "url": "https://blog.csdn.net/2401_82648291/article/details/158703510",
+      "hot_value": "6042",
+      "extra": {
+        "article_id": "158703510",
+        "author": "羑悻的小杀马特.",
+        "comment_count": "45",
+        "view_count": "2530"
+      }
+    },
+    {
+      "index": 20,
+      "title": "时序数据库选型指南：从架构演进看Apache IoTDB的工业级优势",
+      "url": "https://blog.csdn.net/lrq13965748542/article/details/159132288",
+      "hot_value": "5704",
+      "extra": {
+        "article_id": "159132288",
+        "author": "云边有个稻草人",
+        "comment_count": "5",
+        "view_count": "347"
+      }
+    },
+    {
+      "index": 21,
+      "title": "【数据库】复杂查询，从84ms到0.14ms：一次JOIN条件下推，让复杂查询性能暴涨600倍",
+      "url": "https://blog.csdn.net/lmy_520/article/details/159053896",
+      "hot_value": "5528",
+      "extra": {
+        "article_id": "159053896",
+        "author": "全栈小5",
+        "comment_count": "15",
+        "view_count": "14164"
+      }
+    },
+    {
+      "index": 22,
+      "title": "【花雕学编程】Arduino BLDC 之机器人IMU角度读取 + PID控制 + 互补滤波",
+      "url": "https://blog.csdn.net/weixin_41659040/article/details/159112235",
+      "hot_value": "5520",
+      "extra": {
+        "article_id": "159112235",
+        "author": "驴友花雕",
+        "comment_count": "4",
+        "view_count": "441"
+      }
+    },
+    {
+      "index": 23,
+      "title": "开源智能体搭建平台MaxKB4j 技术文档",
+      "url": "https://blog.csdn.net/weixin_40986713/article/details/159156828",
+      "hot_value": "5510",
+      "extra": {
+        "article_id": "159156828",
+        "author": "泰山AI",
+        "comment_count": "1",
+        "view_count": "346"
+      }
+    },
+    {
+      "index": 24,
+      "title": "学习threejs，使用EffectComposer后期处理组合器（采用RenderPass、ShaderPass、UnrealBloomPass渲染通道），打造夜间驾车炫酷效果",
+      "url": "https://blog.csdn.net/qq_28419035/article/details/159125394",
+      "hot_value": "5197",
+      "extra": {
+        "article_id": "159125394",
+        "author": "gis分享者",
+        "comment_count": "32",
+        "view_count": "416"
+      }
+    },
+    {
+      "index": 25,
+      "title": "Makefile构建哲学：从依赖推导到自动化编译，掌握大型项目的构建逻辑，告别手动编译焦虑",
+      "url": "https://blog.csdn.net/2501_91617454/article/details/157582381",
+      "hot_value": "4395",
+      "extra": {
+        "article_id": "157582381",
+        "author": "雾忱星",
+        "comment_count": "103",
+        "view_count": "1449"
+      }
+    }
+  ],
+  "_updated_at": "2026-03-17T14:07:29Z",
+  "_type": "csdn"
+}

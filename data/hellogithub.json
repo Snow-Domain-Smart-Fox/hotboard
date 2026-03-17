@@ -1,0 +1,288 @@
+{
+  "type": "hellogithub",
+  "update_time": "2026-03-17 21:44:13",
+  "list": [
+    {
+      "index": 1,
+      "title": "从零开始动手实现 AI Agent",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "hot_value": "5576",
+      "extra": {
+        "author": "shareAI-lab",
+        "full_name": "shareAI-lab/learn-claude-code",
+        "item_id": "cd100d360d8e4e62a16108c9b77a6b80",
+        "primary_lang": "TypeScript",
+        "summary": "该项目是讲解如何从零构建类似 Claude Code 的 AI Agent 工具，共计 12 节课，每节课都有一个可运行的 Python 文件。内容从最基础的 ",
+        "updated_at": "2026-02-28T08:10:09"
+      }
+    },
+    {
+      "index": 2,
+      "title": "现象级的个人 AI 助手",
+      "url": "https://github.com/openclaw/openclaw",
+      "hot_value": "5234",
+      "extra": {
+        "author": "openclaw",
+        "full_name": "openclaw/openclaw",
+        "item_id": "fc36441992724e1e8dc51fd7aa350207",
+        "primary_lang": "TypeScript",
+        "summary": "这是一款用 TypeScript 开发的开源个人 AI 助手，可快速部署在 macOS、Windows 和 Linux 系统，并支持通过 WhatsApp、Te",
+        "updated_at": "2026-02-28T08:10:09"
+      }
+    },
+    {
+      "index": 3,
+      "title": "基于 LLM 的智能股票分析系统",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "hot_value": "3256",
+      "extra": {
+        "author": "ZhuLinsen",
+        "full_name": "ZhuLinsen/daily_stock_analysis",
+        "item_id": "6daa16e405ce46ed97b4a57706aeb29f",
+        "primary_lang": "Python",
+        "summary": "这是一个由 LLM 驱动的智能股票分析工具，支持 A 股、港股和美股的每日自动分析与推送。它通过 AkShare、Tushare、YFinance 等数据源获取",
+        "updated_at": "2026-02-28T08:10:09"
+      }
+    },
+    {
+      "index": 4,
+      "title": "Claude 官方开源的 Skills 教程",
+      "url": "https://github.com/anthropics/skills",
+      "hot_value": "2415",
+      "extra": {
+        "author": "anthropics",
+        "full_name": "anthropics/skills",
+        "item_id": "7a864f9749604b42a7bf8bd8aa735129",
+        "primary_lang": "Python",
+        "summary": "该项目是 Anthropic 官方开源的 Agent Skills 仓库，介绍如何通过标准化的 SKILL.md 文件结构，将提示词和工具调用封装为插件形式，为",
+        "updated_at": "2026-02-28T08:10:09"
+      }
+    },
+    {
+      "index": 5,
+      "title": "开箱即用的 Windows 系统优化工具",
+      "url": "https://github.com/memstechtips/Winhance",
+      "hot_value": "2612",
+      "extra": {
+        "author": "memstechtips",
+        "full_name": "memstechtips/Winhance",
+        "item_id": "e89283ed6162421ea152f0d5a22ae796",
+        "primary_lang": "C#",
+        "summary": "这是一款基于 C# 开发的 Windows 10/11 一站式系统优化工具，无需重装系统即可定制、精简系统。它集成了软件管理、系统优化、界面定制等功能，支持一键",
+        "updated_at": "2026-02-28T08:10:09"
+      }
+    },
+    {
+      "index": 6,
+      "title": "Rust 写的实时 ASCII 天气动画",
+      "url": "https://github.com/Veirt/weathr",
+      "hot_value": "1811",
+      "extra": {
+        "author": "Veirt",
+        "full_name": "Veirt/weathr",
+        "item_id": "99b56746d94c4c9eae09788de133f310",
+        "primary_lang": "Rust",
+        "summary": "这是一款用 Rust 编写的终端查看天气工具，可通过 ASCII 动画实时展示当前天气情况，支持下雨、下雪、闪电和昼夜变化等动画效果。",
+        "updated_at": "2026-02-28T08:10:09"
+      }
+    },
+    {
+      "index": 7,
+      "title": "Windows 鼠标特效增强工具",
+      "url": "https://github.com/sqmw/MFCMouseEffect",
+      "hot_value": "1302",
+      "extra": {
+        "author": "sqmw",
+        "full_name": "sqmw/MFCMouseEffect",
+        "item_id": "a279979de0044ec396d168957a374ba1",
+        "primary_lang": "C++",
+        "summary": "这是一款轻量级的 Windows 桌面鼠标/光标特效工具，支持点击波纹、粒子拖尾、悬停发光、漂浮文字等多种鼠标特效。",
+        "updated_at": "2026-02-28T08:10:09"
+      }
+    },
+    {
+      "index": 8,
+      "title": "只需一句话即可创造你的专属智能体",
+      "url": "https://github.com/ModelEngine-Group/nexent",
+      "hot_value": "1850",
+      "extra": {
+        "author": "ModelEngine-Group",
+        "full_name": "ModelEngine-Group/nexent",
+        "item_id": "99932c00b692483a8439b04f8858b39f",
+        "primary_lang": "Python",
+        "summary": "这是一款开源的零代码智能体自动生成平台，无需编程基础或复杂的流程图编排，通过自然语言描述需求即可快速创建 AI 智能体。它内置了数据处理引擎，能够自动处理 20",
+        "updated_at": "2026-03-03T09:32:14"
+      }
+    },
+    {
+      "index": 9,
+      "title": "AI 驱动的修仙世界模拟器",
+      "url": "https://github.com/4thfever/cultivation-world-simulator",
+      "hot_value": "5926",
+      "extra": {
+        "author": "4thfever",
+        "full_name": "4thfever/cultivation-world-simulator",
+        "item_id": "d0d75240fb95445bba1d7af7574d8420",
+        "primary_lang": "Python",
+        "summary": "这是一款基于 LLM 的修仙模拟器游戏，不同于传统 RPG，游戏内的 NPC 均是 AI 智能体，有独立的性格、记忆和行为逻辑，而玩家在游戏中扮演“天道”，以上",
+        "updated_at": "2026-01-28T08:10:57"
+      }
+    },
+    {
+      "index": 10,
+      "title": "当个人主页变成 3D 游戏",
+      "url": "https://github.com/brunosimon/folio-2025",
+      "hot_value": "1358",
+      "extra": {
+        "author": "brunosimon",
+        "full_name": "brunosimon/folio-2025",
+        "item_id": "3bdde3ad6226495099b02115111cafad",
+        "primary_lang": "JavaScript",
+        "summary": "该项目是前端大神 Bruno Simon 的开源新作，他将个人主页打造成一个可以驾车探索的沉浸式 3D 开放世界游戏，融入了物理模拟、天气系统、植被、昼夜交替等",
+        "updated_at": "2026-02-28T08:10:09"
+      }
+    },
+    {
+      "index": 11,
+      "title": "无需上传文件的 PDF 全能工具箱",
+      "url": "https://github.com/PDFCraftTool/pdfcraft",
+      "hot_value": "3528",
+      "extra": {
+        "author": "PDFCraftTool",
+        "full_name": "PDFCraftTool/pdfcraft",
+        "item_id": "8dcce88021b0459f81d0a14007d547ba",
+        "primary_lang": "JavaScript",
+        "summary": "这是一款基于 Next.js 和 WebAssembly 构建的开源 PDF 工具箱，所有文件操作均在本地浏览器内完成，无需上传到外部服务器。它提供节点式编排 ",
+        "updated_at": "2026-01-28T08:10:57"
+      }
+    },
+    {
+      "index": 12,
+      "title": "开源的 AI 手机自动化助手",
+      "url": "https://github.com/Turbo1123/roubao",
+      "hot_value": "4373",
+      "extra": {
+        "author": "Turbo1123",
+        "full_name": "Turbo1123/roubao",
+        "item_id": "e252a098a6dc4bf68f307c82943c5e45",
+        "primary_lang": "Kotlin",
+        "summary": "这是一款开源的 Android AI 手机自动化助手，无需电脑即可让用户通过自然语言指令操控手机自动完成任务。它基于视觉语言模型识别屏幕截图，结合委托执行或 G",
+        "updated_at": "2026-01-28T08:10:57"
+      }
+    },
+    {
+      "index": 13,
+      "title": "本地运行的智能知识库搜索工具",
+      "url": "https://github.com/tobi/qmd",
+      "hot_value": "1473",
+      "extra": {
+        "author": "tobi",
+        "full_name": "tobi/qmd",
+        "item_id": "7a1c76f835c34c8a846f81642a09a4af",
+        "primary_lang": "TypeScript",
+        "summary": "这是一款完全本地运行的智能搜索引擎，可用于检索个人文档、知识库、会议记录和 Markdown 文件。它集成了本地运行轻量化模型、BM25 全文检索、向量语义搜索",
+        "updated_at": "2026-02-28T08:10:09"
+      }
+    },
+    {
+      "index": 14,
+      "title": "一键将 macOS 应用迁移到外部硬盘",
+      "url": "https://github.com/wzh4869/AppPorts",
+      "hot_value": "381",
+      "extra": {
+        "author": "wzh4869",
+        "full_name": "wzh4869/AppPorts",
+        "item_id": "9bc7259839c740faa2246ee5f10bc786",
+        "primary_lang": "Swift",
+        "summary": "该项目通过 Contents 链接的方式，将 macOS 应用迁移到外部存储设备（移动硬盘、SD 卡或 NAS），并在原位置保留应用入口，让用户能够像之前一样启",
+        "updated_at": "2026-02-28T08:10:09"
+      }
+    },
+    {
+      "index": 15,
+      "title": "终端里的高速下载工具",
+      "url": "https://github.com/surge-downloader/Surge",
+      "hot_value": "1212",
+      "extra": {
+        "author": "surge-downloader",
+        "full_name": "surge-downloader/Surge",
+        "item_id": "bba08609d7194ebbb01bfc4678e5b5c9",
+        "primary_lang": "Go",
+        "summary": "这是一款采用 Go 语言开发的终端下载工具，可将下载文件自动切分为多个数据块并行下载，支持从多个镜像源下载、自动故障转移、顺序下载模式等功能。",
+        "updated_at": "2026-02-28T08:10:09"
+      }
+    },
+    {
+      "index": 16,
+      "title": "基于 Cloudflare 的轻量级邮箱服务",
+      "url": "https://github.com/maillab/cloud-mail",
+      "hot_value": "661",
+      "extra": {
+        "author": "maillab",
+        "full_name": "maillab/cloud-mail",
+        "item_id": "1b1da1f9ae4c4175baa3d762b4e0ba41",
+        "primary_lang": "JavaScript",
+        "summary": "这是一款基于 Cloudflare 的轻量级、响应式邮箱服务，只需一个域名即可在 Cloudflare Workers 上低成本快速搭建邮件服务平台，支持群发、",
+        "updated_at": "2026-02-28T08:10:09"
+      }
+    },
+    {
+      "index": 17,
+      "title": "开源的键鼠统计工具",
+      "url": "https://github.com/debugtheworldbot/keyStats",
+      "hot_value": "2430",
+      "extra": {
+        "author": "debugtheworldbot",
+        "full_name": "debugtheworldbot/keyStats",
+        "item_id": "7ea63f77647141a2bad1f8346c3738b3",
+        "primary_lang": "Swift",
+        "summary": "这是一款轻量级的 macOS/Windows 应用，在不记录具体输入内容的前提下，量化用户的输入行为，支持统计键盘敲击次数、鼠标点击次数、鼠标移动和滚动距离。",
+        "updated_at": "2026-01-28T08:10:57"
+      }
+    },
+    {
+      "index": 18,
+      "title": "新一代 AI 模型聚合管理与分发系统",
+      "url": "https://github.com/QuantumNous/new-api",
+      "hot_value": "4244",
+      "extra": {
+        "author": "QuantumNous",
+        "full_name": "QuantumNous/new-api",
+        "item_id": "539ac4217e69431684ad4a0bab768811",
+        "primary_lang": "Go",
+        "summary": "该项目是基于 One API 二次开发的 AI 模型接口管理与分发平台。它将 OpenAl、Claude、Gemini、DeepSeek 等多种主流大模型与 A",
+        "updated_at": "2026-01-28T08:10:57"
+      }
+    },
+    {
+      "index": 19,
+      "title": "免费开源的动作捕捉系统",
+      "url": "https://github.com/freemocap/freemocap",
+      "hot_value": "1064",
+      "extra": {
+        "author": "freemocap",
+        "full_name": "freemocap/freemocap",
+        "item_id": "ef01295189f047afb41dbc8eb01bfd20",
+        "primary_lang": "Python",
+        "summary": "这是一款基于 Python 开发的动作捕捉系统，无需标记点和 GPU，仅用普通摄像头即可实现全身 3D 动作数据采集，适用于动画制作、游戏开发和教育等场景。",
+        "updated_at": "2026-02-28T08:10:09"
+      }
+    },
+    {
+      "index": 20,
+      "title": "用手机操控 Claude Code 和 Codex",
+      "url": "https://github.com/slopus/happy",
+      "hot_value": "2755",
+      "extra": {
+        "author": "slopus",
+        "full_name": "slopus/happy",
+        "item_id": "9d6ac70b021b4a418e47c4aea9a03cd3",
+        "primary_lang": "TypeScript",
+        "summary": "这是一款可以远程操作 Claude Code 或 Codex 的工具，让你随时随地通过手机查看和远程控制 AI 编程助手，提供了 iOS、Android 和 W",
+        "updated_at": "2026-01-28T08:10:57"
+      }
+    }
+  ],
+  "_updated_at": "2026-03-17T14:07:28Z",
+  "_type": "hellogithub"
+}
