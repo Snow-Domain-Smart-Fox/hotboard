@@ -1,195 +1,194 @@
 {
   "type": "huxiu",
-  "update_time": "2026-03-17T13:42:14.193Z",
+  "update_time": "2026-03-18T09:57:50.973Z",
   "list": [
     {
       "index": 1,
-      "title": "AI，正在吞噬所有软件",
-      "url": "https://www.huxiu.com/article/4842738.html",
-      "hot_value": "收藏:76 评论:8",
+      "title": "AI正在替代研究员",
+      "url": "https://www.huxiu.com/article/4842845.html",
+      "hot_value": "收藏:108 评论:9",
       "extra": {
-        "author": "数字生命卡兹克©",
-        "author_avatar": "https://img.huxiucdn.com/img/user/202312/21/210312797199.JPG",
-        "channel": "前沿科技",
-        "comment_num": 8,
-        "cover": "https://img.huxiucdn.com/ai/ai-general-cover/202603/17/13792-prod-kl-general-1-1773713673244.png",
-        "favorite_num": 76,
-        "id": "4842738",
-        "summary": "每一次重大的技术变革，本质上做的都是同一件事，提高信息的流转效率，消灭中间层",
+        "author": "远川投资评论",
+        "author_avatar": "https://img.huxiucdn.com/auth/data/avatar/002/73/71/14_1592969016.jpg",
+        "channel": "金融财经",
+        "comment_num": 9,
+        "cover": "https://img.huxiucdn.com/ai/ai-article-cover/202603/17/4842845-prod-1-jmv2-2.png",
+        "favorite_num": 108,
+        "id": "4842845",
+        "summary": "私募行业的底特律变人时刻",
         "type": "focus"
       }
     },
     {
       "index": 2,
-      "title": "韩国芯片，赚麻了",
-      "url": "https://www.huxiu.com/article/4842912.html",
-      "hot_value": "收藏:7 评论:1",
+      "title": "逆风局的OpenAI开启战略收缩",
+      "url": "https://www.huxiu.com/article/4843182.html",
+      "hot_value": "收藏:4 评论:0",
       "extra": {
-        "author": "华商韬略",
-        "author_avatar": "https://img.huxiucdn.com/auth/data/avatar/001/52/69/71_1474272306.jpg",
+        "author": "赵致格",
+        "author_avatar": "https://img.huxiucdn.com/auth/data/avatar/013/96/31/58_1772265648.jpeg",
         "channel": "前沿科技",
-        "comment_num": 1,
-        "cover": "https://img.huxiucdn.com/ai/ai-general-cover/202603/17/13866-prod-jm-general-1-1773742848426.png",
-        "favorite_num": 7,
-        "id": "4842912",
-        "summary": "",
+        "comment_num": 0,
+        "cover": "https://img.huxiucdn.com/article/cover/202603/18/153740548428.jpg",
+        "favorite_num": 4,
+        "id": "4843182",
+        "summary": "OpenAI开启战略收缩",
         "type": "focus"
       }
     },
     {
       "index": 3,
-      "title": "3针6万元“神药”翻车以后，百亿抗衰市场如何重生？",
-      "url": "https://www.huxiu.com/article/4842943.html",
-      "hot_value": "收藏:4 评论:0",
+      "title": "GPU撑不起万亿野心，英伟达正在“格式化”数据中心",
+      "url": "https://www.huxiu.com/article/4842740.html",
+      "hot_value": "收藏:2 评论:0",
       "extra": {
-        "author": "陈广晶",
-        "author_avatar": "https://img.huxiucdn.com/auth/data/avatar/003/28/23/10_1647584922.jpeg",
-        "channel": "医疗",
+        "author": "梁卡尔",
+        "author_avatar": "https://img.huxiucdn.com/auth/data/avatar/013/97/73/47_1771914533.jpg",
+        "channel": "前沿科技",
         "comment_num": 0,
-        "cover": "https://img.huxiucdn.com/article/cover/202603/17/184842496175.jpg",
-        "favorite_num": 4,
-        "id": "4842943",
-        "summary": "悲剧不该一再上演。",
+        "cover": "https://img.huxiucdn.com/article/cover/202603/17/101128536003.jpg",
+        "favorite_num": 2,
+        "id": "4842740",
+        "summary": "后来者都只能在英伟达的阴影里",
         "type": "focus"
       }
     },
     {
       "index": 4,
-      "title": "暴力裁员1.6万",
-      "url": "https://www.huxiu.com/article/4842241.html",
-      "hot_value": "收藏:61 评论:20",
-      "extra": {
-        "author": "格隆",
-        "author_avatar": "",
-        "channel": "",
-        "comment_num": 20,
-        "cover": "https://img.huxiucdn.com/article/cover/202603/16/065918239450.jpg",
-        "favorite_num": 61,
-        "id": "4842241",
-        "summary": "",
-        "type": "hot"
-      }
-    },
-    {
-      "index": 5,
-      "title": "大城市发好货，农村发烂货，这才是今年315最该被整顿的",
-      "url": "https://www.huxiu.com/article/4842035.html",
-      "hot_value": "收藏:93 评论:29",
-      "extra": {
-        "author": "三联生活实验室",
-        "author_avatar": "",
-        "channel": "",
-        "comment_num": 29,
-        "cover": "https://img.huxiucdn.com/article/cover/202603/15/105951536271.jpg",
-        "favorite_num": 93,
-        "id": "4842035",
-        "summary": "",
-        "type": "hot"
-      }
-    },
-    {
-      "index": 6,
-      "title": "当尺寸成为男人的容貌焦虑：私密整形医生的2000例观察",
-      "url": "https://www.huxiu.com/article/4841547.html",
-      "hot_value": "收藏:63 评论:6",
-      "extra": {
-        "author": "十点人物志",
-        "author_avatar": "",
-        "channel": "",
-        "comment_num": 6,
-        "cover": "https://img.huxiucdn.com/article/cover/202603/13/163026117846.jpg",
-        "favorite_num": 63,
-        "id": "4841547",
-        "summary": "",
-        "type": "hot"
-      }
-    },
-    {
-      "index": 7,
-      "title": "全球口碑最好游轮，被中国人骂惨了",
-      "url": "https://www.huxiu.com/article/4842312.html",
-      "hot_value": "收藏:34 评论:4",
-      "extra": {
-        "author": "旅界",
-        "author_avatar": "",
-        "channel": "",
-        "comment_num": 4,
-        "cover": "https://img.huxiucdn.com/article/cover/202603/16/075915174878.jpg",
-        "favorite_num": 34,
-        "id": "4842312",
-        "summary": "",
-        "type": "hot"
-      }
-    },
-    {
-      "index": 8,
       "title": "中国农村的真实情况",
       "url": "https://www.huxiu.com/article/4841884.html",
-      "hot_value": "收藏:88 评论:7",
+      "hot_value": "收藏:106 评论:13",
       "extra": {
         "author": "李子旸©",
         "author_avatar": "",
         "channel": "",
-        "comment_num": 7,
+        "comment_num": 13,
         "cover": "https://img.huxiucdn.com/ai/ai-article-cover/202603/15/4841884-prod-db-1.png",
-        "favorite_num": 88,
+        "favorite_num": 106,
         "id": "4841884",
         "summary": "",
         "type": "hot"
       }
     },
     {
-      "index": 9,
+      "index": 5,
       "title": "独家 | 阿里再放大招，围绕Token成立事业群，吴泳铭亲自带",
       "url": "https://www.huxiu.com/article/4842495.html",
-      "hot_value": "收藏:52 评论:3",
+      "hot_value": "收藏:60 评论:4",
       "extra": {
         "author": "苗正卿",
         "author_avatar": "",
         "channel": "",
-        "comment_num": 3,
+        "comment_num": 4,
         "cover": "https://img.huxiucdn.com/article/cover/202603/16/161349774803.jpg",
-        "favorite_num": 52,
+        "favorite_num": 60,
         "id": "4842495",
         "summary": "",
         "type": "hot"
       }
     },
     {
-      "index": 10,
-      "title": "被315点名的万亿隐秘生意：“污染”DeepSeek",
-      "url": "https://www.huxiu.com/article/4842275.html",
-      "hot_value": "收藏:46 评论:9",
+      "index": 6,
+      "title": "全球口碑最好游轮，被中国人骂惨了",
+      "url": "https://www.huxiu.com/article/4842312.html",
+      "hot_value": "收藏:40 评论:5",
       "extra": {
-        "author": "凤凰网科技",
+        "author": "旅界",
+        "author_avatar": "",
+        "channel": "",
+        "comment_num": 5,
+        "cover": "https://img.huxiucdn.com/article/cover/202603/16/075915174878.jpg",
+        "favorite_num": 40,
+        "id": "4842312",
+        "summary": "",
+        "type": "hot"
+      }
+    },
+    {
+      "index": 7,
+      "title": "AI，正在吞噬所有软件",
+      "url": "https://www.huxiu.com/article/4842738.html",
+      "hot_value": "收藏:118 评论:9",
+      "extra": {
+        "author": "数字生命卡兹克©",
         "author_avatar": "",
         "channel": "",
         "comment_num": 9,
-        "cover": "https://img.huxiucdn.com/ai/ai-general-cover/202603/15/13557-prod-db-general-1-1773583284156.png",
-        "favorite_num": 46,
-        "id": "4842275",
+        "cover": "https://img.huxiucdn.com/ai/ai-general-cover/202603/17/13792-prod-kl-general-1-1773713673244.png",
+        "favorite_num": 118,
+        "id": "4842738",
+        "summary": "",
+        "type": "hot"
+      }
+    },
+    {
+      "index": 8,
+      "title": "高净值老外，为何突然涌入上海？",
+      "url": "https://www.huxiu.com/article/4842696.html",
+      "hot_value": "收藏:49 评论:10",
+      "extra": {
+        "author": "旅界",
+        "author_avatar": "",
+        "channel": "",
+        "comment_num": 10,
+        "cover": "https://img.huxiucdn.com/article/cover/202603/17/081645360222.jpg",
+        "favorite_num": 49,
+        "id": "4842696",
+        "summary": "",
+        "type": "hot"
+      }
+    },
+    {
+      "index": 9,
+      "title": "伊朗，坐拥中国6倍资源的乞丐",
+      "url": "https://www.huxiu.com/article/4842591.html",
+      "hot_value": "收藏:52 评论:8",
+      "extra": {
+        "author": "地球知识局",
+        "author_avatar": "",
+        "channel": "",
+        "comment_num": 8,
+        "cover": "https://img.huxiucdn.com/article/cover/202603/17/085408855745.jpg",
+        "favorite_num": 52,
+        "id": "4842591",
+        "summary": "",
+        "type": "hot"
+      }
+    },
+    {
+      "index": 10,
+      "title": "315没有汽车，以后也不会有了",
+      "url": "https://www.huxiu.com/article/4842342.html",
+      "hot_value": "收藏:18 评论:13",
+      "extra": {
+        "author": "BusinessCars©",
+        "author_avatar": "",
+        "channel": "",
+        "comment_num": 13,
+        "cover": "https://img.huxiucdn.com/ai/ai-general-cover/202603/16/13599-prod-jm-general-1-1773625573605.png",
+        "favorite_num": 18,
+        "id": "4842342",
         "summary": "",
         "type": "hot"
       }
     },
     {
       "index": 11,
-      "title": "又一家锂电企业，倒在春天里",
-      "url": "https://www.huxiu.com/article/4842171.html",
-      "hot_value": "收藏:27 评论:1",
+      "title": "开战容易，停战难",
+      "url": "https://www.huxiu.com/article/4842557.html",
+      "hot_value": "收藏:26 评论:2",
       "extra": {
-        "author": "融中财经",
+        "author": "太阳照常升起©",
         "author_avatar": "",
         "channel": "",
-        "comment_num": 1,
-        "cover": "https://img.huxiucdn.com/ai/ai-general-cover/202603/15/13501-prod-kl-general-1-1773542072920.png",
-        "favorite_num": 27,
-        "id": "4842171",
+        "comment_num": 2,
+        "cover": "https://img.huxiucdn.com/ai/ai-article-cover/202603/16/4842557-prod-db-1.png",
+        "favorite_num": 26,
+        "id": "4842557",
         "summary": "",
         "type": "hot"
       }
     }
   ],
-  "_updated_at": "2026-03-17T14:07:44Z",
-  "_type": "huxiu"
+  "_synced_at": "2026-03-18T10:40:24Z"
 }

@@ -1,6 +1,6 @@
 {
   "type": "genshin",
-  "update_time": "2026-03-17T09:38:00.157Z",
+  "update_time": "2026-03-18T04:22:49.365Z",
   "list": [
     {
       "index": 1,
@@ -143,6 +143,5 @@
       "extra": null
     }
   ],
-  "_updated_at": "2026-03-17T14:07:35Z",
-  "_type": "genshin"
+  "_synced_at": "2026-03-18T10:40:39Z"
 }

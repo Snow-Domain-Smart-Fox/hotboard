@@ -1,14 +1,14 @@
 {
   "type": "51cto",
-  "update_time": "2026-03-17T13:43:04.478Z",
+  "update_time": "2026-03-18T09:33:06.130Z",
   "list": [
     {
       "index": 1,
-      "title": "Vite+ 正式发布！前端 \"大一统\" 时代来了！",
-      "url": "https://www.51cto.com/article/838150.html",
+      "title": "从2天到5分钟：搞定Java服务监控，Netdata这波操作我给满分！！",
+      "url": "https://www.51cto.com/article/838328.html",
       "hot_value": "",
       "extra": {
-        "description": "JavaScript 生态一直以来的问题就是：工具太多，组合太复杂。而 Vite+ 希望提供一种新的方式：默认工具链。"
+        "description": "今天我就带大伙儿从头到尾体验一遍，怎么用 Netdata 把 Java 应用伺候得明明白白。顺便让你看看，什么叫“监控界的小米”——颜值高、配置低、价格免费。"
       }
     },
     {
@@ -22,15 +22,6 @@
     },
     {
       "index": 3,
-      "title": "#星光计划4.0# HarmonyOS 6.0 PC 实战：构建一款高性能番茄钟与任务计时器",
-      "url": "https://ost.51cto.com/posts/39190#24read",
-      "hot_value": "",
-      "extra": {
-        "description": ""
-      }
-    },
-    {
-      "index": 4,
       "title": "装好 OpenClaw 后，第三件必干的是这件事！",
       "url": "https://www.51cto.com/article/838139.html",
       "hot_value": "",
@@ -39,16 +30,7 @@
       }
     },
     {
-      "index": 5,
-      "title": "鸿蒙多模输入开发指南：从监听事件到管理设备，全方位掌握MultiModalInput",
-      "url": "https://ost.51cto.com/posts/39189#24read",
-      "hot_value": "",
-      "extra": {
-        "description": ""
-      }
-    },
-    {
-      "index": 6,
+      "index": 4,
       "title": "OpenClaw到底能干嘛？分享30个落地案例",
       "url": "https://www.51cto.com/article/838159.html",
       "hot_value": "",
@@ -57,9 +39,27 @@
       }
     },
     {
-      "index": 7,
+      "index": 5,
+      "title": "阿里联手中山大学放狠话：75%的Agent都在造“屎山”！233天连环大测，代码库全崩了！自研新基准：GLM表现亮眼！网友：程序员饭碗保住了！",
+      "url": "https://www.51cto.com/article/838382.html",
+      "hot_value": "",
+      "extra": {
+        "description": ""
+      }
+    },
+    {
+      "index": 6,
       "title": "Transformer祖制，被Kimi捅破了！谷歌大V高赞：Kimi触碰了十年没人敢碰的禁区！性能炸裂，相当于免费得1.25倍算力，网友：简直天才洞察",
       "url": "https://www.51cto.com/article/838292.html",
+      "hot_value": "",
+      "extra": {
+        "description": ""
+      }
+    },
+    {
+      "index": 7,
+      "title": "玩转OpenClaw | 基于Linux 系统OpenClaw本地部署实践指南",
+      "url": "https://blog.51cto.com/u_14664141/14510450",
       "hot_value": "",
       "extra": {
         "description": ""
@@ -93,6 +93,5 @@
       }
     }
   ],
-  "_updated_at": "2026-03-17T14:07:35Z",
-  "_type": "51cto"
+  "_synced_at": "2026-03-18T10:40:39Z"
 }

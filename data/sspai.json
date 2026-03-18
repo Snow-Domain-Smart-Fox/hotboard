@@ -1,22 +1,74 @@
 {
   "type": "sspai",
-  "update_time": "2026-03-17T13:16:06.945Z",
+  "update_time": "2026-03-18T10:22:55.085Z",
   "list": [
     {
       "index": 1,
+      "title": "社区速递 133 | 派友热议 AI Coding 方案、西圣 Pencil X 平替笔体验",
+      "url": "https://sspai.com/post/107466",
+      "hot_value": "评论:9 点赞:8",
+      "extra": {
+        "author": "Matrix机器人",
+        "comment_count": 9,
+        "id": 107466,
+        "like_count": 8,
+        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿的新玩意呈现给大家。💬一派热议 ..."
+      }
+    },
+    {
+      "index": 2,
+      "title": "为心脏健康持续护航，Apple Watch 房颤迹象记录软件功能上线",
+      "url": "https://sspai.com/post/107453",
+      "hot_value": "评论:11 点赞:16",
+      "extra": {
+        "author": "北鸮",
+        "comment_count": 11,
+        "id": 107453,
+        "like_count": 16,
+        "summary": "2022 年，一项名为「房颤历史记录」（AFib History）的功能随 iOS 16 与 watchOS 9 推出。如今，这项功能终于通过了国家药监局的审批，以「移动脉率房颤迹象记录软件」的形式正式在国内上线，Apple Watch Series 6 及更新机型在升级到 watchOS 26 后即可开启此功能。"
+      }
+    },
+    {
+      "index": 3,
+      "title": "投票开启｜BeatBox 盖板设计实录：用一块透明亚克力，把奇妙灵感凝成实体",
+      "url": "https://sspai.com/post/106917",
+      "hot_value": "评论:5 点赞:14",
+      "extra": {
+        "author": "听歌的水獭",
+        "comment_count": 5,
+        "id": 106917,
+        "like_count": 14,
+        "summary": "不仅仅是一块盖板最好的设计往往不是正襟危坐的苦思冥想，而是对生活平凡瞬间的细致观察。在整理BeatBox盖板设计大赛的作品时，我们发现，这块方寸之间的透明面板，正成为连接数字音乐与实体触感的桥梁。它不 ..."
+      }
+    },
+    {
+      "index": 4,
+      "title": "少数派十四周年直播：我们挑选了这四类好产品",
+      "url": "https://sspai.com/post/107428",
+      "hot_value": "评论:0 点赞:4",
+      "extra": {
+        "author": "什么陈",
+        "comment_count": 0,
+        "id": 107428,
+        "like_count": 4,
+        "summary": "每年三月，与大家聊聊我们这一年的探索与共创，已经成为少数派的传统。3月18日19:30，少数派创始人老麦将来到直播间，与大家聊聊这一年的共创历程。同时，我们也争取到了目前市面上比较稀缺的现货墨水屏，以 ..."
+      }
+    },
+    {
+      "index": 5,
       "title": "派评 | 近期值得关注的 App",
       "url": "https://sspai.com/post/107431",
-      "hot_value": "评论:20 点赞:13",
+      "hot_value": "评论:22 点赞:13",
       "extra": {
         "author": "少数派编辑部",
-        "comment_count": 20,
+        "comment_count": 22,
         "id": 107431,
         "like_count": 13,
         "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀"
       }
     },
     {
-      "index": 2,
+      "index": 6,
       "title": "TDS REVIEW｜天龙 PerL Pro 降噪真无线耳机体验",
       "url": "https://sspai.com/post/107131",
       "hot_value": "评论:2 点赞:8",
@@ -29,20 +81,33 @@
       }
     },
     {
-      "index": 3,
-      "title": "Sonos 周年团购限时开启：专属好价仅限今日",
-      "url": "https://sspai.com/post/107134",
-      "hot_value": "评论:0 点赞:6",
+      "index": 7,
+      "title": "游记｜真不想带相机 ｜ 泛亚铁路，一路向南。飞车过大关的手机摄影分享",
+      "url": "https://sspai.com/post/106909",
+      "hot_value": "评论:0 点赞:0",
       "extra": {
-        "author": "什么陈",
+        "author": "Horten",
         "comment_count": 0,
-        "id": 107134,
-        "like_count": 6,
-        "summary": "无论你是想补齐家中的最后一块音频拼图，还是第一次尝试构建无线音响系统，这都是今年不可错过的时机。"
+        "id": 106909,
+        "like_count": 0,
+        "summary": "在槟城一天吃5顿以及如此干净通透的天，​作为这趟近半个月，半出差半出游的铁路南行终点，实在是再完美不过。​习惯广东口味&云南本地胃口在东南亚似乎可以横着走，去拥抱每一个local店和挂逼摊。​一路的随 ..."
       }
     },
     {
-      "index": 4,
+      "index": 8,
+      "title": "因为身体疼痛与紧张，我做了App帮助身体「放松下来」：摩丘放松",
+      "url": "https://sspai.com/post/107343",
+      "hot_value": "评论:11 点赞:6",
+      "extra": {
+        "author": "阿布L",
+        "comment_count": 11,
+        "id": 107343,
+        "like_count": 6,
+        "summary": "我叫阿布L，前阿里巴巴程序员，目前是一名独立开发者。之前也做过一款有过万用户使用的浏览器插件。这次想分享的，是我最近做的一款iOSApp：摩丘放松它不是一款强调打卡成绩的健身App，也不是单纯的疼痛记 ..."
+      }
+    },
+    {
+      "index": 9,
       "title": "本周看什么 | 最近值得一看的 9 部作品",
       "url": "https://sspai.com/post/107183",
       "hot_value": "评论:5 点赞:9",
@@ -55,84 +120,18 @@
       }
     },
     {
-      "index": 5,
-      "title": "人类撤销了一只果蝇的死亡",
-      "url": "https://sspai.com/post/107384",
-      "hot_value": "评论:0 点赞:16",
-      "extra": {
-        "author": "lris",
-        "comment_count": 0,
-        "id": 107384,
-        "like_count": 16,
-        "summary": "一只果蝇，颠覆了我对人工智能的基本认知01一只虫子走路，让我坐直了身子2026年3月7日，加州初创公司EonSystems发布了一段几分钟的演示视频。画面里，一只果蝇在虚拟环境中行走，停下来用前腿梳理 ..."
-      }
-    },
-    {
-      "index": 6,
-      "title": "一日一技｜在镜头前翻翻页，你就得到了一本电子书",
-      "url": "https://sspai.com/post/106935",
-      "hot_value": "评论:18 点赞:60",
-      "extra": {
-        "author": "单宁酸也是Cecil",
-        "comment_count": 18,
-        "id": 106935,
-        "like_count": 60,
-        "summary": "这件事又一次提醒了我，我真正感兴趣的也许不是「如何把纸质书变成电子书」这件事本身，而是「我们到底应该把哪一步交给机器」。"
-      }
-    },
-    {
-      "index": 7,
-      "title": "探访帝国之心，吴哥旅行完全指南（上） ：行程设计",
-      "url": "https://sspai.com/post/106816",
-      "hot_value": "评论:8 点赞:34",
-      "extra": {
-        "author": "鸿苓",
-        "comment_count": 8,
-        "id": 106816,
-        "like_count": 34,
-        "summary": "2026 年的第一场旅行，我把目的地交给了暹粒，突然理解了为什么法国人会说「即使是古希腊和古罗马遗迹，在吴哥窟面前也要黯然失色。」"
-      }
-    },
-    {
-      "index": 8,
-      "title": "314 周年庆：少数派软件、会员、栏目限时优惠",
-      "url": "https://sspai.com/post/107091",
-      "hot_value": "评论:0 点赞:11",
-      "extra": {
-        "author": "福利派",
-        "comment_count": 0,
-        "id": 107091,
-        "like_count": 11,
-        "summary": "少数派即将迎来14周岁，为了与大家共同庆祝我派的生日，我们的软件商城、会员服务和付费栏目都为大家准备了丰厚的优惠。少数派会员：优惠价格享受全新权益为了让更多朋友能体验少数派会员，即日起至3月24日，少 ..."
-      }
-    },
-    {
-      "index": 9,
-      "title": "利用Resend和Workers 实现博客电子邮件订阅",
-      "url": "https://sspai.com/post/107253",
-      "hot_value": "评论:2 点赞:3",
-      "extra": {
-        "author": "纳兰音韵",
-        "comment_count": 2,
-        "id": 107253,
-        "like_count": 3,
-        "summary": "纵观提供托管newsletter的平台，比如MailerLite，它们都提供看起来非常慷慨的免费额度。一个月几万封邮件，看起来确实很有吸引力。但注册之后才会发现，最核心的RSStoEmail服务只是订 ..."
-      }
-    },
-    {
       "index": 10,
-      "title": "Notion 年度更新评测：7 个案例聊聊 Custom Agent",
-      "url": "https://sspai.com/post/106982",
-      "hot_value": "评论:10 点赞:24",
+      "title": "Sonos 周年团购限时开启：专属好价仅限今日",
+      "url": "https://sspai.com/post/107134",
+      "hot_value": "评论:0 点赞:6",
       "extra": {
-        "author": "二一的笔记",
-        "comment_count": 10,
-        "id": 106982,
-        "like_count": 24,
-        "summary": "等你尝到第一口甜头，后面的流程自然会一点点长出来。"
+        "author": "什么陈",
+        "comment_count": 0,
+        "id": 107134,
+        "like_count": 6,
+        "summary": "无论你是想补齐家中的最后一块音频拼图，还是第一次尝试构建无线音响系统，这都是今年不可错过的时机。"
       }
     }
   ],
-  "_updated_at": "2026-03-17T14:07:36Z",
-  "_type": "sspai"
+  "_synced_at": "2026-03-18T10:40:36Z"
 }

@@ -1,6 +1,6 @@
 {
   "type": "nga",
-  "update_time": "2026-03-17T13:21:39.661Z",
+  "update_time": "2026-03-18T10:15:08.897Z",
   "list": [
     {
       "index": 1,
@@ -44,16 +44,26 @@
     },
     {
       "index": 5,
-      "title": "&amp;#8203;“至暗之夜”现已正式上线！",
-      "url": "https://bbs.nga.cn/read.php?tid=46297276",
+      "title": "死亡之翼强势回归",
+      "url": "https://bbs.nga.cn/read.php?tid=46174730",
       "hot_value": "",
       "extra": {
         "category": "bliz",
-        "tid": "46297276"
+        "tid": "46174730"
       }
     },
     {
       "index": 6,
+      "title": "大地的裂变扩展包正式上线",
+      "url": "https://bbs.nga.cn/read.php?tid=46394086",
+      "hot_value": "",
+      "extra": {
+        "category": "bliz",
+        "tid": "46394086"
+      }
+    },
+    {
+      "index": 7,
       "title": "《暗黑破坏神4：憎恨之王》设计师前瞻访谈",
       "url": "https://bbs.nga.cn/read.php?tid=46311911",
       "hot_value": "",
@@ -63,7 +73,7 @@
       }
     },
     {
-      "index": 7,
+      "index": 8,
       "title": "NGA专访《暗黑破坏神4》执行制作人",
       "url": "https://bbs.nga.cn/read.php?tid=46349549",
       "hot_value": "",
@@ -73,23 +83,13 @@
       }
     },
     {
-      "index": 8,
-      "title": "魔兽12.0攻略激励活动",
-      "url": "https://bbs.nga.cn/read.php?tid=46342481",
-      "hot_value": "",
-      "extra": {
-        "category": "bliz",
-        "tid": "46342481"
-      }
-    },
-    {
       "index": 9,
-      "title": "参与活动送B站会员和周边",
-      "url": "https://bbs.nga.cn/read.php?tid=46203585",
+      "title": "克拉夫特异态学 抽书活动",
+      "url": "https://bbs.nga.cn/read.php?tid=46395460",
       "hot_value": "",
       "extra": {
         "category": "other",
-        "tid": "46203585"
+        "tid": "46395460"
       }
     },
     {
@@ -203,6 +203,5 @@
       }
     }
   ],
-  "_updated_at": "2026-03-17T14:07:36Z",
-  "_type": "ngabbs"
+  "_synced_at": "2026-03-18T10:40:25Z"
 }

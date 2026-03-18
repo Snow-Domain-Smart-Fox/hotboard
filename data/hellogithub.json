@@ -1,12 +1,12 @@
 {
   "type": "hellogithub",
-  "update_time": "2026-03-17 21:44:13",
+  "update_time": "2026-03-18 18:39:20",
   "list": [
     {
       "index": 1,
       "title": "从零开始动手实现 AI Agent",
       "url": "https://github.com/shareAI-lab/learn-claude-code",
-      "hot_value": "5576",
+      "hot_value": "5831",
       "extra": {
         "author": "shareAI-lab",
         "full_name": "shareAI-lab/learn-claude-code",
@@ -20,7 +20,7 @@
       "index": 2,
       "title": "现象级的个人 AI 助手",
       "url": "https://github.com/openclaw/openclaw",
-      "hot_value": "5234",
+      "hot_value": "5417",
       "extra": {
         "author": "openclaw",
         "full_name": "openclaw/openclaw",
@@ -34,7 +34,7 @@
       "index": 3,
       "title": "基于 LLM 的智能股票分析系统",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "hot_value": "3256",
+      "hot_value": "3508",
       "extra": {
         "author": "ZhuLinsen",
         "full_name": "ZhuLinsen/daily_stock_analysis",
@@ -48,7 +48,7 @@
       "index": 4,
       "title": "Claude 官方开源的 Skills 教程",
       "url": "https://github.com/anthropics/skills",
-      "hot_value": "2415",
+      "hot_value": "2537",
       "extra": {
         "author": "anthropics",
         "full_name": "anthropics/skills",
@@ -62,7 +62,7 @@
       "index": 5,
       "title": "开箱即用的 Windows 系统优化工具",
       "url": "https://github.com/memstechtips/Winhance",
-      "hot_value": "2612",
+      "hot_value": "2738",
       "extra": {
         "author": "memstechtips",
         "full_name": "memstechtips/Winhance",
@@ -76,7 +76,7 @@
       "index": 6,
       "title": "Rust 写的实时 ASCII 天气动画",
       "url": "https://github.com/Veirt/weathr",
-      "hot_value": "1811",
+      "hot_value": "1886",
       "extra": {
         "author": "Veirt",
         "full_name": "Veirt/weathr",
@@ -90,7 +90,7 @@
       "index": 7,
       "title": "Windows 鼠标特效增强工具",
       "url": "https://github.com/sqmw/MFCMouseEffect",
-      "hot_value": "1302",
+      "hot_value": "1375",
       "extra": {
         "author": "sqmw",
         "full_name": "sqmw/MFCMouseEffect",
@@ -102,23 +102,9 @@
     },
     {
       "index": 8,
-      "title": "只需一句话即可创造你的专属智能体",
-      "url": "https://github.com/ModelEngine-Group/nexent",
-      "hot_value": "1850",
-      "extra": {
-        "author": "ModelEngine-Group",
-        "full_name": "ModelEngine-Group/nexent",
-        "item_id": "99932c00b692483a8439b04f8858b39f",
-        "primary_lang": "Python",
-        "summary": "这是一款开源的零代码智能体自动生成平台，无需编程基础或复杂的流程图编排，通过自然语言描述需求即可快速创建 AI 智能体。它内置了数据处理引擎，能够自动处理 20",
-        "updated_at": "2026-03-03T09:32:14"
-      }
-    },
-    {
-      "index": 9,
       "title": "AI 驱动的修仙世界模拟器",
       "url": "https://github.com/4thfever/cultivation-world-simulator",
-      "hot_value": "5926",
+      "hot_value": "6035",
       "extra": {
         "author": "4thfever",
         "full_name": "4thfever/cultivation-world-simulator",
@@ -129,10 +115,10 @@
       }
     },
     {
-      "index": 10,
+      "index": 9,
       "title": "当个人主页变成 3D 游戏",
       "url": "https://github.com/brunosimon/folio-2025",
-      "hot_value": "1358",
+      "hot_value": "1419",
       "extra": {
         "author": "brunosimon",
         "full_name": "brunosimon/folio-2025",
@@ -143,10 +129,10 @@
       }
     },
     {
-      "index": 11,
+      "index": 10,
       "title": "无需上传文件的 PDF 全能工具箱",
       "url": "https://github.com/PDFCraftTool/pdfcraft",
-      "hot_value": "3528",
+      "hot_value": "3598",
       "extra": {
         "author": "PDFCraftTool",
         "full_name": "PDFCraftTool/pdfcraft",
@@ -157,10 +143,24 @@
       }
     },
     {
+      "index": 11,
+      "title": "只需一句话即可创造你的专属智能体",
+      "url": "https://github.com/ModelEngine-Group/nexent",
+      "hot_value": "1916",
+      "extra": {
+        "author": "ModelEngine-Group",
+        "full_name": "ModelEngine-Group/nexent",
+        "item_id": "99932c00b692483a8439b04f8858b39f",
+        "primary_lang": "Python",
+        "summary": "这是一款开源的零代码智能体自动生成平台，无需编程基础或复杂的流程图编排，通过自然语言描述需求即可快速创建 AI 智能体。它内置了数据处理引擎，能够自动处理 20",
+        "updated_at": "2026-03-03T09:32:14"
+      }
+    },
+    {
       "index": 12,
       "title": "开源的 AI 手机自动化助手",
       "url": "https://github.com/Turbo1123/roubao",
-      "hot_value": "4373",
+      "hot_value": "4452",
       "extra": {
         "author": "Turbo1123",
         "full_name": "Turbo1123/roubao",
@@ -174,7 +174,7 @@
       "index": 13,
       "title": "本地运行的智能知识库搜索工具",
       "url": "https://github.com/tobi/qmd",
-      "hot_value": "1473",
+      "hot_value": "1541",
       "extra": {
         "author": "tobi",
         "full_name": "tobi/qmd",
@@ -188,7 +188,7 @@
       "index": 14,
       "title": "一键将 macOS 应用迁移到外部硬盘",
       "url": "https://github.com/wzh4869/AppPorts",
-      "hot_value": "381",
+      "hot_value": "397",
       "extra": {
         "author": "wzh4869",
         "full_name": "wzh4869/AppPorts",
@@ -202,7 +202,7 @@
       "index": 15,
       "title": "终端里的高速下载工具",
       "url": "https://github.com/surge-downloader/Surge",
-      "hot_value": "1212",
+      "hot_value": "1253",
       "extra": {
         "author": "surge-downloader",
         "full_name": "surge-downloader/Surge",
@@ -216,7 +216,7 @@
       "index": 16,
       "title": "基于 Cloudflare 的轻量级邮箱服务",
       "url": "https://github.com/maillab/cloud-mail",
-      "hot_value": "661",
+      "hot_value": "690",
       "extra": {
         "author": "maillab",
         "full_name": "maillab/cloud-mail",
@@ -230,7 +230,7 @@
       "index": 17,
       "title": "开源的键鼠统计工具",
       "url": "https://github.com/debugtheworldbot/keyStats",
-      "hot_value": "2430",
+      "hot_value": "2463",
       "extra": {
         "author": "debugtheworldbot",
         "full_name": "debugtheworldbot/keyStats",
@@ -244,7 +244,7 @@
       "index": 18,
       "title": "新一代 AI 模型聚合管理与分发系统",
       "url": "https://github.com/QuantumNous/new-api",
-      "hot_value": "4244",
+      "hot_value": "4300",
       "extra": {
         "author": "QuantumNous",
         "full_name": "QuantumNous/new-api",
@@ -256,23 +256,9 @@
     },
     {
       "index": 19,
-      "title": "免费开源的动作捕捉系统",
-      "url": "https://github.com/freemocap/freemocap",
-      "hot_value": "1064",
-      "extra": {
-        "author": "freemocap",
-        "full_name": "freemocap/freemocap",
-        "item_id": "ef01295189f047afb41dbc8eb01bfd20",
-        "primary_lang": "Python",
-        "summary": "这是一款基于 Python 开发的动作捕捉系统，无需标记点和 GPU，仅用普通摄像头即可实现全身 3D 动作数据采集，适用于动画制作、游戏开发和教育等场景。",
-        "updated_at": "2026-02-28T08:10:09"
-      }
-    },
-    {
-      "index": 20,
       "title": "用手机操控 Claude Code 和 Codex",
       "url": "https://github.com/slopus/happy",
-      "hot_value": "2755",
+      "hot_value": "2804",
       "extra": {
         "author": "slopus",
         "full_name": "slopus/happy",
@@ -281,8 +267,21 @@
         "summary": "这是一款可以远程操作 Claude Code 或 Codex 的工具，让你随时随地通过手机查看和远程控制 AI 编程助手，提供了 iOS、Android 和 W",
         "updated_at": "2026-01-28T08:10:57"
       }
+    },
+    {
+      "index": 20,
+      "title": "免费开源的动作捕捉系统",
+      "url": "https://github.com/freemocap/freemocap",
+      "hot_value": "1106",
+      "extra": {
+        "author": "freemocap",
+        "full_name": "freemocap/freemocap",
+        "item_id": "ef01295189f047afb41dbc8eb01bfd20",
+        "primary_lang": "Python",
+        "summary": "这是一款基于 Python 开发的动作捕捉系统，无需标记点和 GPU，仅用普通摄像头即可实现全身 3D 动作数据采集，适用于动画制作、游戏开发和教育等场景。",
+        "updated_at": "2026-02-28T08:10:09"
+      }
     }
   ],
-  "_updated_at": "2026-03-17T14:07:28Z",
-  "_type": "hellogithub"
+  "_synced_at": "2026-03-18T10:40:36Z"
 }
