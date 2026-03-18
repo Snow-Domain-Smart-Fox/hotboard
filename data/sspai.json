@@ -1,9 +1,35 @@
 {
   "type": "sspai",
-  "update_time": "2026-03-18T10:22:55.085Z",
+  "update_time": "2026-03-18T21:37:10.507Z",
   "list": [
     {
       "index": 1,
+      "title": "年度征文｜效率杂谈：告别纸笔拓荒，怎么用 AI 来辅助学习？",
+      "url": "https://sspai.com/post/106878",
+      "hot_value": "评论:1 点赞:16",
+      "extra": {
+        "author": "Haoo_7",
+        "comment_count": 1,
+        "id": 106878,
+        "like_count": 16,
+        "summary": "如果你现在比较迷茫，不知道怎么学习才好，那希望这个学习方法论可以给你提供一些参考。切记：一切都要以自己的需求为主。"
+      }
+    },
+    {
+      "index": 2,
+      "title": "打造我的「智能家」：使用 Claude Code 轻松使用 Home Assistant",
+      "url": "https://sspai.com/post/106992",
+      "hot_value": "评论:5 点赞:18",
+      "extra": {
+        "author": "yzlnew",
+        "comment_count": 5,
+        "id": 106992,
+        "like_count": 18,
+        "summary": "Home Assistant 凭借其强大、丰富、开放的 API 工具，必将成为这个 Agentic 时代智能家居的第一选择。"
+      }
+    },
+    {
+      "index": 3,
       "title": "社区速递 133 | 派友热议 AI Coding 方案、西圣 Pencil X 平替笔体验",
       "url": "https://sspai.com/post/107466",
       "hot_value": "评论:9 点赞:8",
@@ -16,7 +42,7 @@
       }
     },
     {
-      "index": 2,
+      "index": 4,
       "title": "为心脏健康持续护航，Apple Watch 房颤迹象记录软件功能上线",
       "url": "https://sspai.com/post/107453",
       "hot_value": "评论:11 点赞:16",
@@ -29,20 +55,7 @@
       }
     },
     {
-      "index": 3,
-      "title": "投票开启｜BeatBox 盖板设计实录：用一块透明亚克力，把奇妙灵感凝成实体",
-      "url": "https://sspai.com/post/106917",
-      "hot_value": "评论:5 点赞:14",
-      "extra": {
-        "author": "听歌的水獭",
-        "comment_count": 5,
-        "id": 106917,
-        "like_count": 14,
-        "summary": "不仅仅是一块盖板最好的设计往往不是正襟危坐的苦思冥想，而是对生活平凡瞬间的细致观察。在整理BeatBox盖板设计大赛的作品时，我们发现，这块方寸之间的透明面板，正成为连接数字音乐与实体触感的桥梁。它不 ..."
-      }
-    },
-    {
-      "index": 4,
+      "index": 5,
       "title": "少数派十四周年直播：我们挑选了这四类好产品",
       "url": "https://sspai.com/post/107428",
       "hot_value": "评论:0 点赞:4",
@@ -55,20 +68,46 @@
       }
     },
     {
-      "index": 5,
+      "index": 6,
+      "title": "投票开启｜BeatBox 盖板设计实录：用一块透明亚克力，把奇妙灵感凝成实体",
+      "url": "https://sspai.com/post/106917",
+      "hot_value": "评论:5 点赞:14",
+      "extra": {
+        "author": "听歌的水獭",
+        "comment_count": 5,
+        "id": 106917,
+        "like_count": 14,
+        "summary": "不仅仅是一块盖板最好的设计往往不是正襟危坐的苦思冥想，而是对生活平凡瞬间的细致观察。在整理BeatBox盖板设计大赛的作品时，我们发现，这块方寸之间的透明面板，正成为连接数字音乐与实体触感的桥梁。它不 ..."
+      }
+    },
+    {
+      "index": 7,
       "title": "派评 | 近期值得关注的 App",
       "url": "https://sspai.com/post/107431",
-      "hot_value": "评论:22 点赞:13",
+      "hot_value": "评论:22 点赞:14",
       "extra": {
         "author": "少数派编辑部",
         "comment_count": 22,
         "id": 107431,
-        "like_count": 13,
+        "like_count": 14,
         "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀"
       }
     },
     {
-      "index": 6,
+      "index": 8,
+      "title": "TaskTick：macOS 上简单的定时任务管理工具",
+      "url": "https://sspai.com/post/107421",
+      "hot_value": "评论:0 点赞:2",
+      "extra": {
+        "author": "Devid",
+        "comment_count": 0,
+        "id": 107421,
+        "like_count": 2,
+        "summary": "▎无需crontab，无需launchd，创建定时任务像设闹钟一样简单。为什么做这个工具作为电脑用户，你一定遇到过这些场景：每天凌晨自动备份数据库定时检查服务器是否在线每周清理一次Docker垃圾镜像 ..."
+      }
+    },
+    {
+      "index": 9,
       "title": "TDS REVIEW｜天龙 PerL Pro 降噪真无线耳机体验",
       "url": "https://sspai.com/post/107131",
       "hot_value": "评论:2 点赞:8",
@@ -81,33 +120,7 @@
       }
     },
     {
-      "index": 7,
-      "title": "游记｜真不想带相机 ｜ 泛亚铁路，一路向南。飞车过大关的手机摄影分享",
-      "url": "https://sspai.com/post/106909",
-      "hot_value": "评论:0 点赞:0",
-      "extra": {
-        "author": "Horten",
-        "comment_count": 0,
-        "id": 106909,
-        "like_count": 0,
-        "summary": "在槟城一天吃5顿以及如此干净通透的天，​作为这趟近半个月，半出差半出游的铁路南行终点，实在是再完美不过。​习惯广东口味&云南本地胃口在东南亚似乎可以横着走，去拥抱每一个local店和挂逼摊。​一路的随 ..."
-      }
-    },
-    {
-      "index": 8,
-      "title": "因为身体疼痛与紧张，我做了App帮助身体「放松下来」：摩丘放松",
-      "url": "https://sspai.com/post/107343",
-      "hot_value": "评论:11 点赞:6",
-      "extra": {
-        "author": "阿布L",
-        "comment_count": 11,
-        "id": 107343,
-        "like_count": 6,
-        "summary": "我叫阿布L，前阿里巴巴程序员，目前是一名独立开发者。之前也做过一款有过万用户使用的浏览器插件。这次想分享的，是我最近做的一款iOSApp：摩丘放松它不是一款强调打卡成绩的健身App，也不是单纯的疼痛记 ..."
-      }
-    },
-    {
-      "index": 9,
+      "index": 10,
       "title": "本周看什么 | 最近值得一看的 9 部作品",
       "url": "https://sspai.com/post/107183",
       "hot_value": "评论:5 点赞:9",
@@ -118,20 +131,7 @@
         "like_count": 9,
         "summary": "📅本周新预告《异兽魔都第二季》正式预告3月8日，动画剧集《异兽魔都第二季》发布了正式预告，将于4月1日上线流媒体平台。本作改编自林田球的同名漫画，林祐一郎执导，濑古浩司编剧，MAPPA制作，讲述头部变 ..."
       }
-    },
-    {
-      "index": 10,
-      "title": "Sonos 周年团购限时开启：专属好价仅限今日",
-      "url": "https://sspai.com/post/107134",
-      "hot_value": "评论:0 点赞:6",
-      "extra": {
-        "author": "什么陈",
-        "comment_count": 0,
-        "id": 107134,
-        "like_count": 6,
-        "summary": "无论你是想补齐家中的最后一块音频拼图，还是第一次尝试构建无线音响系统，这都是今年不可错过的时机。"
-      }
     }
   ],
-  "_synced_at": "2026-03-18T10:40:36Z"
+  "_synced_at": "2026-03-18T22:22:55Z"
 }

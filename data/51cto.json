@@ -1,18 +1,27 @@
 {
   "type": "51cto",
-  "update_time": "2026-03-18T09:33:06.130Z",
+  "update_time": "2026-03-18T22:16:09.366Z",
   "list": [
     {
       "index": 1,
-      "title": "从2天到5分钟：搞定Java服务监控，Netdata这波操作我给满分！！",
-      "url": "https://www.51cto.com/article/838328.html",
+      "title": "阿里通义实验室开源Agent记忆框架ReMe",
+      "url": "https://www.51cto.com/article/838417.html",
       "hot_value": "",
       "extra": {
-        "description": "今天我就带大伙儿从头到尾体验一遍，怎么用 Netdata 把 Java 应用伺候得明明白白。顺便让你看看，什么叫“监控界的小米”——颜值高、配置低、价格免费。"
+        "description": "现有框架普遍陷入“被动累积”范式，将记忆当作静态的仅追加式存档。为弥合静态存储与动态推理之间的鸿沟，阿里通义实验室提出了ReMe（Remember Me, Refine Me）—— 一套用于经验驱动智能体进化的完整记忆框架。"
       }
     },
     {
       "index": 2,
+      "title": "从2天到5分钟：搞定Java服务监控，Netdata这波操作我给满分！！",
+      "url": "https://www.51cto.com/article/838328.html",
+      "hot_value": "",
+      "extra": {
+        "description": ""
+      }
+    },
+    {
+      "index": 3,
       "title": "让龙虾越用越聪明！普林斯顿大学为OpenClaw搞了个强化学习框架",
       "url": "https://www.51cto.com/article/838252.html",
       "hot_value": "",
@@ -21,18 +30,9 @@
       }
     },
     {
-      "index": 3,
-      "title": "装好 OpenClaw 后，第三件必干的是这件事！",
-      "url": "https://www.51cto.com/article/838139.html",
-      "hot_value": "",
-      "extra": {
-        "description": ""
-      }
-    },
-    {
       "index": 4,
-      "title": "OpenClaw到底能干嘛？分享30个落地案例",
-      "url": "https://www.51cto.com/article/838159.html",
+      "title": "六个让我作为软件工程师生活更轻松的工具",
+      "url": "https://www.51cto.com/article/838355.html",
       "hot_value": "",
       "extra": {
         "description": ""
@@ -93,5 +93,5 @@
       }
     }
   ],
-  "_synced_at": "2026-03-18T10:40:39Z"
+  "_synced_at": "2026-03-18T22:22:47Z"
 }

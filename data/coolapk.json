@@ -1,9 +1,99 @@
 {
   "type": "coolapk",
-  "update_time": "2026-03-18T10:15:02.899Z",
+  "update_time": "2026-03-18T21:47:14.752Z",
   "list": [
     {
       "index": 1,
+      "title": "我来发腿了，顺便问下这个地方的洞是干嘛的，我卖别人别人问我这里怎么有个洞",
+      "url": "https://www.coolapk.com/feed/70760678",
+      "hot_value": "",
+      "extra": {
+        "author": "inbuy"
+      }
+    },
+    {
+      "index": 2,
+      "title": "【联想AI平板拯救者 Y700 正式发布，首发售价3999起】12+256GB —— 3999元16+512GB —— 4799元24+1TB —— 5999元● 性能：▫️骁龙8 Elite Gen5 处理器▫️LP...",
+      "url": "https://www.coolapk.com/feed/70757769",
+      "hot_value": "",
+      "extra": {
+        "author": "竹本青"
+      }
+    },
+    {
+      "index": 3,
+      "title": "本来是想写一个澎湃3的体验图文的，但是想了想基本都是老油条，不写和软文一样的体验了，就随便分享一下自用玄学优化吧。即将换机了，留下点东西。图一：这是让...",
+      "url": "https://www.coolapk.com/feed/70757381",
+      "hot_value": "",
+      "extra": {
+        "author": "花城陆以北"
+      }
+    },
+    {
+      "index": 4,
+      "title": "国产涨价，iPhone却在降价。。 17已经杀到4999了。。。 #如何看待手机市场全面涨价# #iQOO15# #vivoX300Pro#",
+      "url": "https://www.coolapk.com/feed/70757319",
+      "hot_value": "",
+      "extra": {
+        "author": "李一火"
+      }
+    },
+    {
+      "index": 5,
+      "title": "vivo调色盘真的做出来了[惊讶] 以后vivo手机也可以像iphone用户那样拍摄了[受虐滑稽] 就是不知道会不会下放了[捂脸] #vivoX300Pro# #iPhone17# #OriginOS6#",
+      "url": "https://www.coolapk.com/feed/70757164",
+      "hot_value": "",
+      "extra": {
+        "author": "彭组长"
+      }
+    },
+    {
+      "index": 6,
+      "title": "前几天刚在苹果自营买的成🤡了运营商降了300，就苹果自营没降",
+      "url": "https://www.coolapk.com/feed/70755041",
+      "hot_value": "",
+      "extra": {
+        "author": "说苦不说再见"
+      }
+    },
+    {
+      "index": 7,
+      "title": "『华为首款自研 CIS 公开：50Mp 1/1.3'' RYYB』 ◇ 型号：海思 CS5250 ◇ 规格：50Mp 1/1.3 英寸 ◇ RYYB 滤光片结构 ◇ 双转换增益（DCG HDR） ◇ 超 88dB 动态...",
+      "url": "https://www.coolapk.com/feed/70754876",
+      "hot_value": "",
+      "extra": {
+        "author": "JSCHEN小小狐"
+      }
+    },
+    {
+      "index": 8,
+      "title": "这一家的ar膜不停产的话我会一直买。。 继我上次买了闪魔超厚胶的钢化膜后看了酷友推荐的这家ar软膜，单价七块出头，贴上后没想到效果还挺好，算是我贴过的软膜...",
+      "url": "https://www.coolapk.com/feed/70753113",
+      "hot_value": "",
+      "extra": {
+        "author": "灵活的胖子巴巴"
+      }
+    },
+    {
+      "index": 9,
+      "title": "#酷工作# 上班第二天想跑路[受虐滑稽]，带脏了，当初拍着胸脯说可以干一年这些打脸了[受虐滑稽]，当时被宿舍环境眯眼了[受虐滑稽][流泪]。真难受啊[受虐滑稽]。...",
+      "url": "https://www.coolapk.com/feed/70752918",
+      "hot_value": "",
+      "extra": {
+        "author": "zero白灵"
+      }
+    },
+    {
+      "index": 10,
+      "title": "【小米笔记本Pro 14预热：内置小米网络模组，支持远程关机唤醒】 ▫️内置小米网络模组 ▫️超低功耗实时互联 ▫️小米平板可远程操控 关机唤醒｜一键远程开机，...",
+      "url": "https://www.coolapk.com/feed/70751848",
+      "hot_value": "",
+      "extra": {
+        "author": "竹本青"
+      }
+    },
+    {
+      "index": 11,
       "title": "『vivo 多款手机正式调价：至高上涨 700 元』vivo X300：12GB+256GB - 4399 元16GB+256GB - 4699 元12GB+512GB - 5099 元（上涨 100 元）16GB+512GB - 5399 元（...",
       "url": "https://www.coolapk.com/feed/70749778",
       "hot_value": "",
@@ -12,25 +102,16 @@
       }
     },
     {
-      "index": 2,
-      "title": "【消息称OPPO Find N6 16+1TB版本 预售占比创历史新高：占比近40%】 12+256GB —— 9999元 16+512GB —— 10999元 16+1TB 卫星通信版 —— 11999元 博主数码闲聊...",
-      "url": "https://www.coolapk.com/feed/70747930",
+      "index": 12,
+      "title": "后续更新请看置顶评论‼️ 针对JZzz大佬的限频模块和线程模块，最新版的模块修改的webui页面，原作者@不会咕咕叫的咕咕鸟 线程模块ui,在原作者基础上增加了自适...",
+      "url": "https://www.coolapk.com/feed/70749350",
       "hot_value": "",
       "extra": {
-        "author": "竹本青"
+        "author": "三生君丶"
       }
     },
     {
-      "index": 3,
-      "title": "n6 发布了，逛了一圈酷安，全是在说对比的，n6 板块全是喷荣耀的，一提就是荣耀系统极其垃圾，我 iPhone 转的 v6 完全没有不适感， 拜托那些人能不能实际体验一...",
-      "url": "https://www.coolapk.com/feed/70746324",
-      "hot_value": "",
-      "extra": {
-        "author": "纯情小火鸡cl"
-      }
-    },
-    {
-      "index": 4,
+      "index": 13,
       "title": "小15真是我用过最好调的手机了，开省电加线程轻松稳定1.6[doge呵斥][doge呵斥]日用摸鱼丝滑流畅不热也不卡！",
       "url": "https://www.coolapk.com/feed/70746030",
       "hot_value": "",
@@ -39,7 +120,7 @@
       }
     },
     {
-      "index": 5,
+      "index": 14,
       "title": "京东方X3 VS 天马天工屏使用体验以下言论仅代表个人主观体验，不喜勿喷x9p用了半年，一加15体验了半个月了先说个人体验结论：x9p的屏幕基本上完胜一加15的屏幕我...",
       "url": "https://www.coolapk.com/feed/70745362",
       "hot_value": "",
@@ -48,122 +129,41 @@
       }
     },
     {
-      "index": 6,
-      "title": "#相亲# 感觉我的女朋友是npd+回避型人格+原生家庭差。我们经常吵架她会把所有责任都推给我，她自己没有任何问题，没有同理心。她跟我闹，我心情不好喝酒，她说谁...",
-      "url": "https://www.coolapk.com/feed/70744018",
+      "index": 15,
+      "title": "边框氧化，想着🍑宝买点抛光膏试一下，结果都说用不了[捂脸]海鲜市场也说金属亮面抛不了，只能带壳用了[doge笑哭]要是跟15同款边框那该多好[偷看][偷看] #小米...",
+      "url": "https://www.coolapk.com/feed/70744874",
       "hot_value": "",
       "extra": {
-        "author": "白熊是对的"
+        "author": "重生之我在小绿书卖内裤"
       }
     },
     {
-      "index": 7,
-      "title": "说漏嘴了。 最低版本是4499，首发4399，活动优惠100。 快冲，能省100。 内定是这样子的，就等官宣了。 祝贺一加，成功冲上高端。鲜花掌声。 本来想备用双持的，...",
-      "url": "https://www.coolapk.com/feed/70742133",
+      "index": 16,
+      "title": "看完这N6，突然觉得，折叠屏还是得三星。OPPO 外屏铰链还是左边看着比右边宽并且左方右圆的设计。目前好像只有#三星GalaxyZFold7# 依旧是，折叠起来露出铰链最薄...",
+      "url": "https://www.coolapk.com/feed/70743783",
       "hot_value": "",
       "extra": {
-        "author": "用户名_年只可修改_次"
+        "author": "Arrow__Meng"
       }
     },
     {
-      "index": 8,
+      "index": 17,
+      "title": "这玩意利润空间还是大，比荣耀的大多了，首发直接降1000[捂脸]估计跳水也挺快的",
+      "url": "https://www.coolapk.com/feed/70741211",
+      "hot_value": "",
+      "extra": {
+        "author": "在人间捡故事"
+      }
+    },
+    {
+      "index": 18,
       "title": "【OPPO Find N6正式发布：9999元起】12+256 —— 9999元16+512 —— 10999元16+1TB 卫星通信版 —— 11999元● 外观- 金橙 | 原钛 | 深黑- 合起来 8.93mm | 展开...",
       "url": "https://www.coolapk.com/feed/70740004",
       "hot_value": "",
       "extra": {
         "author": "赛博帕鲁"
       }
-    },
-    {
-      "index": 9,
-      "title": "【OPPO Watch X3 正式发布，售价2599元起】引力黑 —— 2599元(普通氟橡胶)无限钛/寰宇星橙 ——2799元(竹节氟橡胶)外观：▫️TC4钛合金表体／表圈▫️氟橡胶多...",
-      "url": "https://www.coolapk.com/feed/70739977",
-      "hot_value": "",
-      "extra": {
-        "author": "竹本青"
-      }
-    },
-    {
-      "index": 10,
-      "title": "从果子换到华子太舒服了 只能说爽歪歪 个人感受哈",
-      "url": "https://www.coolapk.com/feed/70739549",
-      "hot_value": "",
-      "extra": {
-        "author": "在困倦里说爱"
-      }
-    },
-    {
-      "index": 11,
-      "title": "【荣耀部分手机完成调价：上调300～500元】 目前，荣耀WIN RT、荣耀500标准版、荣耀X70 三款机型已完成价格调整，起步价分别为2999、2999、1699元，整体上调300...",
-      "url": "https://www.coolapk.com/feed/70735490",
-      "hot_value": "",
-      "extra": {
-        "author": "小笼包_Neo"
-      }
-    },
-    {
-      "index": 12,
-      "title": "#我在酷安晒女友# 第二弹来了！ 很多xd问我怎么谈到的这么漂亮的女朋友的 这并非难事 首先人靠衣马靠鞍 每天洗澡 把自己收拾干净 多去健身练出好身材 其次就是 ...",
-      "url": "https://www.coolapk.com/feed/70734483",
-      "hot_value": "",
-      "extra": {
-        "author": "享于生"
-      }
-    },
-    {
-      "index": 13,
-      "title": "百亿补贴 ，我以为稳了 ，靠 谁知道快递被追回了 。也是没谁了 玛德 [笑哭]",
-      "url": "https://www.coolapk.com/feed/70732183",
-      "hot_value": "",
-      "extra": {
-        "author": "鱼和熊掌兼得"
-      }
-    },
-    {
-      "index": 14,
-      "title": "不开机了，从首发买的用到现在，次顶配16+512今天直接不开机，先去我们这边的售后查了一下，小电流，一个重启成这样了。 金凡，我再信你我就是狗，澎湃三就八月...",
-      "url": "https://www.coolapk.com/feed/70725949",
-      "hot_value": "",
-      "extra": {
-        "author": "影入尘烟"
-      }
-    },
-    {
-      "index": 15,
-      "title": "这月发年终奖了2900，给老爸买了个新手机[呲牙][呲牙][呲牙]",
-      "url": "https://www.coolapk.com/feed/70723627",
-      "hot_value": "",
-      "extra": {
-        "author": "一点点_"
-      }
-    },
-    {
-      "index": 16,
-      "title": "谁来了也不知道咋用我的手机，嘻嘻。[呲牙][呲牙]全部依靠手势控制",
-      "url": "https://www.coolapk.com/feed/70713494",
-      "hot_value": "",
-      "extra": {
-        "author": "xcy251118"
-      }
-    },
-    {
-      "index": 17,
-      "title": "#酷安夜话# 考驾照必须考c1吗 我报名的c2 身边的人一直说 说的我挺焦虑的 而且驾照的体检也没过 辩色度那一关 但我真不是色盲",
-      "url": "https://www.coolapk.com/feed/70710921",
-      "hot_value": "",
-      "extra": {
-        "author": "藏于心底的她"
-      }
-    },
-    {
-      "index": 18,
-      "title": "对比国外竞品 看看微信有多垃圾",
-      "url": "https://www.coolapk.com/feed/70705915",
-      "hot_value": "",
-      "extra": {
-        "author": "敢叫日月换清天"
-      }
     }
   ],
-  "_synced_at": "2026-03-18T10:40:26Z"
+  "_synced_at": "2026-03-18T22:22:48Z"
 }

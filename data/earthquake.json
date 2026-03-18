@@ -1,9 +1,25 @@
 {
   "type": "ceic-earthquake",
-  "update_time": "2026-03-18T10:22:58.206Z",
+  "update_time": "2026-03-18T22:15:58.093Z",
   "list": [
     {
       "index": 1,
+      "title": "M3.0 四川成都市都江堰市",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260318191807/summarize",
+      "hot_value": "3.0级",
+      "extra": {
+        "depth": 14,
+        "is_major": false,
+        "is_significant": false,
+        "latitude": 31.24,
+        "location": "四川成都市都江堰市",
+        "longitude": 103.610001,
+        "magnitude": 3,
+        "time": "2026-03-18 19:18:07"
+      }
+    },
+    {
+      "index": 2,
       "title": "M3.6 新疆昌吉州呼图壁县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260318154717/summarize",
       "hot_value": "3.6级",
@@ -19,7 +35,7 @@
       }
     },
     {
-      "index": 2,
+      "index": 3,
       "title": "M3.9 新疆喀什地区叶城县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260318095552/summarize",
       "hot_value": "3.9级",
@@ -35,7 +51,7 @@
       }
     },
     {
-      "index": 3,
+      "index": 4,
       "title": "M3.2 新疆巴音郭楞州尉犁县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260317151853/summarize",
       "hot_value": "3.2级",
@@ -51,7 +67,7 @@
       }
     },
     {
-      "index": 4,
+      "index": 5,
       "title": "M3.1 西藏那曲市双湖县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260316193059/summarize",
       "hot_value": "3.1级",
@@ -67,7 +83,7 @@
       }
     },
     {
-      "index": 5,
+      "index": 6,
       "title": "M3.0 新疆昌吉州呼图壁县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260315234843/summarize",
       "hot_value": "3.0级",
@@ -83,7 +99,7 @@
       }
     },
     {
-      "index": 6,
+      "index": 7,
       "title": "M4.6 台湾宜兰县海域",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260315161454/summarize",
       "hot_value": "4.6级",
@@ -99,7 +115,7 @@
       }
     },
     {
-      "index": 7,
+      "index": 8,
       "title": "M3.2 新疆喀什地区叶城县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260315025551/summarize",
       "hot_value": "3.2级",
@@ -115,7 +131,7 @@
       }
     },
     {
-      "index": 8,
+      "index": 9,
       "title": "M4.0 新疆喀什地区塔什库尔干县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260315000616/summarize",
       "hot_value": "4.0级",
@@ -131,7 +147,7 @@
       }
     },
     {
-      "index": 9,
+      "index": 10,
       "title": "M3.6 新疆克孜勒苏州乌恰县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260314143934/summarize",
       "hot_value": "3.6级",
@@ -147,7 +163,7 @@
       }
     },
     {
-      "index": 10,
+      "index": 11,
       "title": "M6.3 智利北部附近海域",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260313213920/summarize",
       "hot_value": "6.3级",
@@ -163,7 +179,7 @@
       }
     },
     {
-      "index": 11,
+      "index": 12,
       "title": "M5.0 土耳其",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260313083515/summarize",
       "hot_value": "5.0级",
@@ -179,7 +195,7 @@
       }
     },
     {
-      "index": 12,
+      "index": 13,
       "title": "M5.3 台湾花莲县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260312201413/summarize",
       "hot_value": "5.3级",
@@ -195,7 +211,7 @@
       }
     },
     {
-      "index": 13,
+      "index": 14,
       "title": "M3.8 西藏日喀则市定日县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260312154547/summarize",
       "hot_value": "3.8级",
@@ -211,7 +227,7 @@
       }
     },
     {
-      "index": 14,
+      "index": 15,
       "title": "M3.9 新疆吐鲁番市托克逊县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260311201138/summarize",
       "hot_value": "3.9级",
@@ -227,7 +243,7 @@
       }
     },
     {
-      "index": 15,
+      "index": 16,
       "title": "M3.7 新疆克孜勒苏州阿合奇县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260311153123/summarize",
       "hot_value": "3.7级",
@@ -243,7 +259,7 @@
       }
     },
     {
-      "index": 16,
+      "index": 17,
       "title": "M3.2 西藏阿里地区日土县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260311112256/summarize",
       "hot_value": "3.2级",
@@ -259,7 +275,7 @@
       }
     },
     {
-      "index": 17,
+      "index": 18,
       "title": "M3.6 甘肃甘南州迭部县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260310160552/summarize",
       "hot_value": "3.6级",
@@ -275,7 +291,7 @@
       }
     },
     {
-      "index": 18,
+      "index": 19,
       "title": "M3.4 新疆喀什地区塔什库尔干县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260310141700/summarize",
       "hot_value": "3.4级",
@@ -291,7 +307,7 @@
       }
     },
     {
-      "index": 19,
+      "index": 20,
       "title": "M3.8 新疆昌吉州呼图壁县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260310080529/summarize",
       "hot_value": "3.8级",
@@ -305,23 +321,7 @@
         "magnitude": 3.8,
         "time": "2026-03-10 08:05:29"
       }
-    },
-    {
-      "index": 20,
-      "title": "M6.0 第勒尼安海",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260310070355/summarize",
-      "hot_value": "6.0级",
-      "extra": {
-        "depth": 380,
-        "is_major": true,
-        "is_significant": true,
-        "latitude": 40.650002,
-        "location": "第勒尼安海",
-        "longitude": 13.9,
-        "magnitude": 6,
-        "time": "2026-03-10 07:03:55"
-      }
     }
   ],
-  "_synced_at": "2026-03-18T10:40:36Z"
+  "_synced_at": "2026-03-18T22:22:51Z"
 }
