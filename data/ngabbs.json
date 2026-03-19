@@ -1,6 +1,6 @@
 {
   "type": "nga",
-  "update_time": "2026-03-19T05:10:48.297Z",
+  "update_time": "2026-03-19T07:29:17.258Z",
   "list": [
     {
       "index": 1,
@@ -84,42 +84,42 @@
     },
     {
       "index": 9,
+      "title": "第98届奥斯卡讨论",
+      "url": "https://bbs.nga.cn/read.php?tid=46378357",
+      "hot_value": "",
+      "extra": {
+        "category": "other",
+        "tid": "46378357"
+      }
+    },
+    {
+      "index": 10,
+      "title": "AI写作竞技场",
+      "url": "https://bbs.nga.cn/read.php?tid=46382300",
+      "hot_value": "",
+      "extra": {
+        "category": "other",
+        "tid": "46382300"
+      }
+    },
+    {
+      "index": 11,
+      "title": "摄影：春季花鸟图",
+      "url": "https://bbs.nga.cn/read.php?tid=46376262",
+      "hot_value": "",
+      "extra": {
+        "category": "other",
+        "tid": "46376262"
+      }
+    },
+    {
+      "index": 12,
       "title": "克拉夫特异态学 抽书活动",
       "url": "https://bbs.nga.cn/read.php?tid=46395460",
       "hot_value": "",
       "extra": {
         "category": "other",
         "tid": "46395460"
-      }
-    },
-    {
-      "index": 10,
-      "title": "2月第一周 手办模型情报",
-      "url": "https://bbs.nga.cn/read.php?tid=46116531",
-      "hot_value": "",
-      "extra": {
-        "category": "other",
-        "tid": "46116531"
-      }
-    },
-    {
-      "index": 11,
-      "title": "《活人深处》抽书活动",
-      "url": "https://bbs.nga.cn/read.php?tid=46003674",
-      "hot_value": "",
-      "extra": {
-        "category": "other",
-        "tid": "46003674"
-      }
-    },
-    {
-      "index": 12,
-      "title": "26年一月看书简评",
-      "url": "https://bbs.nga.cn/read.php?tid=45971272",
-      "hot_value": "",
-      "extra": {
-        "category": "other",
-        "tid": "45971272"
       }
     },
     {
@@ -203,5 +203,5 @@
       }
     }
   ],
-  "_synced_at": "2026-03-19T05:18:22Z"
+  "_synced_at": "2026-03-19T10:29:28Z"
 }

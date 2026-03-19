@@ -1,12 +1,12 @@
 {
   "type": "hellogithub",
-  "update_time": "2026-03-19 12:58:55",
+  "update_time": "2026-03-19 18:29:13",
   "list": [
     {
       "index": 1,
       "title": "从零开始动手实现 AI Agent",
       "url": "https://github.com/shareAI-lab/learn-claude-code",
-      "hot_value": "6023",
+      "hot_value": "6119",
       "extra": {
         "author": "shareAI-lab",
         "full_name": "shareAI-lab/learn-claude-code",
@@ -20,7 +20,7 @@
       "index": 2,
       "title": "现象级的个人 AI 助手",
       "url": "https://github.com/openclaw/openclaw",
-      "hot_value": "5530",
+      "hot_value": "5596",
       "extra": {
         "author": "openclaw",
         "full_name": "openclaw/openclaw",
@@ -34,7 +34,7 @@
       "index": 3,
       "title": "基于 LLM 的智能股票分析系统",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "hot_value": "3673",
+      "hot_value": "3763",
       "extra": {
         "author": "ZhuLinsen",
         "full_name": "ZhuLinsen/daily_stock_analysis",
@@ -48,7 +48,7 @@
       "index": 4,
       "title": "Claude 官方开源的 Skills 教程",
       "url": "https://github.com/anthropics/skills",
-      "hot_value": "2605",
+      "hot_value": "2645",
       "extra": {
         "author": "anthropics",
         "full_name": "anthropics/skills",
@@ -62,7 +62,7 @@
       "index": 5,
       "title": "开箱即用的 Windows 系统优化工具",
       "url": "https://github.com/memstechtips/Winhance",
-      "hot_value": "2804",
+      "hot_value": "2840",
       "extra": {
         "author": "memstechtips",
         "full_name": "memstechtips/Winhance",
@@ -76,7 +76,7 @@
       "index": 6,
       "title": "Rust 写的实时 ASCII 天气动画",
       "url": "https://github.com/Veirt/weathr",
-      "hot_value": "1930",
+      "hot_value": "1968",
       "extra": {
         "author": "Veirt",
         "full_name": "Veirt/weathr",
@@ -90,7 +90,7 @@
       "index": 7,
       "title": "Windows 鼠标特效增强工具",
       "url": "https://github.com/sqmw/MFCMouseEffect",
-      "hot_value": "1415",
+      "hot_value": "1437",
       "extra": {
         "author": "sqmw",
         "full_name": "sqmw/MFCMouseEffect",
@@ -104,7 +104,7 @@
       "index": 8,
       "title": "AI 驱动的修仙世界模拟器",
       "url": "https://github.com/4thfever/cultivation-world-simulator",
-      "hot_value": "6093",
+      "hot_value": "6128",
       "extra": {
         "author": "4thfever",
         "full_name": "4thfever/cultivation-world-simulator",
@@ -118,7 +118,7 @@
       "index": 9,
       "title": "当个人主页变成 3D 游戏",
       "url": "https://github.com/brunosimon/folio-2025",
-      "hot_value": "1463",
+      "hot_value": "1495",
       "extra": {
         "author": "brunosimon",
         "full_name": "brunosimon/folio-2025",
@@ -132,7 +132,7 @@
       "index": 10,
       "title": "只需一句话即可创造你的专属智能体",
       "url": "https://github.com/ModelEngine-Group/nexent",
-      "hot_value": "1958",
+      "hot_value": "1989",
       "extra": {
         "author": "ModelEngine-Group",
         "full_name": "ModelEngine-Group/nexent",
@@ -146,7 +146,7 @@
       "index": 11,
       "title": "无需上传文件的 PDF 全能工具箱",
       "url": "https://github.com/PDFCraftTool/pdfcraft",
-      "hot_value": "3631",
+      "hot_value": "3658",
       "extra": {
         "author": "PDFCraftTool",
         "full_name": "PDFCraftTool/pdfcraft",
@@ -160,7 +160,7 @@
       "index": 12,
       "title": "开源的 AI 手机自动化助手",
       "url": "https://github.com/Turbo1123/roubao",
-      "hot_value": "4495",
+      "hot_value": "4520",
       "extra": {
         "author": "Turbo1123",
         "full_name": "Turbo1123/roubao",
@@ -172,23 +172,9 @@
     },
     {
       "index": 13,
-      "title": "本地运行的智能知识库搜索工具",
-      "url": "https://github.com/tobi/qmd",
-      "hot_value": "1573",
-      "extra": {
-        "author": "tobi",
-        "full_name": "tobi/qmd",
-        "item_id": "7a1c76f835c34c8a846f81642a09a4af",
-        "primary_lang": "TypeScript",
-        "summary": "这是一款完全本地运行的智能搜索引擎，可用于检索个人文档、知识库、会议记录和 Markdown 文件。它集成了本地运行轻量化模型、BM25 全文检索、向量语义搜索",
-        "updated_at": "2026-02-28T08:10:09"
-      }
-    },
-    {
-      "index": 14,
       "title": "一键将 macOS 应用迁移到外部硬盘",
       "url": "https://github.com/wzh4869/AppPorts",
-      "hot_value": "407",
+      "hot_value": "417",
       "extra": {
         "author": "wzh4869",
         "full_name": "wzh4869/AppPorts",
@@ -199,10 +185,24 @@
       }
     },
     {
+      "index": 14,
+      "title": "本地运行的智能知识库搜索工具",
+      "url": "https://github.com/tobi/qmd",
+      "hot_value": "1597",
+      "extra": {
+        "author": "tobi",
+        "full_name": "tobi/qmd",
+        "item_id": "7a1c76f835c34c8a846f81642a09a4af",
+        "primary_lang": "TypeScript",
+        "summary": "这是一款完全本地运行的智能搜索引擎，可用于检索个人文档、知识库、会议记录和 Markdown 文件。它集成了本地运行轻量化模型、BM25 全文检索、向量语义搜索",
+        "updated_at": "2026-02-28T08:10:09"
+      }
+    },
+    {
       "index": 15,
       "title": "终端里的高速下载工具",
       "url": "https://github.com/surge-downloader/Surge",
-      "hot_value": "1277",
+      "hot_value": "1289",
       "extra": {
         "author": "surge-downloader",
         "full_name": "surge-downloader/Surge",
@@ -216,7 +216,7 @@
       "index": 16,
       "title": "基于 Cloudflare 的轻量级邮箱服务",
       "url": "https://github.com/maillab/cloud-mail",
-      "hot_value": "712",
+      "hot_value": "725",
       "extra": {
         "author": "maillab",
         "full_name": "maillab/cloud-mail",
@@ -230,7 +230,7 @@
       "index": 17,
       "title": "开源的键鼠统计工具",
       "url": "https://github.com/debugtheworldbot/keyStats",
-      "hot_value": "2484",
+      "hot_value": "2499",
       "extra": {
         "author": "debugtheworldbot",
         "full_name": "debugtheworldbot/keyStats",
@@ -244,7 +244,7 @@
       "index": 18,
       "title": "新一代 AI 模型聚合管理与分发系统",
       "url": "https://github.com/QuantumNous/new-api",
-      "hot_value": "4332",
+      "hot_value": "4348",
       "extra": {
         "author": "QuantumNous",
         "full_name": "QuantumNous/new-api",
@@ -258,7 +258,7 @@
       "index": 19,
       "title": "用手机操控 Claude Code 和 Codex",
       "url": "https://github.com/slopus/happy",
-      "hot_value": "2834",
+      "hot_value": "2850",
       "extra": {
         "author": "slopus",
         "full_name": "slopus/happy",
@@ -272,7 +272,7 @@
       "index": 20,
       "title": "免费开源的动作捕捉系统",
       "url": "https://github.com/freemocap/freemocap",
-      "hot_value": "1127",
+      "hot_value": "1147",
       "extra": {
         "author": "freemocap",
         "full_name": "freemocap/freemocap",
@@ -283,5 +283,5 @@
       }
     }
   ],
-  "_synced_at": "2026-03-19T05:18:40Z"
+  "_synced_at": "2026-03-19T10:29:38Z"
 }

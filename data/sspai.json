@@ -1,17 +1,17 @@
 {
   "type": "sspai",
-  "update_time": "2026-03-19T04:42:14.091Z",
+  "update_time": "2026-03-19T07:16:05.917Z",
   "list": [
     {
       "index": 1,
       "title": "年度征文｜效率杂谈：告别纸笔拓荒，怎么用 AI 来辅助学习？",
       "url": "https://sspai.com/post/106878",
-      "hot_value": "评论:4 点赞:29",
+      "hot_value": "评论:6 点赞:32",
       "extra": {
         "author": "Haoo_7",
-        "comment_count": 4,
+        "comment_count": 6,
         "id": 106878,
-        "like_count": 29,
+        "like_count": 32,
         "summary": "如果你现在比较迷茫，不知道怎么学习才好，那希望这个学习方法论可以给你提供一些参考。切记：一切都要以自己的需求为主。"
       }
     },
@@ -19,12 +19,12 @@
       "index": 2,
       "title": "打造我的「智能家」：使用 Claude Code 轻松使用 Home Assistant",
       "url": "https://sspai.com/post/106992",
-      "hot_value": "评论:11 点赞:21",
+      "hot_value": "评论:14 点赞:22",
       "extra": {
         "author": "yzlnew",
-        "comment_count": 11,
+        "comment_count": 14,
         "id": 106992,
-        "like_count": 21,
+        "like_count": 22,
         "summary": "Home Assistant 凭借其强大、丰富、开放的 API 工具，必将成为这个 Agentic 时代智能家居的第一选择。"
       }
     },
@@ -32,10 +32,10 @@
       "index": 3,
       "title": "社区速递 133 | 派友热议 AI Coding 方案、西圣 Pencil X 平替笔体验",
       "url": "https://sspai.com/post/107466",
-      "hot_value": "评论:9 点赞:8",
+      "hot_value": "评论:10 点赞:8",
       "extra": {
         "author": "Matrix机器人",
-        "comment_count": 9,
+        "comment_count": 10,
         "id": 107466,
         "like_count": 8,
         "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿的新玩意呈现给大家。💬一派热议 ..."
@@ -133,5 +133,5 @@
       }
     }
   ],
-  "_synced_at": "2026-03-19T05:18:32Z"
+  "_synced_at": "2026-03-19T10:29:42Z"
 }

@@ -1,6 +1,6 @@
 {
   "type": "v2ex",
-  "update_time": "2026-03-19T04:27:13.826Z",
+  "update_time": "2026-03-19T07:15:25.112Z",
   "list": [
     {
       "index": 1,
@@ -15,17 +15,6 @@
     },
     {
       "index": 2,
-      "title": "AI 时代的程序员困境",
-      "url": "https://www.v2ex.com/t/1199195",
-      "hot_value": "",
-      "extra": {
-        "author": "shyrock2026",
-        "author_avatar": "https://cdn.v2ex.com/gravatar/04c71681b01226abac7c5771925c3a63?s=48&d=retro",
-        "id": "1199195"
-      }
-    },
-    {
-      "index": 3,
       "title": "你人生中最重要的事是什么呢？",
       "url": "https://www.v2ex.com/t/1199412",
       "hot_value": "",
@@ -36,18 +25,7 @@
       }
     },
     {
-      "index": 4,
-      "title": "今日话题:你谈过几个对象",
-      "url": "https://www.v2ex.com/t/1199183",
-      "hot_value": "",
-      "extra": {
-        "author": "lizhe150111",
-        "author_avatar": "https://cdn.v2ex.com/gravatar/4a322e85775200eee53b267de41dfe62?s=48&d=retro",
-        "id": "1199183"
-      }
-    },
-    {
-      "index": 5,
+      "index": 3,
       "title": "没用过 opus4.6 + agents + skills + mcp 组合的人不足以谈 AI 编程",
       "url": "https://www.v2ex.com/t/1199424",
       "hot_value": "",
@@ -55,6 +33,28 @@
         "author": "dodoa",
         "author_avatar": "https://cdn.v2ex.com/avatar/c90e/0f10/442399_normal.png?m=1773201612",
         "id": "1199424"
+      }
+    },
+    {
+      "index": 4,
+      "title": "说一下自己最近 ai 前端开发编程的感受",
+      "url": "https://www.v2ex.com/t/1199403",
+      "hot_value": "",
+      "extra": {
+        "author": "xqk111",
+        "author_avatar": "https://cdn.v2ex.com/gravatar/87faf187f947a6cc869ee86999d5a2a3?s=48&d=retro",
+        "id": "1199403"
+      }
+    },
+    {
+      "index": 5,
+      "title": "大家不要笑话我，最近突然觉得很绝望，不停在失业，找工作，写代码的循环中。",
+      "url": "https://www.v2ex.com/t/1199457",
+      "hot_value": "",
+      "extra": {
+        "author": "lvlajzhao1983",
+        "author_avatar": "https://cdn.v2ex.com/avatar/edff/0f6a/230661_normal.png?m=1690106068",
+        "id": "1199457"
       }
     },
     {
@@ -81,13 +81,13 @@
     },
     {
       "index": 8,
-      "title": "说一下自己最近 ai 前端开发编程的感受",
-      "url": "https://www.v2ex.com/t/1199403",
+      "title": "有没有从 2030 年穿越回来的朋友，来点剧透？",
+      "url": "https://www.v2ex.com/t/1199419",
       "hot_value": "",
       "extra": {
-        "author": "xqk111",
-        "author_avatar": "https://cdn.v2ex.com/gravatar/87faf187f947a6cc869ee86999d5a2a3?s=48&d=retro",
-        "id": "1199403"
+        "author": "LessWu",
+        "author_avatar": "https://cdn.v2ex.com/gravatar/945a812622b7ec505d599bc32eddb40a?s=48&d=retro",
+        "id": "1199419"
       }
     },
     {
@@ -113,5 +113,5 @@
       }
     }
   ],
-  "_synced_at": "2026-03-19T05:18:39Z"
+  "_synced_at": "2026-03-19T10:29:26Z"
 }
