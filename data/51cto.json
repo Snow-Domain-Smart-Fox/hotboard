@@ -1,27 +1,18 @@
 {
   "type": "51cto",
-  "update_time": "2026-03-19T07:16:59.214Z",
+  "update_time": "2026-03-19T22:10:42.271Z",
   "list": [
     {
       "index": 1,
-      "title": "13小时删光生产环境！亚马逊裁员报应来了：AI捅破天，600万订单灰飞烟灭",
-      "url": "https://www.51cto.com/article/838526.html",
-      "hot_value": "",
-      "extra": {
-        "description": "亚马逊强推AI编程工具，将使用率写入KPI，却在短时间内接连引发灾难：AI误删生产环境、电商订单消失、系统成功率暴跌99%，与此同时，公司裁掉1.6万工程师，却又要求人类为AI“兜底”，甚至尝试用AI监督AI，陷入荒诞循环。"
-      }
-    },
-    {
-      "index": 2,
       "title": "从2天到5分钟：搞定Java服务监控，Netdata这波操作我给满分！！",
       "url": "https://www.51cto.com/article/838328.html",
       "hot_value": "",
       "extra": {
-        "description": ""
+        "description": "今天我就带大伙儿从头到尾体验一遍，怎么用 Netdata 把 Java 应用伺候得明明白白。顺便让你看看，什么叫“监控界的小米”——颜值高、配置低、价格免费。"
       }
     },
     {
-      "index": 3,
+      "index": 2,
       "title": "阿里通义实验室开源Agent记忆框架ReMe",
       "url": "https://www.51cto.com/article/838417.html",
       "hot_value": "",
@@ -30,7 +21,7 @@
       }
     },
     {
-      "index": 4,
+      "index": 3,
       "title": "当AI第一次读完整本基因之书，十亿参数单细胞大模型能干什么？",
       "url": "https://www.51cto.com/article/838438.html",
       "hot_value": "",
@@ -39,7 +30,7 @@
       }
     },
     {
-      "index": 5,
+      "index": 4,
       "title": "让龙虾越用越聪明！普林斯顿大学为OpenClaw搞了个强化学习框架",
       "url": "https://www.51cto.com/article/838252.html",
       "hot_value": "",
@@ -48,9 +39,18 @@
       }
     },
     {
-      "index": 6,
+      "index": 5,
       "title": "六个让我作为软件工程师生活更轻松的工具",
       "url": "https://www.51cto.com/article/838355.html",
+      "hot_value": "",
+      "extra": {
+        "description": ""
+      }
+    },
+    {
+      "index": 6,
+      "title": "13小时删光生产环境！亚马逊裁员报应来了：AI捅破天，600万订单灰飞烟灭",
+      "url": "https://www.51cto.com/article/838526.html",
       "hot_value": "",
       "extra": {
         "description": ""
@@ -67,15 +67,6 @@
     },
     {
       "index": 8,
-      "title": "Transformer祖制，被Kimi捅破了！谷歌大V高赞：Kimi触碰了十年没人敢碰的禁区！性能炸裂，相当于免费得1.25倍算力，网友：简直天才洞察",
-      "url": "https://www.51cto.com/article/838292.html",
-      "hot_value": "",
-      "extra": {
-        "description": ""
-      }
-    },
-    {
-      "index": 9,
       "title": "从零折腾 OpenClaw 本地部署：一个普通开发者的踩坑实录与实战心得",
       "url": "https://blog.51cto.com/u_17035626/14511786",
       "hot_value": "",
@@ -84,14 +75,23 @@
       }
     },
     {
-      "index": 10,
+      "index": 9,
       "title": "玩转OpenClaw | 基于Linux 系统OpenClaw本地部署实践指南",
       "url": "https://blog.51cto.com/u_14664141/14510450",
       "hot_value": "",
       "extra": {
         "description": ""
       }
+    },
+    {
+      "index": 10,
+      "title": "HarmonyOS6.0 文本朗读控件 TextReader 技术实践与避坑指南",
+      "url": "https://ost.51cto.com/posts/39249#24read",
+      "hot_value": "",
+      "extra": {
+        "description": ""
+      }
     }
   ],
-  "_synced_at": "2026-03-19T10:29:36Z"
+  "_synced_at": "2026-03-19T22:17:30Z"
 }

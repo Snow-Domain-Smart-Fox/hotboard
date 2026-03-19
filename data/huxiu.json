@@ -1,19 +1,19 @@
 {
   "type": "huxiu",
-  "update_time": "2026-03-19T07:32:18.531Z",
+  "update_time": "2026-03-19T21:47:13.864Z",
   "list": [
     {
       "index": 1,
       "title": "黄仁勋即中本聪",
       "url": "https://www.huxiu.com/article/4843388.html",
-      "hot_value": "收藏:89 评论:5",
+      "hot_value": "收藏:125 评论:8",
       "extra": {
         "author": "硅基立场",
         "author_avatar": "https://img.huxiucdn.com/auth/data/avatar/011/24/45/07_1723629645.jpg",
         "channel": "前沿科技",
-        "comment_num": 5,
+        "comment_num": 8,
         "cover": "https://img.huxiucdn.com/article/cover/202603/19/071648387166.jpg",
-        "favorite_num": 89,
+        "favorite_num": 125,
         "id": "4843388",
         "summary": "过去因为相信所以看见的那个 token，现在不用相信就能看见",
         "type": "focus"
@@ -21,159 +21,74 @@
     },
     {
       "index": 2,
-      "title": "物价，该涨了？",
-      "url": "https://www.huxiu.com/article/4843471.html",
-      "hot_value": "收藏:7 评论:4",
+      "title": "张近东清零：家族资产隔离为何彻底失效",
+      "url": "https://www.huxiu.com/article/4843543.html",
+      "hot_value": "收藏:28 评论:3",
       "extra": {
-        "author": "底线思维©",
-        "author_avatar": "https://img.huxiucdn.com/auth/data/avatar/002/73/71/14_1610424132.jpg",
-        "channel": "商业消费",
-        "comment_num": 4,
-        "cover": "https://img.huxiucdn.com/ai/ai-general-cover/202603/19/14155-prod-jm-general-1-1773893903575.png",
-        "favorite_num": 7,
-        "id": "4843471",
-        "summary": "",
+        "author": "家办新智点",
+        "author_avatar": "https://img.huxiucdn.com/auth/data/avatar/003/10/83/95_1620710975.jpg",
+        "channel": "金融财经",
+        "comment_num": 3,
+        "cover": "https://img.huxiucdn.com/article/cover/202603/19/164937163778.jpg",
+        "favorite_num": 28,
+        "id": "4843543",
+        "summary": "创始人的个人财富就被动变成了整个债务链条的兜底工具",
         "type": "focus"
       }
     },
     {
       "index": 3,
-      "title": "战争不是新闻，而是资产重定价机器",
-      "url": "https://www.huxiu.com/article/4843422.html",
+      "title": "未来是AI彼此竞争，人变得不重要",
+      "url": "https://www.huxiu.com/article/4843627.html",
       "hot_value": "收藏:9 评论:0",
       "extra": {
-        "author": "陈明坤宏观观察©",
-        "author_avatar": "https://img.huxiucdn.com/user/2026/03/19/124811236322.jpg",
-        "channel": "金融财经",
+        "author": "南七道",
+        "author_avatar": "https://img.huxiucdn.com/auth/data/avatar/000/28/47/25_1771943767.jpeg",
+        "channel": "前沿科技",
         "comment_num": 0,
-        "cover": "https://img.huxiucdn.com/article/cover/202603/19/124624956091.jpg",
+        "cover": "https://img.huxiucdn.com/ai/ai-article-cover/202603/19/4843627-prod-kl-1.png",
         "favorite_num": 9,
-        "id": "4843422",
-        "summary": "战前看逻辑，战时抓错配，战后看传导",
+        "id": "4843627",
+        "summary": "普通人如何抓住 AI 红利？",
         "type": "focus"
       }
     },
     {
       "index": 4,
-      "title": "AI正在替代研究员",
-      "url": "https://www.huxiu.com/article/4842845.html",
-      "hot_value": "收藏:130 评论:13",
-      "extra": {
-        "author": "远川投资评论",
-        "author_avatar": "",
-        "channel": "",
-        "comment_num": 13,
-        "cover": "https://img.huxiucdn.com/ai/ai-article-cover/202603/17/4842845-prod-1-jmv2-2.png",
-        "favorite_num": 130,
-        "id": "4842845",
-        "summary": "",
-        "type": "hot"
-      }
-    },
-    {
-      "index": 5,
-      "title": "AI，正在吞噬所有软件",
-      "url": "https://www.huxiu.com/article/4842738.html",
-      "hot_value": "收藏:129 评论:10",
-      "extra": {
-        "author": "数字生命卡兹克©",
-        "author_avatar": "",
-        "channel": "",
-        "comment_num": 10,
-        "cover": "https://img.huxiucdn.com/ai/ai-general-cover/202603/17/13792-prod-kl-general-1-1773713673244.png",
-        "favorite_num": 129,
-        "id": "4842738",
-        "summary": "",
-        "type": "hot"
-      }
-    },
-    {
-      "index": 6,
-      "title": "高净值老外，为何突然涌入上海？",
-      "url": "https://www.huxiu.com/article/4842696.html",
-      "hot_value": "收藏:54 评论:10",
-      "extra": {
-        "author": "旅界",
-        "author_avatar": "",
-        "channel": "",
-        "comment_num": 10,
-        "cover": "https://img.huxiucdn.com/article/cover/202603/17/081645360222.jpg",
-        "favorite_num": 54,
-        "id": "4842696",
-        "summary": "",
-        "type": "hot"
-      }
-    },
-    {
-      "index": 7,
-      "title": "伊朗，坐拥中国6倍资源的乞丐",
-      "url": "https://www.huxiu.com/article/4842591.html",
-      "hot_value": "收藏:60 评论:8",
-      "extra": {
-        "author": "地球知识局",
-        "author_avatar": "",
-        "channel": "",
-        "comment_num": 8,
-        "cover": "https://img.huxiucdn.com/article/cover/202603/17/085408855745.jpg",
-        "favorite_num": 60,
-        "id": "4842591",
-        "summary": "",
-        "type": "hot"
-      }
-    },
-    {
-      "index": 8,
       "title": "去分拣中心看了半天，我被干沉默了",
       "url": "https://www.huxiu.com/article/4842722.html",
-      "hot_value": "收藏:51 评论:8",
+      "hot_value": "收藏:54 评论:8",
       "extra": {
         "author": "六镇©",
         "author_avatar": "",
         "channel": "",
         "comment_num": 8,
         "cover": "https://img.huxiucdn.com/article/cover/202603/18/083849679173.jpg",
-        "favorite_num": 51,
+        "favorite_num": 54,
         "id": "4842722",
         "summary": "",
         "type": "hot"
       }
     },
     {
-      "index": 9,
-      "title": "2026互联网第一雷，炸了",
-      "url": "https://www.huxiu.com/article/4842797.html",
-      "hot_value": "收藏:42 评论:3",
+      "index": 5,
+      "title": "为什么医院门口总有烤红薯摊？",
+      "url": "https://www.huxiu.com/article/4843164.html",
+      "hot_value": "收藏:34 评论:10",
       "extra": {
-        "author": "融中财经",
+        "author": "正解局",
         "author_avatar": "",
         "channel": "",
-        "comment_num": 3,
-        "cover": "https://img.huxiucdn.com/ai/ai-general-cover/202603/17/13816-prod-db-general-1-1773723273519.png",
-        "favorite_num": 42,
-        "id": "4842797",
+        "comment_num": 10,
+        "cover": "https://img.huxiucdn.com/ai/ai-article-cover/202603/18/4843164-prod-jm-1.png",
+        "favorite_num": 34,
+        "id": "4843164",
         "summary": "",
         "type": "hot"
       }
     },
     {
-      "index": 10,
-      "title": "出口暴涨73%、均价飙升52%：是谁在疯狂买爆“落后”的中国芯片？",
-      "url": "https://www.huxiu.com/article/4842702.html",
-      "hot_value": "收藏:41 评论:1",
-      "extra": {
-        "author": "TOP创新区研究院©",
-        "author_avatar": "",
-        "channel": "",
-        "comment_num": 1,
-        "cover": "https://img.huxiucdn.com/ai/ai-general-cover/202603/17/13775-prod-db-general-1-1773706744402.png",
-        "favorite_num": 41,
-        "id": "4842702",
-        "summary": "",
-        "type": "hot"
-      }
-    },
-    {
-      "index": 11,
+      "index": 6,
       "title": "腾讯音乐的投资人，昨晚真的吓死了",
       "url": "https://www.huxiu.com/article/4843091.html",
       "hot_value": "收藏:19 评论:3",
@@ -188,7 +103,75 @@
         "summary": "",
         "type": "hot"
       }
+    },
+    {
+      "index": 7,
+      "title": "佛山首富宣告破产",
+      "url": "https://www.huxiu.com/article/4843135.html",
+      "hot_value": "收藏:38 评论:5",
+      "extra": {
+        "author": "火栗网",
+        "author_avatar": "",
+        "channel": "",
+        "comment_num": 5,
+        "cover": "https://img.huxiucdn.com/ai/ai-general-cover/202603/18/13983-prod-kl-general-1-1773809569100.png",
+        "favorite_num": 38,
+        "id": "4843135",
+        "summary": "",
+        "type": "hot"
+      }
+    },
+    {
+      "index": 8,
+      "title": "股价暴跌24%，腾讯音乐的壁垒被AI搞崩了",
+      "url": "https://www.huxiu.com/article/4843275.html",
+      "hot_value": "收藏:62 评论:9",
+      "extra": {
+        "author": "硅基观察Pro",
+        "author_avatar": "",
+        "channel": "",
+        "comment_num": 9,
+        "cover": "https://img.huxiucdn.com/ai/ai-general-cover/202603/18/14051-prod-db-general-1-1773832298249.png",
+        "favorite_num": 62,
+        "id": "4843275",
+        "summary": "",
+        "type": "hot"
+      }
+    },
+    {
+      "index": 9,
+      "title": "特斯拉要甩掉宁德时代",
+      "url": "https://www.huxiu.com/article/4843387.html",
+      "hot_value": "收藏:20 评论:1",
+      "extra": {
+        "author": "汽车商业评论",
+        "author_avatar": "",
+        "channel": "",
+        "comment_num": 1,
+        "cover": "https://img.huxiucdn.com/ai/ai-general-cover/202603/19/14109-prod-kl-general-1-1773875257488.png",
+        "favorite_num": 20,
+        "id": "4843387",
+        "summary": "",
+        "type": "hot"
+      }
+    },
+    {
+      "index": 10,
+      "title": "对异性失去欲望的年轻人，买爆情趣用品？",
+      "url": "https://www.huxiu.com/article/4843130.html",
+      "hot_value": "收藏:34 评论:7",
+      "extra": {
+        "author": "印客美学©",
+        "author_avatar": "",
+        "channel": "",
+        "comment_num": 7,
+        "cover": "https://img.huxiucdn.com/ai/ai-general-cover/202603/18/13978-prod-db-general-1-1773808468989.png",
+        "favorite_num": 34,
+        "id": "4843130",
+        "summary": "",
+        "type": "hot"
+      }
     }
   ],
-  "_synced_at": "2026-03-19T10:29:28Z"
+  "_synced_at": "2026-03-19T22:17:28Z"
 }

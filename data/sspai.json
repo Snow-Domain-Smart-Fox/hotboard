@@ -1,48 +1,61 @@
 {
   "type": "sspai",
-  "update_time": "2026-03-19T07:16:05.917Z",
+  "update_time": "2026-03-19T22:01:46.986Z",
   "list": [
     {
       "index": 1,
-      "title": "年度征文｜效率杂谈：告别纸笔拓荒，怎么用 AI 来辅助学习？",
-      "url": "https://sspai.com/post/106878",
-      "hot_value": "评论:6 点赞:32",
+      "title": "勃朗特三姐妹书影单：贫瘠土地生出的女性之花",
+      "url": "https://sspai.com/post/107517",
+      "hot_value": "评论:3 点赞:6",
       "extra": {
-        "author": "Haoo_7",
-        "comment_count": 6,
-        "id": 106878,
-        "like_count": 32,
-        "summary": "如果你现在比较迷茫，不知道怎么学习才好，那希望这个学习方法论可以给你提供一些参考。切记：一切都要以自己的需求为主。"
+        "author": "潘誉晗",
+        "comment_count": 3,
+        "id": 107517,
+        "like_count": 6,
+        "summary": "伴着诸多争议的新版《呼啸山庄》上映，与我们一同重温勃朗特三姐妹那些文艺作品……"
       }
     },
     {
       "index": 2,
-      "title": "打造我的「智能家」：使用 Claude Code 轻松使用 Home Assistant",
-      "url": "https://sspai.com/post/106992",
-      "hot_value": "评论:14 点赞:22",
+      "title": "年度征文｜效率杂谈：告别纸笔拓荒，怎么用 AI 来辅助学习？",
+      "url": "https://sspai.com/post/106878",
+      "hot_value": "评论:9 点赞:35",
       "extra": {
-        "author": "yzlnew",
-        "comment_count": 14,
-        "id": 106992,
-        "like_count": 22,
-        "summary": "Home Assistant 凭借其强大、丰富、开放的 API 工具，必将成为这个 Agentic 时代智能家居的第一选择。"
+        "author": "Haoo_7",
+        "comment_count": 9,
+        "id": 106878,
+        "like_count": 35,
+        "summary": "如果你现在比较迷茫，不知道怎么学习才好，那希望这个学习方法论可以给你提供一些参考。切记：一切都要以自己的需求为主。"
       }
     },
     {
       "index": 3,
+      "title": "打造我的「智能家」：使用 Claude Code 轻松使用 Home Assistant",
+      "url": "https://sspai.com/post/106992",
+      "hot_value": "评论:19 点赞:29",
+      "extra": {
+        "author": "yzlnew",
+        "comment_count": 19,
+        "id": 106992,
+        "like_count": 29,
+        "summary": "Home Assistant 凭借其强大、丰富、开放的 API 工具，必将成为这个 Agentic 时代智能家居的第一选择。"
+      }
+    },
+    {
+      "index": 4,
       "title": "社区速递 133 | 派友热议 AI Coding 方案、西圣 Pencil X 平替笔体验",
       "url": "https://sspai.com/post/107466",
-      "hot_value": "评论:10 点赞:8",
+      "hot_value": "评论:13 点赞:8",
       "extra": {
         "author": "Matrix机器人",
-        "comment_count": 10,
+        "comment_count": 13,
         "id": 107466,
         "like_count": 8,
         "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿的新玩意呈现给大家。💬一派热议 ..."
       }
     },
     {
-      "index": 4,
+      "index": 5,
       "title": "为心脏健康持续护航，Apple Watch 房颤迹象记录软件功能上线",
       "url": "https://sspai.com/post/107453",
       "hot_value": "评论:12 点赞:16",
@@ -55,28 +68,15 @@
       }
     },
     {
-      "index": 5,
-      "title": "少数派十四周年直播：我们挑选了这四类好产品",
-      "url": "https://sspai.com/post/107428",
-      "hot_value": "评论:0 点赞:4",
-      "extra": {
-        "author": "什么陈",
-        "comment_count": 0,
-        "id": 107428,
-        "like_count": 4,
-        "summary": "每年三月，与大家聊聊我们这一年的探索与共创，已经成为少数派的传统。3月18日19:30，少数派创始人老麦将来到直播间，与大家聊聊这一年的共创历程。同时，我们也争取到了目前市面上比较稀缺的现货墨水屏，以 ..."
-      }
-    },
-    {
       "index": 6,
       "title": "投票开启｜BeatBox 盖板设计实录：用一块透明亚克力，把奇妙灵感凝成实体",
       "url": "https://sspai.com/post/106917",
-      "hot_value": "评论:5 点赞:14",
+      "hot_value": "评论:5 点赞:15",
       "extra": {
         "author": "听歌的水獭",
         "comment_count": 5,
         "id": 106917,
-        "like_count": 14,
+        "like_count": 15,
         "summary": "不仅仅是一块盖板最好的设计往往不是正襟危坐的苦思冥想，而是对生活平凡瞬间的细致观察。在整理BeatBox盖板设计大赛的作品时，我们发现，这块方寸之间的透明面板，正成为连接数字音乐与实体触感的桥梁。它不 ..."
       }
     },
@@ -95,6 +95,19 @@
     },
     {
       "index": 8,
+      "title": "少数派十四周年直播：我们挑选了这四类好产品",
+      "url": "https://sspai.com/post/107428",
+      "hot_value": "评论:0 点赞:4",
+      "extra": {
+        "author": "什么陈",
+        "comment_count": 0,
+        "id": 107428,
+        "like_count": 4,
+        "summary": "每年三月，与大家聊聊我们这一年的探索与共创，已经成为少数派的传统。3月18日19:30，少数派创始人老麦将来到直播间，与大家聊聊这一年的共创历程。同时，我们也争取到了目前市面上比较稀缺的现货墨水屏，以 ..."
+      }
+    },
+    {
+      "index": 9,
       "title": "TaskTick：macOS 上简单的定时任务管理工具",
       "url": "https://sspai.com/post/107421",
       "hot_value": "评论:0 点赞:3",
@@ -107,7 +120,7 @@
       }
     },
     {
-      "index": 9,
+      "index": 10,
       "title": "TDS REVIEW｜天龙 PerL Pro 降噪真无线耳机体验",
       "url": "https://sspai.com/post/107131",
       "hot_value": "评论:2 点赞:8",
@@ -118,20 +131,7 @@
         "like_count": 8,
         "summary": "如果你不是小耳廓人群、手上主力手机是高通 SoC，且对它的声音风格不排斥，那大可以试试。"
       }
-    },
-    {
-      "index": 10,
-      "title": "本周看什么 | 最近值得一看的 9 部作品",
-      "url": "https://sspai.com/post/107183",
-      "hot_value": "评论:5 点赞:9",
-      "extra": {
-        "author": "少数派编辑部",
-        "comment_count": 5,
-        "id": 107183,
-        "like_count": 9,
-        "summary": "📅本周新预告《异兽魔都第二季》正式预告3月8日，动画剧集《异兽魔都第二季》发布了正式预告，将于4月1日上线流媒体平台。本作改编自林田球的同名漫画，林祐一郎执导，濑古浩司编剧，MAPPA制作，讲述头部变 ..."
-      }
     }
   ],
-  "_synced_at": "2026-03-19T10:29:42Z"
+  "_synced_at": "2026-03-19T22:17:28Z"
 }

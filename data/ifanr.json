@@ -1,9 +1,87 @@
 {
   "type": "ifanr",
-  "update_time": "2026-03-19T06:57:53.940Z",
+  "update_time": "2026-03-19T21:23:29.619Z",
   "list": [
     {
       "index": 1,
+      "title": "21.99 万元起，新一代小米 SU7 变贵了，但强到可怕",
+      "url": "https://www.ifanr.com/1658962",
+      "hot_value": "",
+      "extra": {
+        "author": "芥末",
+        "category": "公司",
+        "id": "1658962",
+        "summary": "打动人心的好产品。",
+        "timestamp": "2026-03-19T13:11:34.000Z"
+      }
+    },
+    {
+      "index": 2,
+      "title": "AI 都能自己做视频了，我却比任何时候更想要创作",
+      "url": "https://www.ifanr.com/1658954",
+      "hot_value": "",
+      "extra": {
+        "author": "爱范儿",
+        "category": "产品",
+        "id": "1658954",
+        "summary": "一个人，就是一支专业影视团队",
+        "timestamp": "2026-03-19T12:00:01.000Z"
+      }
+    },
+    {
+      "index": 3,
+      "title": "被 OpenClaw 选中的飞书 ，终于给出小白无痛养虾「版本答案」",
+      "url": "https://www.ifanr.com/1658950",
+      "hot_value": "",
+      "extra": {
+        "author": "杜晨",
+        "category": "产品",
+        "id": "1658950",
+        "summary": "工作在哪里，哪里就有飞书 aily",
+        "timestamp": "2026-03-19T11:28:18.000Z"
+      }
+    },
+    {
+      "index": 4,
+      "title": "英伟达给游戏玩家喂 AI 泔水？事情可能没有想象的那么糟",
+      "url": "https://www.ifanr.com/1658826",
+      "hot_value": "",
+      "extra": {
+        "author": "马扶摇",
+        "category": "爱范儿",
+        "id": "1658826",
+        "summary": "让子弹飞一会。",
+        "timestamp": "2026-03-19T08:36:10.000Z"
+      }
+    },
+    {
+      "index": 5,
+      "title": "全网猜了一周 DeepSeek V4，结果是小米干的",
+      "url": "https://www.ifanr.com/1658781",
+      "hot_value": "",
+      "extra": {
+        "author": "莫崇宇",
+        "category": "公司",
+        "id": "1658781",
+        "summary": "人车家全生态",
+        "timestamp": "2026-03-19T08:12:42.000Z"
+      }
+    },
+    {
+      "index": 6,
+      "title": "配置反转、价格倒挂：iPad Air 还是 MacBook Neo，到底选谁？",
+      "url": "https://www.ifanr.com/1658371",
+      "hot_value": "",
+      "extra": {
+        "author": "谢东成",
+        "category": "产品",
+        "id": "1658371",
+        "summary": "瑞士军刀看似「万能」，但瑞士军刀上的那把小剪刀，永远不如一把真正的剪刀好用。",
+        "timestamp": "2026-03-19T08:03:59.000Z"
+      }
+    },
+    {
+      "index": 7,
       "title": "这辆「风格大胆」的 i3，是宝马 10 年来最好的纯电车",
       "url": "https://www.ifanr.com/1658763",
       "hot_value": "",
@@ -16,7 +94,7 @@
       }
     },
     {
-      "index": 2,
+      "index": 8,
       "title": "200 块的柯达「盲盒相机」：画质稀烂，但为什么人人抢着买？",
       "url": "https://www.ifanr.com/1657488",
       "hot_value": "",
@@ -29,7 +107,7 @@
       }
     },
     {
-      "index": 3,
+      "index": 9,
       "title": "实测 Seedance 2.0 加持的小云雀最新 Agent，我一键生成了龙王赘婿短剧",
       "url": "https://www.ifanr.com/1658787",
       "hot_value": "",
@@ -42,7 +120,7 @@
       }
     },
     {
-      "index": 4,
+      "index": 10,
       "title": "早报｜库克现身成都苹果50周年庆，李宇春受邀演出/微信灰度测试「折叠发图」功能/阿里、百度官宣算力涨价",
       "url": "https://www.ifanr.com/1658782",
       "hot_value": "",
@@ -55,7 +133,7 @@
       }
     },
     {
-      "index": 5,
+      "index": 11,
       "title": "我在微信养了一天龙虾🦞，花了 20 万Token让它给我发压缩包",
       "url": "https://www.ifanr.com/1658689",
       "hot_value": "",
@@ -68,7 +146,7 @@
       }
     },
     {
-      "index": 6,
+      "index": 12,
       "title": "马斯克下场点赞！Kimi 这篇论文撬动了大模型的「祖传地基」",
       "url": "https://www.ifanr.com/1658668",
       "hot_value": "",
@@ -81,7 +159,7 @@
       }
     },
     {
-      "index": 7,
+      "index": 13,
       "title": "拆开 MacBook Neo，我发现了未来苹果电脑的蛛丝马迹",
       "url": "https://www.ifanr.com/1658426",
       "hot_value": "",
@@ -94,7 +172,7 @@
       }
     },
     {
-      "index": 8,
+      "index": 14,
       "title": "「日本最强AI」塌房了！扒开代码全是DeepSeek，日本网友集体破防",
       "url": "https://www.ifanr.com/1658639",
       "hot_value": "",
@@ -107,7 +185,7 @@
       }
     },
     {
-      "index": 9,
+      "index": 15,
       "title": "OPPO Watch X3 发布：定价 2799 元，健康、睡眠检测和质感全升级",
       "url": "https://www.ifanr.com/1658622",
       "hot_value": "",
@@ -120,7 +198,7 @@
       }
     },
     {
-      "index": 10,
+      "index": 16,
       "title": "早报｜苹果家庭硬件负责人离职，加入智能戒指公司/黄仁勋回应DLSS5「AI垃圾」争议/9999起，OPPO Find N6正式发布",
       "url": "https://www.ifanr.com/1658609",
       "hot_value": "",
@@ -133,7 +211,7 @@
       }
     },
     {
-      "index": 11,
+      "index": 17,
       "title": "启境 GT7 正式亮相！华为乾坤深度赋能，首发赤兔底盘平台",
       "url": "https://www.ifanr.com/1658588",
       "hot_value": "",
@@ -146,7 +224,7 @@
       }
     },
     {
-      "index": 12,
+      "index": 18,
       "title": "第一台「无折痕」手机，为所有「不敢折」的人而来｜OPPO Find N6 评测",
       "url": "https://www.ifanr.com/1658541",
       "hot_value": "",
@@ -159,7 +237,7 @@
       }
     },
     {
-      "index": 13,
+      "index": 19,
       "title": "专访苹果医学家：房颤患者，为什么应该戴一块 Apple Watch？",
       "url": "https://www.ifanr.com/1658498",
       "hot_value": "",
@@ -172,7 +250,7 @@
       }
     },
     {
-      "index": 14,
+      "index": 20,
       "title": "刚刚，阿里ATH事业群甩出王炸「悟空」！企业级正规军下场，龙虾们这次真要炸了",
       "url": "https://www.ifanr.com/1658400",
       "hot_value": "",
@@ -183,85 +261,7 @@
         "summary": "超级个体时代的入场券",
         "timestamp": "2026-03-17T04:43:49.000Z"
       }
-    },
-    {
-      "index": 15,
-      "title": "新品 OTW Agent 开售｜你的充电头，从此可升级",
-      "url": "https://www.ifanr.com/1658358",
-      "hot_value": "",
-      "extra": {
-        "author": "制糖工厂",
-        "category": "产品",
-        "id": "1658358",
-        "summary": "OTW Agent 正式上线",
-        "timestamp": "2026-03-17T02:24:31.000Z"
-      }
-    },
-    {
-      "index": 16,
-      "title": "早报｜英伟达发布太空战略、目标1万亿收入/苹果无预警发布AirPods Max 2/三星三折叠将停售",
-      "url": "https://www.ifanr.com/1658355",
-      "hot_value": "",
-      "extra": {
-        "author": "Shawn Rain",
-        "category": "早报",
-        "id": "1658355",
-        "summary": "· 多家 AI 企业回应「AI 投毒」\r\n· 徕卡相机将换帅，新 CEO 来自瑞士奢侈品牌万国表\r\n· 腾讯元宝派接入龙虾",
-        "timestamp": "2026-03-17T00:27:56.000Z"
-      }
-    },
-    {
-      "index": 17,
-      "title": "刚刚，英伟达龙虾登场！黄仁勋暴论频出，「人车家天地芯」冲击万亿收入",
-      "url": "https://www.ifanr.com/1658318",
-      "hot_value": "",
-      "extra": {
-        "author": "莫崇宇",
-        "category": "产品",
-        "id": "1658318",
-        "summary": "一切都要给 Agent 让路",
-        "timestamp": "2026-03-16T22:42:55.000Z"
-      }
-    },
-    {
-      "index": 18,
-      "title": "1400 匹马力、3 秒破百！「公路之王」极氪 8X 来了，预售 37.68 万元起",
-      "url": "https://www.ifanr.com/1658285",
-      "hot_value": "",
-      "extra": {
-        "author": "芥末",
-        "category": "公司",
-        "id": "1658285",
-        "summary": "选择走一条不同寻常的路需要勇气。",
-        "timestamp": "2026-03-16T14:03:30.000Z"
-      }
-    },
-    {
-      "index": 19,
-      "title": "门口拦人，现场退车？为了不上 315 晚会，车企们豁出去了",
-      "url": "https://www.ifanr.com/1658270",
-      "hot_value": "",
-      "extra": {
-        "author": "李华",
-        "category": "董车会",
-        "id": "1658270",
-        "summary": "被解决的，不应该是提出问题的人。",
-        "timestamp": "2026-03-16T12:37:22.000Z"
-      }
-    },
-    {
-      "index": 20,
-      "title": "「不作秀」的科沃斯机器人，如何实现具身智能未来？",
-      "url": "https://www.ifanr.com/1658167",
-      "hot_value": "",
-      "extra": {
-        "author": "苏伟鸿",
-        "category": "产品",
-        "id": "1658167",
-        "summary": "机器人走进家门，科沃斯准备好了",
-        "timestamp": "2026-03-16T09:30:22.000Z"
-      }
     }
   ],
-  "_synced_at": "2026-03-19T10:29:27Z"
+  "_synced_at": "2026-03-19T22:17:29Z"
 }

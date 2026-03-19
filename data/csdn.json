@@ -1,307 +1,307 @@
 {
   "type": "csdn",
-  "update_time": "2026-03-19 18:29:43",
+  "update_time": "2026-03-20 06:17:35",
   "list": [
     {
       "index": 1,
       "title": "AI Agent 框架选型指南：OpenClaw、LangChain、AutoGPT、CrewAI 深度对比",
       "url": "https://blog.csdn.net/sinat_41617212/article/details/159172831",
-      "hot_value": "3.8w",
+      "hot_value": "3.2w",
       "extra": {
         "article_id": "159172831",
         "author": "七夜zippoe",
-        "comment_count": "57",
-        "view_count": "1198"
+        "comment_count": "64",
+        "view_count": "1618"
       }
     },
     {
       "index": 2,
-      "title": "深度学习框架新纪元：PyTorch核心原理与工程实践全解析",
-      "url": "https://blog.csdn.net/2503_92624912/article/details/159118375",
-      "hot_value": "2.2w",
+      "title": "金仓数据库SQL防火墙：可以拦截99.99%，让恶意SQL无处遁形",
+      "url": "https://blog.csdn.net/weixin_42878111/article/details/159240772",
+      "hot_value": "1.9w",
       "extra": {
-        "article_id": "159118375",
-        "author": "软件科学-郝学胜",
-        "comment_count": "54",
-        "view_count": "1247"
+        "article_id": "159240772",
+        "author": "微学AI",
+        "comment_count": "0",
+        "view_count": "5583"
       }
     },
     {
       "index": 3,
-      "title": "OpenClaw（养龙虾） +关于Hadoop hive的Skills（CLoudera CDH、CDP）",
-      "url": "https://blog.csdn.net/yumgpkpm/article/details/159128138",
-      "hot_value": "2.1w",
+      "title": "AI实践(8)Skills技能",
+      "url": "https://blog.csdn.net/Once_day/article/details/159215390",
+      "hot_value": "1.3w",
       "extra": {
-        "article_id": "159128138",
-        "author": "肥仔鱼yumgpkpm",
-        "comment_count": "0",
-        "view_count": "1282"
+        "article_id": "159215390",
+        "author": "Once-Day",
+        "comment_count": "17",
+        "view_count": "741"
       }
     },
     {
       "index": 4,
       "title": "从「亡羊补牢」到「规则先行」：金仓数据库 SQL 防火墙实战解析",
       "url": "https://blog.csdn.net/Mrxiao_bo/article/details/159211470",
-      "hot_value": "2.0w",
+      "hot_value": "1.2w",
       "extra": {
         "article_id": "159211470",
         "author": "一只牛博",
         "comment_count": "0",
-        "view_count": "7164"
+        "view_count": "9836"
       }
     },
     {
       "index": 5,
-      "title": "【数据库】金仓数据库智能SQL防护机制，实现99.99%异常语句精准拦截",
-      "url": "https://blog.csdn.net/qq_38628970/article/details/159214631",
-      "hot_value": "1.8w",
+      "title": "金仓数据库 SQL 防火墙：内核级防护，筑牢 SQL 注入安全防线",
+      "url": "https://blog.csdn.net/2301_80026901/article/details/159213151",
+      "hot_value": "1.2w",
       "extra": {
-        "article_id": "159214631",
-        "author": "杰西笔记",
-        "comment_count": "0",
-        "view_count": "4150"
+        "article_id": "159213151",
+        "author": "聆风吟_",
+        "comment_count": "26",
+        "view_count": "10630"
       }
     },
     {
       "index": 6,
-      "title": "【抽奖系统开发实战】Spring Boot 项目的用户模块设计：注册登录、权限管控与敏感数据加密",
-      "url": "https://blog.csdn.net/whxcmy/article/details/159117986",
-      "hot_value": "1.5w",
-      "extra": {
-        "article_id": "159117986",
-        "author": "独断万古他化",
-        "comment_count": "2",
-        "view_count": "5808"
-      }
-    },
-    {
-      "index": 7,
-      "title": "AI Agent 开发学习 --- 构建软件团队智能体（二）",
-      "url": "https://blog.csdn.net/m0_52409770/article/details/159128964",
-      "hot_value": "1.5w",
-      "extra": {
-        "article_id": "159128964",
-        "author": "wincheshe",
-        "comment_count": "0",
-        "view_count": "983"
-      }
-    },
-    {
-      "index": 8,
-      "title": "AI实践(8)Skills技能",
-      "url": "https://blog.csdn.net/Once_day/article/details/159215390",
-      "hot_value": "1.5w",
-      "extra": {
-        "article_id": "159215390",
-        "author": "Once-Day",
-        "comment_count": "11",
-        "view_count": "355"
-      }
-    },
-    {
-      "index": 9,
       "title": "企业级招聘数据采集实战：基于 Bright Data AI Studio 的自动化爬虫方案",
       "url": "https://blog.csdn.net/m0_64336780/article/details/159202200",
-      "hot_value": "1.4w",
+      "hot_value": "1.2w",
       "extra": {
         "article_id": "159202200",
         "author": "艾派森",
         "comment_count": "15",
-        "view_count": "1712"
+        "view_count": "2540"
+      }
+    },
+    {
+      "index": 7,
+      "title": "让数据库学会说“不“——金仓 SQL 防火墙深度解析",
+      "url": "https://blog.csdn.net/m0_55394328/article/details/159213831",
+      "hot_value": "1.1w",
+      "extra": {
+        "article_id": "159213831",
+        "author": "颜颜yan_",
+        "comment_count": "19",
+        "view_count": "3057"
+      }
+    },
+    {
+      "index": 8,
+      "title": "SkyWalking - Kafka _ RabbitMQ 消息链路追踪支持",
+      "url": "https://blog.csdn.net/qq_41187124/article/details/157511477",
+      "hot_value": "1.1w",
+      "extra": {
+        "article_id": "157511477",
+        "author": "Jinkxs",
+        "comment_count": "56",
+        "view_count": "1874"
+      }
+    },
+    {
+      "index": 9,
+      "title": "【AI应用开发】-本地知识库答不上最新热点，我接入网络搜索，让Agent既能翻旧书也能上网冲浪",
+      "url": "https://blog.csdn.net/zxc18344522713/article/details/159204260",
+      "hot_value": "1.1w",
+      "extra": {
+        "article_id": "159204260",
+        "author": "Java后端的Ai之路",
+        "comment_count": "82",
+        "view_count": "1273"
       }
     },
     {
       "index": 10,
-      "title": "SkyWalking - Kafka _ RabbitMQ 消息链路追踪支持",
-      "url": "https://blog.csdn.net/qq_41187124/article/details/157511477",
-      "hot_value": "1.4w",
+      "title": "【Linux网络编程】（二）计算机网络概念进阶：彻底搞懂协议本质、传输流程与封装分用",
+      "url": "https://blog.csdn.net/2301_79248256/article/details/159214484",
+      "hot_value": "1.0w",
       "extra": {
-        "article_id": "157511477",
-        "author": "Jinkxs",
-        "comment_count": "17",
-        "view_count": "966"
+        "article_id": "159214484",
+        "author": "_OP_CHEN",
+        "comment_count": "30",
+        "view_count": "461"
       }
     },
     {
       "index": 11,
       "title": "【AI智能体】OpenClaw 对接腾讯QQ实战操作详解",
       "url": "https://blog.csdn.net/zhangcongyi420/article/details/159199351",
-      "hot_value": "1.4w",
+      "hot_value": "1.0w",
       "extra": {
         "article_id": "159199351",
         "author": "小码农叔叔",
-        "comment_count": "16",
-        "view_count": "818"
+        "comment_count": "18",
+        "view_count": "1091"
       }
     },
     {
       "index": 12,
-      "title": "Edge浏览器 about:blank 问题修复",
-      "url": "https://blog.csdn.net/ultramand/article/details/159213589",
-      "hot_value": "1.4w",
+      "title": "生物细胞学在AI时代下的最新进展（2026版）",
+      "url": "https://blog.csdn.net/kkiron/article/details/159155338",
+      "hot_value": "9120",
       "extra": {
-        "article_id": "159213589",
-        "author": "周杰伦fans",
-        "comment_count": "0",
-        "view_count": "1183"
+        "article_id": "159155338",
+        "author": "Allen_Lyb",
+        "comment_count": "18",
+        "view_count": "526"
       }
     },
     {
       "index": 13,
-      "title": "RabbitMQ和RocketMQ，哪个更好？",
-      "url": "https://blog.csdn.net/lisu061714112/article/details/159201862",
-      "hot_value": "1.3w",
+      "title": "工具箱思维：在计算机视觉中如何选对工具、用好工具（计算机视觉篇）",
+      "url": "https://blog.csdn.net/dongke1991/article/details/159206572",
+      "hot_value": "8031",
       "extra": {
-        "article_id": "159201862",
-        "author": "苏三说技术",
-        "comment_count": "0",
-        "view_count": "680"
+        "article_id": "159206572",
+        "author": "深图算法",
+        "comment_count": "8",
+        "view_count": "662"
       }
     },
     {
       "index": 14,
-      "title": "【Linux网络编程】（二）计算机网络概念进阶：彻底搞懂协议本质、传输流程与封装分用",
-      "url": "https://blog.csdn.net/2301_79248256/article/details/159214484",
-      "hot_value": "1.2w",
+      "title": "金仓数据库SQL防火墙构建主动防御，让恶意SQL无处遁形",
+      "url": "https://blog.csdn.net/2302_79376097/article/details/159213322",
+      "hot_value": "7743",
       "extra": {
-        "article_id": "159214484",
-        "author": "_OP_CHEN",
-        "comment_count": "23",
-        "view_count": "330"
+        "article_id": "159213322",
+        "author": "禁止默",
+        "comment_count": "18",
+        "view_count": "11840"
       }
     },
     {
       "index": 15,
-      "title": "生物细胞学在AI时代下的最新进展（2026版）",
-      "url": "https://blog.csdn.net/kkiron/article/details/159155338",
-      "hot_value": "1.1w",
+      "title": "SpringBoot 配置文件核心用法（Properties & YAML）",
+      "url": "https://blog.csdn.net/HANhylyxy/article/details/159121629",
+      "hot_value": "7438",
       "extra": {
-        "article_id": "159155338",
-        "author": "Allen_Lyb",
-        "comment_count": "17",
-        "view_count": "479"
+        "article_id": "159121629",
+        "author": "Han.miracle",
+        "comment_count": "13",
+        "view_count": "459"
       }
     },
     {
       "index": 16,
-      "title": "EDA简史：半导体与集成电路设计技术的商业、生态与未来——国产 EDA 破局，要先读懂行业的来时路",
-      "url": "https://blog.csdn.net/weixin_52908342/article/details/159214775",
-      "hot_value": "1.0w",
+      "title": "2026年3月UU远程副屏功能测评：平板设备秒变高效工作台",
+      "url": "https://blog.csdn.net/2503_91389547/article/details/159160655",
+      "hot_value": "7400",
       "extra": {
-        "article_id": "159214775",
-        "author": "一键难忘",
-        "comment_count": "0",
-        "view_count": "2060"
+        "article_id": "159160655",
+        "author": "草莓熊Lotso",
+        "comment_count": "50",
+        "view_count": "5511"
       }
     },
     {
       "index": 17,
-      "title": "【AI应用开发】-本地知识库答不上最新热点，我接入网络搜索，让Agent既能翻旧书也能上网冲浪",
-      "url": "https://blog.csdn.net/zxc18344522713/article/details/159204260",
-      "hot_value": "1.0w",
+      "title": "2026时序数据库选型全指南：大数据场景下的国产最优解，IoTDB实力领跑",
+      "url": "https://blog.csdn.net/weixin_37800531/article/details/159205963",
+      "hot_value": "6573",
       "extra": {
-        "article_id": "159204260",
-        "author": "Java后端的Ai之路",
-        "comment_count": "77",
-        "view_count": "847"
+        "article_id": "159205963",
+        "author": "byte轻骑兵",
+        "comment_count": "6",
+        "view_count": "7439"
       }
     },
     {
       "index": 18,
-      "title": "2026时序数据库选型全指南：大数据场景下的国产最优解，IoTDB实力领跑",
-      "url": "https://blog.csdn.net/weixin_37800531/article/details/159205963",
-      "hot_value": "1.0w",
-      "extra": {
-        "article_id": "159205963",
-        "author": "byte轻骑兵",
-        "comment_count": "5",
-        "view_count": "5553"
-      }
-    },
-    {
-      "index": 19,
-      "title": "从被攻击到免疫：我是如何用金仓 SQL 防火墙搞定 SQL 注入的",
-      "url": "https://blog.csdn.net/weixin_43151418/article/details/159208968",
-      "hot_value": "9287",
-      "extra": {
-        "article_id": "159208968",
-        "author": "xcLeigh",
-        "comment_count": "71",
-        "view_count": "8904"
-      }
-    },
-    {
-      "index": 20,
-      "title": "2026 Python+AI 学习方向拆解：3 个高性价比赛道，新手优先学",
-      "url": "https://blog.csdn.net/2401_86326742/article/details/159200675",
-      "hot_value": "9276",
-      "extra": {
-        "article_id": "159200675",
-        "author": "我不是呆头",
-        "comment_count": "55",
-        "view_count": "658"
-      }
-    },
-    {
-      "index": 21,
       "title": "开源智能体搭建平台MaxKB4j 技术文档",
       "url": "https://blog.csdn.net/weixin_40986713/article/details/159156828",
-      "hot_value": "8747",
+      "hot_value": "6494",
       "extra": {
         "article_id": "159156828",
         "author": "泰山AI",
         "comment_count": "3",
-        "view_count": "768"
+        "view_count": "817"
+      }
+    },
+    {
+      "index": 19,
+      "title": "OpenClaw 阿里云/本地部署多Agent步骤",
+      "url": "https://blog.csdn.net/weixin_44949135/article/details/159174975",
+      "hot_value": "6372",
+      "extra": {
+        "article_id": "159174975",
+        "author": "upward337",
+        "comment_count": "1",
+        "view_count": "417"
+      }
+    },
+    {
+      "index": 20,
+      "title": "Edge浏览器 about:blank 问题修复",
+      "url": "https://blog.csdn.net/ultramand/article/details/159213589",
+      "hot_value": "6151",
+      "extra": {
+        "article_id": "159213589",
+        "author": "周杰伦fans",
+        "comment_count": "0",
+        "view_count": "1439"
+      }
+    },
+    {
+      "index": 21,
+      "title": "你真的会使用 Gemini 吗？",
+      "url": "https://blog.csdn.net/yuan2019035055/article/details/159174707",
+      "hot_value": "5049",
+      "extra": {
+        "article_id": "159174707",
+        "author": "小满大王i",
+        "comment_count": "3",
+        "view_count": "24442"
       }
     },
     {
       "index": 22,
-      "title": "OpenClaw 阿里云/本地部署多Agent步骤",
-      "url": "https://blog.csdn.net/weixin_44949135/article/details/159174975",
-      "hot_value": "6386",
+      "title": "UnityMCP+Claude+VSCode，构建最强AI游戏开发环境",
+      "url": "https://blog.csdn.net/zhangay1998/article/details/159155494",
+      "hot_value": "4946",
       "extra": {
-        "article_id": "159174975",
-        "author": "upward337",
-        "comment_count": "0",
-        "view_count": "323"
+        "article_id": "159155494",
+        "author": "呆呆敲代码的小Y",
+        "comment_count": "30",
+        "view_count": "971"
       }
     },
     {
       "index": 23,
       "title": "【旋转框】基于YOLO26深度学习的无人机视角车辆检测系统【python源码+Pyqt5界面+数据集+训练代码】",
       "url": "https://blog.csdn.net/qq_42589613/article/details/159208167",
-      "hot_value": "6370",
+      "hot_value": "4579",
       "extra": {
         "article_id": "159208167",
         "author": "阿_旭",
         "comment_count": "0",
-        "view_count": "493"
+        "view_count": "582"
       }
     },
     {
       "index": 24,
       "title": "【高等数学】四,不定积分",
       "url": "https://blog.csdn.net/he_zhidan/article/details/158661330",
-      "hot_value": "5933",
+      "hot_value": "4256",
       "extra": {
         "article_id": "158661330",
         "author": "软件架构师何志丹",
-        "comment_count": "29",
-        "view_count": "1142"
+        "comment_count": "33",
+        "view_count": "1282"
       }
     },
     {
       "index": 25,
-      "title": "手写一个C++ TCP服务器实现自定义协议(顺便解决粘包问题)",
-      "url": "https://blog.csdn.net/2302_77620024/article/details/158850746",
-      "hot_value": "5704",
+      "title": "2026 Python+AI 学习方向拆解：3 个高性价比赛道，新手优先学",
+      "url": "https://blog.csdn.net/2401_86326742/article/details/159200675",
+      "hot_value": "4242",
       "extra": {
-        "article_id": "158850746",
-        "author": "Byte不洛",
-        "comment_count": "21",
-        "view_count": "999"
+        "article_id": "159200675",
+        "author": "我不是呆头",
+        "comment_count": "60",
+        "view_count": "800"
       }
     }
   ],
-  "_synced_at": "2026-03-19T10:29:43Z"
+  "_synced_at": "2026-03-19T22:17:35Z"
 }

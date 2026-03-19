@@ -1,6 +1,6 @@
 {
   "type": "qq-music",
-  "update_time": "2026-03-19T06:57:55.704Z",
+  "update_time": "2026-03-19T22:10:35.416Z",
   "list": [
     {
       "index": 1,
@@ -2583,7 +2583,7 @@
       "cover": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001fcYRq39l7de.jpg",
       "hot_value": "",
       "extra": {
-        "album": "一吻 Remix（一吻能把你俘获么）",
+        "album": "一吻 Remix（一吻能把你俘获吗）",
         "artist_names": "李毅恩Lye / 程屿",
         "duration_text": "2:20",
         "last_rank": 161,
@@ -2692,18 +2692,19 @@
         "artist_names": "ITZY (있지)",
         "duration_text": "3:00",
         "last_rank": 171,
+        "mv_vid": "003XhjIK3ayMiY",
         "songid": 255398176,
         "songmid": "002kHrXz2TaT1I"
       }
     },
     {
       "index": 172,
-      "title": "爱我就跟我走(如果爱我你就轻轻点点头)",
+      "title": "爱我就跟我走 (如果爱我你就轻轻点点头)",
       "url": "https://y.qq.com/n/ryqq/songDetail/004LDsa21jSimC",
       "cover": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001xQAhg1OGWXw.jpg",
       "hot_value": "",
       "extra": {
-        "album": "爱我就跟我走(如果爱我你就轻轻点点头)",
+        "album": "爱我就跟我走 (如果爱我你就轻轻点点头)",
         "artist_names": "梦境里的算法",
         "duration_text": "3:24",
         "last_rank": 163,
@@ -4667,5 +4668,5 @@
       }
     }
   ],
-  "_synced_at": "2026-03-19T10:29:37Z"
+  "_synced_at": "2026-03-19T22:17:36Z"
 }
