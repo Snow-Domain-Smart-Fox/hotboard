@@ -1,6 +1,6 @@
 {
   "type": "ceic-earthquake",
-  "update_time": "2026-03-18T22:15:58.093Z",
+  "update_time": "2026-03-19T04:47:09.810Z",
   "list": [
     {
       "index": 1,
@@ -323,5 +323,5 @@
       }
     }
   ],
-  "_synced_at": "2026-03-18T22:22:51Z"
+  "_synced_at": "2026-03-19T05:18:33Z"
 }

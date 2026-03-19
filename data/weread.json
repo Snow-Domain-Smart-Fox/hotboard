@@ -1,97 +1,64 @@
 {
   "type": "weread",
-  "update_time": "2026-03-18T21:03:43.807Z",
+  "update_time": "2026-03-19T04:57:50.864Z",
   "list": [
     {
       "index": 1,
-      "title": "奇风岁月",
+      "title": "大棋局",
       "url": "",
-      "hot_value": "1131人在读",
+      "hot_value": "330人在读",
       "extra": {
-        "author": "[美]罗伯特·麦卡蒙",
-        "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/23/856023/t6_856023.jpg",
-        "reading_count": 1131
+        "author": "兹比格纽·布热津斯基",
+        "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/996/32282996/t6_32282996.jpg",
+        "reading_count": 330
       }
     },
     {
       "index": 2,
       "title": "呼啸山庄",
       "url": "",
-      "hot_value": "5694人在读",
+      "hot_value": "5980人在读",
       "extra": {
         "author": "[英]艾米莉·勃朗特",
         "cover": "https://cdn.weread.qq.com/weread/cover/51/cpplatform_afb2dr2nymitjkkz3kcudp/t6_cpplatform_afb2dr2nymitjkkz3kcudp1754469527.jpg",
-        "reading_count": 5694
+        "reading_count": 5980
       }
     },
     {
       "index": 3,
       "title": "挽救计划（同名电影原著）",
       "url": "",
-      "hot_value": "3481人在读",
+      "hot_value": "3500人在读",
       "extra": {
         "author": "[美]安迪·威尔",
         "cover": "https://cdn.weread.qq.com/weread/cover/0/yuewen_41100356/t6_yuewen_411003561772520377.jpg",
-        "reading_count": 3481
+        "reading_count": 3500
       }
     },
     {
       "index": 4,
-      "title": "当年不肯嫁东风（《小楼一夜听春雨》姊妹篇）",
+      "title": "拖延心理学：越拖越慌？救急指南",
       "url": "",
-      "hot_value": "1562人在读",
+      "hot_value": "833人在读",
       "extra": {
-        "author": "明月倾",
-        "cover": "https://cdn.weread.qq.com/weread/cover/72/cpplatform_bwbr8xontjss6gygzhxjos/t6_cpplatform_bwbr8xontjss6gygzhxjos1740472199.jpg",
-        "reading_count": 1562
+        "author": "简·博克 莱诺拉·袁",
+        "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/707/38624707/t6_38624707.jpg",
+        "reading_count": 833
       }
     },
     {
       "index": 5,
-      "title": "拖延心理学：越拖越慌？救急指南",
+      "title": "你值得过更好的生活（独家首发｜全新修订本）",
       "url": "",
-      "hot_value": "736人在读",
+      "hot_value": "907人在读",
       "extra": {
-        "author": "简·博克 莱诺拉·袁",
-        "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/707/38624707/t6_38624707.jpg",
-        "reading_count": 736
+        "author": "罗伯特·沙因费尔德",
+        "cover": "https://cdn.weread.qq.com/weread/cover/43/cpplatform_gmpxvbdjh8x2d2cn7xmyzv/t6_cpplatform_gmpxvbdjh8x2d2cn7xmyzv1679490024.jpg",
+        "reading_count": 907
       }
     },
     {
       "index": 6,
-      "title": "你值得过更好的生活（独家首发｜全新修订本）",
-      "url": "",
-      "hot_value": "901人在读",
-      "extra": {
-        "author": "罗伯特·沙因费尔德",
-        "cover": "https://cdn.weread.qq.com/weread/cover/43/cpplatform_gmpxvbdjh8x2d2cn7xmyzv/t6_cpplatform_gmpxvbdjh8x2d2cn7xmyzv1679490024.jpg",
-        "reading_count": 901
-      }
-    },
-    {
-      "index": 7,
-      "title": "万历十五年（经典版）",
-      "url": "",
-      "hot_value": "2372人在读",
-      "extra": {
-        "author": "[美]黄仁宇",
-        "cover": "https://cdn.weread.qq.com/weread/cover/44/cpPlatform_wFh3Z1Xnp72HsAox1y9nUb/t6_cpPlatform_wFh3Z1Xnp72HsAox1y9nUb.jpg",
-        "reading_count": 2372
-      }
-    },
-    {
-      "index": 8,
-      "title": "小楼一夜听春雨",
-      "url": "",
-      "hot_value": "924人在读",
-      "extra": {
-        "author": "明月倾",
-        "cover": "https://cdn.weread.qq.com/weread/cover/77/cpplatform_pfy2qn1zjeq9tbvdpbbxfp/t6_cpplatform_pfy2qn1zjeq9tbvdpbbxfp1715840214.jpg",
-        "reading_count": 924
-      }
-    },
-    {
-      "index": 9,
       "title": "认知觉醒：开启自我改变的原动力",
       "url": "",
       "hot_value": "1人在读",
@@ -102,14 +69,47 @@
       }
     },
     {
-      "index": 10,
-      "title": "不要担心2小时和8公里以外的事情",
+      "index": 7,
+      "title": "奇风岁月",
       "url": "",
-      "hot_value": "4353人在读",
+      "hot_value": "1218人在读",
       "extra": {
-        "author": "李松涛",
-        "cover": "https://cdn.weread.qq.com/weread/cover/31/cpplatform_7uy2tcmvutzrkj82wvxviu/t6_cpplatform_7uy2tcmvutzrkj82wvxviu1761804278.jpg",
-        "reading_count": 4353
+        "author": "[美]罗伯特·麦卡蒙",
+        "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/23/856023/t6_856023.jpg",
+        "reading_count": 1218
+      }
+    },
+    {
+      "index": 8,
+      "title": "万历十五年（经典版）",
+      "url": "",
+      "hot_value": "2429人在读",
+      "extra": {
+        "author": "[美]黄仁宇",
+        "cover": "https://cdn.weread.qq.com/weread/cover/44/cpPlatform_wFh3Z1Xnp72HsAox1y9nUb/t6_cpPlatform_wFh3Z1Xnp72HsAox1y9nUb.jpg",
+        "reading_count": 2429
+      }
+    },
+    {
+      "index": 9,
+      "title": "当年不肯嫁东风（《小楼一夜听春雨》姊妹篇）",
+      "url": "",
+      "hot_value": "1692人在读",
+      "extra": {
+        "author": "明月倾",
+        "cover": "https://cdn.weread.qq.com/weread/cover/72/cpplatform_bwbr8xontjss6gygzhxjos/t6_cpplatform_bwbr8xontjss6gygzhxjos1740472199.jpg",
+        "reading_count": 1692
+      }
+    },
+    {
+      "index": 10,
+      "title": "我和我的命（电视剧《我的山与海》原著）",
+      "url": "",
+      "hot_value": "2145人在读",
+      "extra": {
+        "author": "梁晓声",
+        "cover": "https://cdn.weread.qq.com/weread/cover/36/YueWen_35681669/t6_YueWen_35681669.jpg",
+        "reading_count": 2145
       }
     },
     {
@@ -125,28 +125,17 @@
     },
     {
       "index": 12,
-      "title": "我和我的命（电视剧《我的山与海》原著）",
+      "title": "半小时玩转小龙虾：OpenClaw极简入门（轻科技）",
       "url": "",
-      "hot_value": "2200人在读",
+      "hot_value": "3767人在读",
       "extra": {
-        "author": "梁晓声",
-        "cover": "https://cdn.weread.qq.com/weread/cover/36/YueWen_35681669/t6_YueWen_35681669.jpg",
-        "reading_count": 2200
+        "author": "图灵智能研究院 刘江",
+        "cover": "https://cdn.weread.qq.com/weread/cover/88/cpplatform_1ajxmfgn8uo6ncapuhqj4c/t6_cpplatform_1ajxmfgn8uo6ncapuhqj4c1773388806.jpg",
+        "reading_count": 3767
       }
     },
     {
       "index": 13,
-      "title": "半小时玩转小龙虾：OpenClaw极简入门（轻科技）",
-      "url": "",
-      "hot_value": "4136人在读",
-      "extra": {
-        "author": "图灵智能研究院 刘江",
-        "cover": "https://cdn.weread.qq.com/weread/cover/88/cpplatform_1ajxmfgn8uo6ncapuhqj4c/t6_cpplatform_1ajxmfgn8uo6ncapuhqj4c1773388806.jpg",
-        "reading_count": 4136
-      }
-    },
-    {
-      "index": 14,
       "title": "毛泽东选集（全四卷）",
       "url": "",
       "hot_value": "1人在读",
@@ -157,71 +146,82 @@
       }
     },
     {
-      "index": 15,
-      "title": "以日为鉴：衰退时代生存指南（微信读书特别版）",
+      "index": 14,
+      "title": "爱的五种语言",
       "url": "",
-      "hot_value": "3753人在读",
+      "hot_value": "2817人在读",
       "extra": {
-        "author": "分析师Boden",
-        "cover": "https://cdn.weread.qq.com/weread/cover/4/cpplatform_c51jhaugkycsgy414tbhz2/t6_cpplatform_c51jhaugkycsgy414tbhz21755763748.jpg",
-        "reading_count": 3753
+        "author": "[美]盖瑞·查普曼",
+        "cover": "https://cdn.weread.qq.com/weread/cover/84/cpplatform_cs1rjysvneq3fi2r5q9oue/t6_cpplatform_cs1rjysvneq3fi2r5q9oue1701933444.jpg",
+        "reading_count": 2817
+      }
+    },
+    {
+      "index": 15,
+      "title": "不要担心2小时和8公里以外的事情",
+      "url": "",
+      "hot_value": "4159人在读",
+      "extra": {
+        "author": "李松涛",
+        "cover": "https://cdn.weread.qq.com/weread/cover/31/cpplatform_7uy2tcmvutzrkj82wvxviu/t6_cpplatform_7uy2tcmvutzrkj82wvxviu1761804278.jpg",
+        "reading_count": 4159
       }
     },
     {
       "index": 16,
-      "title": "爱的五种语言",
+      "title": "小楼一夜听春雨",
       "url": "",
-      "hot_value": "2896人在读",
+      "hot_value": "1034人在读",
       "extra": {
-        "author": "[美]盖瑞·查普曼",
-        "cover": "https://cdn.weread.qq.com/weread/cover/84/cpplatform_cs1rjysvneq3fi2r5q9oue/t6_cpplatform_cs1rjysvneq3fi2r5q9oue1701933444.jpg",
-        "reading_count": 2896
+        "author": "明月倾",
+        "cover": "https://cdn.weread.qq.com/weread/cover/77/cpplatform_pfy2qn1zjeq9tbvdpbbxfp/t6_cpplatform_pfy2qn1zjeq9tbvdpbbxfp1715840214.jpg",
+        "reading_count": 1034
       }
     },
     {
       "index": 17,
       "title": "慢慢仙途之仙灵界",
       "url": "",
-      "hot_value": "161人在读",
+      "hot_value": "160人在读",
       "extra": {
         "author": "绝世小白",
         "cover": "https://cdn.weread.qq.com/weread/cover/17/yuewen_310308/t6_yuewen_3103081766460830.jpg",
-        "reading_count": 161
+        "reading_count": 160
       }
     },
     {
       "index": 18,
-      "title": "写作是门手艺",
+      "title": "理解人性（知书经典）",
       "url": "",
-      "hot_value": "1843人在读",
+      "hot_value": "79人在读",
       "extra": {
-        "author": "刘军强",
-        "cover": "https://cdn.weread.qq.com/weread/cover/26/cpplatform_1sihztdys5mvqdsaviwubl/t6_cpplatform_1sihztdys5mvqdsaviwubl1769653383.jpg",
-        "reading_count": 1843
+        "author": "[奥]阿尔弗雷德·阿德勒",
+        "cover": "https://cdn.weread.qq.com/weread/cover/1/cpplatform_meaxmp69cv4uwwmpld2m54/t6_cpplatform_meaxmp69cv4uwwmpld2m541741171213.jpg",
+        "reading_count": 79
       }
     },
     {
       "index": 19,
-      "title": "人类简史：从动物到上帝",
+      "title": "以日为鉴：衰退时代生存指南（微信读书特别版）",
       "url": "",
-      "hot_value": "2424人在读",
+      "hot_value": "3780人在读",
       "extra": {
-        "author": "尤瓦尔·赫拉利",
-        "cover": "https://cdn.weread.qq.com/weread/cover/37/YueWen_855812/t6_YueWen_855812.jpg",
-        "reading_count": 2424
+        "author": "分析师Boden",
+        "cover": "https://cdn.weread.qq.com/weread/cover/4/cpplatform_c51jhaugkycsgy414tbhz2/t6_cpplatform_c51jhaugkycsgy414tbhz21755763748.jpg",
+        "reading_count": 3780
       }
     },
     {
       "index": 20,
-      "title": "台北人",
+      "title": "追问",
       "url": "",
-      "hot_value": "1320人在读",
+      "hot_value": "944人在读",
       "extra": {
-        "author": "白先勇",
-        "cover": "https://cdn.weread.qq.com/weread/cover/84/yuewen_838779/t6_yuewen_8387791723192471.jpg",
-        "reading_count": 1320
+        "author": "丁捷",
+        "cover": "https://cdn.weread.qq.com/weread/cover/18/yuewen_855556/t6_yuewen_8555561755580544.jpg",
+        "reading_count": 944
       }
     }
   ],
-  "_synced_at": "2026-03-18T22:22:54Z"
+  "_synced_at": "2026-03-19T05:18:32Z"
 }

@@ -1,17 +1,17 @@
 {
   "type": "sspai",
-  "update_time": "2026-03-18T21:37:10.507Z",
+  "update_time": "2026-03-19T04:42:14.091Z",
   "list": [
     {
       "index": 1,
       "title": "年度征文｜效率杂谈：告别纸笔拓荒，怎么用 AI 来辅助学习？",
       "url": "https://sspai.com/post/106878",
-      "hot_value": "评论:1 点赞:16",
+      "hot_value": "评论:4 点赞:29",
       "extra": {
         "author": "Haoo_7",
-        "comment_count": 1,
+        "comment_count": 4,
         "id": 106878,
-        "like_count": 16,
+        "like_count": 29,
         "summary": "如果你现在比较迷茫，不知道怎么学习才好，那希望这个学习方法论可以给你提供一些参考。切记：一切都要以自己的需求为主。"
       }
     },
@@ -19,12 +19,12 @@
       "index": 2,
       "title": "打造我的「智能家」：使用 Claude Code 轻松使用 Home Assistant",
       "url": "https://sspai.com/post/106992",
-      "hot_value": "评论:5 点赞:18",
+      "hot_value": "评论:11 点赞:21",
       "extra": {
         "author": "yzlnew",
-        "comment_count": 5,
+        "comment_count": 11,
         "id": 106992,
-        "like_count": 18,
+        "like_count": 21,
         "summary": "Home Assistant 凭借其强大、丰富、开放的 API 工具，必将成为这个 Agentic 时代智能家居的第一选择。"
       }
     },
@@ -45,10 +45,10 @@
       "index": 4,
       "title": "为心脏健康持续护航，Apple Watch 房颤迹象记录软件功能上线",
       "url": "https://sspai.com/post/107453",
-      "hot_value": "评论:11 点赞:16",
+      "hot_value": "评论:12 点赞:16",
       "extra": {
         "author": "北鸮",
-        "comment_count": 11,
+        "comment_count": 12,
         "id": 107453,
         "like_count": 16,
         "summary": "2022 年，一项名为「房颤历史记录」（AFib History）的功能随 iOS 16 与 watchOS 9 推出。如今，这项功能终于通过了国家药监局的审批，以「移动脉率房颤迹象记录软件」的形式正式在国内上线，Apple Watch Series 6 及更新机型在升级到 watchOS 26 后即可开启此功能。"
@@ -97,12 +97,12 @@
       "index": 8,
       "title": "TaskTick：macOS 上简单的定时任务管理工具",
       "url": "https://sspai.com/post/107421",
-      "hot_value": "评论:0 点赞:2",
+      "hot_value": "评论:0 点赞:3",
       "extra": {
         "author": "Devid",
         "comment_count": 0,
         "id": 107421,
-        "like_count": 2,
+        "like_count": 3,
         "summary": "▎无需crontab，无需launchd，创建定时任务像设闹钟一样简单。为什么做这个工具作为电脑用户，你一定遇到过这些场景：每天凌晨自动备份数据库定时检查服务器是否在线每周清理一次Docker垃圾镜像 ..."
       }
     },
@@ -133,5 +133,5 @@
       }
     }
   ],
-  "_synced_at": "2026-03-18T22:22:55Z"
+  "_synced_at": "2026-03-19T05:18:32Z"
 }

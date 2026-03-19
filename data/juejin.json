@@ -1,707 +1,707 @@
 {
   "type": "juejin",
-  "update_time": "2026-03-18T22:15:20.753Z",
+  "update_time": "2026-03-19T04:18:53.255Z",
   "list": [
     {
       "index": 1,
       "title": "刚刚！Google突然宣布：Gemini正式进香港，免魔法使用！",
       "url": "https://juejin.cn/post/7617697070363754542",
-      "hot_value": "热度:2826",
+      "hot_value": "热度:3231",
       "extra": {
         "author": "爱吃的小肥羊",
-        "collect": 4,
-        "comment": 14,
-        "hot_score": 2826,
-        "like": 14,
-        "view": 5722
+        "collect": 5,
+        "comment": 16,
+        "hot_score": 3231,
+        "like": 16,
+        "view": 6588
       }
     },
     {
       "index": 2,
       "title": "工作五年前端，终于靠OpenClaw拥有了专属个人网站",
       "url": "https://juejin.cn/post/7617647693184581658",
-      "hot_value": "热度:1593",
+      "hot_value": "热度:1953",
       "extra": {
         "author": "Ferries",
-        "collect": 22,
-        "comment": 10,
-        "hot_score": 1593,
-        "like": 23,
-        "view": 2888
+        "collect": 24,
+        "comment": 14,
+        "hot_score": 1953,
+        "like": 27,
+        "view": 3557
       }
     },
     {
       "index": 3,
       "title": "Flutter 鸿蒙 2026 路线发布，加速同步官方生态，进一步优化体验",
       "url": "https://juejin.cn/post/7617667131379613738",
-      "hot_value": "热度:1116",
+      "hot_value": "热度:1224",
       "extra": {
         "author": "恋猫de小郭",
         "collect": 10,
-        "comment": 15,
-        "hot_score": 1116,
-        "like": 25,
-        "view": 1685
+        "comment": 18,
+        "hot_score": 1224,
+        "like": 27,
+        "view": 1835
       }
     },
     {
       "index": 4,
-      "title": "最近315曝光的GEO——给 AI投毒是怎么一回事？",
-      "url": "https://juejin.cn/post/7617003285255929894",
-      "hot_value": "热度:1044",
+      "title": "从爆红到被嫌弃，MCP 为什么开始失宠了",
+      "url": "https://juejin.cn/post/7617816762886881286",
+      "hot_value": "热度:1170",
       "extra": {
-        "author": "五阳",
-        "collect": 14,
-        "comment": 9,
-        "hot_score": 1044,
-        "like": 12,
-        "view": 1904
+        "author": "Moment",
+        "collect": 16,
+        "comment": 3,
+        "hot_score": 1170,
+        "like": 16,
+        "view": 2258
       }
     },
     {
       "index": 5,
-      "title": "从爆红到被嫌弃，MCP 为什么开始失宠了",
-      "url": "https://juejin.cn/post/7617816762886881286",
-      "hot_value": "热度:999",
+      "title": "最近315曝光的GEO——给 AI投毒是怎么一回事？",
+      "url": "https://juejin.cn/post/7617003285255929894",
+      "hot_value": "热度:1098",
       "extra": {
-        "author": "Moment",
-        "collect": 15,
-        "comment": 3,
-        "hot_score": 999,
-        "like": 16,
-        "view": 1845
+        "author": "五阳",
+        "collect": 14,
+        "comment": 9,
+        "hot_score": 1098,
+        "like": 12,
+        "view": 2042
       }
     },
     {
       "index": 6,
       "title": "我的龙虾openclaw说要帮我跑15个小时来生成一部100w字的小说",
       "url": "https://juejin.cn/post/7617851474219352064",
-      "hot_value": "热度:819",
+      "hot_value": "热度:1026",
       "extra": {
         "author": "万少",
-        "collect": 7,
-        "comment": 15,
-        "hot_score": 819,
-        "like": 6,
-        "view": 1404
+        "collect": 9,
+        "comment": 17,
+        "hot_score": 1026,
+        "like": 10,
+        "view": 1758
       }
     },
     {
       "index": 7,
       "title": "5 分钟打造你的“幽灵搭档”终端-Ghostty ",
       "url": "https://juejin.cn/post/7616681500684419099",
-      "hot_value": "热度:657",
+      "hot_value": "热度:693",
       "extra": {
         "author": "树獭非懒",
-        "collect": 7,
+        "collect": 8,
         "comment": 0,
-        "hot_score": 657,
+        "hot_score": 693,
         "like": 6,
-        "view": 1350
+        "view": 1427
       }
     },
     {
       "index": 8,
       "title": "充值成功，腾讯成为OpenClaw官方赞肋商",
       "url": "https://juejin.cn/post/7617770069935570971",
-      "hot_value": "热度:576",
+      "hot_value": "热度:684",
       "extra": {
         "author": "程序员凌览",
         "collect": 3,
-        "comment": 0,
-        "hot_score": 576,
+        "comment": 3,
+        "hot_score": 684,
         "like": 2,
-        "view": 1248
+        "view": 1441
       }
     },
     {
       "index": 9,
-      "title": "Android Room 3.0 来了，这次改得有点狠",
-      "url": "https://juejin.cn/post/7617108607432736778",
-      "hot_value": "热度:558",
+      "title": "体验完阿里「悟空」，我想把电脑里的龙虾换掉了，是真NB！",
+      "url": "https://juejin.cn/post/7618418125198196779",
+      "hot_value": "热度:630",
       "extra": {
-        "author": "黄林晴",
-        "collect": 3,
-        "comment": 5,
-        "hot_score": 558,
-        "like": 11,
-        "view": 937
+        "author": "AI袋鼠帝",
+        "collect": 11,
+        "comment": 4,
+        "hot_score": 630,
+        "like": 12,
+        "view": 1140
       }
     },
     {
       "index": 10,
-      "title": "比阿里开源的 page-agent 更强？AutoPilot: 网页内置一个真正能\"稳定跑完\"的智能体",
-      "url": "https://juejin.cn/post/7617769259801149482",
-      "hot_value": "热度:522",
+      "title": "Android Room 3.0 来了，这次改得有点狠",
+      "url": "https://juejin.cn/post/7617108607432736778",
+      "hot_value": "热度:603",
       "extra": {
-        "author": "德莱厄斯",
-        "collect": 14,
-        "comment": 6,
-        "hot_score": 522,
-        "like": 17,
-        "view": 706
+        "author": "黄林晴",
+        "collect": 3,
+        "comment": 7,
+        "hot_score": 603,
+        "like": 11,
+        "view": 997
       }
     },
     {
       "index": 11,
       "title": "为什么资深前端都在悄悄学 WebAssembly？",
       "url": "https://juejin.cn/post/7617879883323686962",
-      "hot_value": "热度:495",
+      "hot_value": "热度:603",
       "extra": {
         "author": "前端Hardy",
         "collect": 7,
         "comment": 4,
-        "hot_score": 495,
+        "hot_score": 603,
         "like": 5,
-        "view": 931
+        "view": 1165
       }
     },
     {
       "index": 12,
       "title": "34岁前端倒计时：老板用AI手搓系统那天，我知道我的“体面退休”是个笑话",
       "url": "https://juejin.cn/post/7618109587552993286",
-      "hot_value": "热度:486",
+      "hot_value": "热度:594",
       "extra": {
         "author": "阳火锅",
         "collect": 4,
-        "comment": 11,
-        "hot_score": 486,
-        "like": 15,
-        "view": 569
+        "comment": 12,
+        "hot_score": 594,
+        "like": 17,
+        "view": 748
       }
     },
     {
       "index": 13,
-      "title": "RabbitMQ和RocketMQ，哪个更好？",
-      "url": "https://juejin.cn/post/7616923436976996392",
-      "hot_value": "热度:486",
+      "title": "比阿里开源的 page-agent 更强？AutoPilot: 网页内置一个真正能\"稳定跑完\"的智能体",
+      "url": "https://juejin.cn/post/7617769259801149482",
+      "hot_value": "热度:576",
       "extra": {
-        "author": "苏三说技术",
-        "collect": 21,
-        "comment": 1,
-        "hot_score": 486,
-        "like": 11,
-        "view": 843
+        "author": "德莱厄斯",
+        "collect": 19,
+        "comment": 6,
+        "hot_score": 576,
+        "like": 19,
+        "view": 785
       }
     },
     {
       "index": 14,
       "title": "M4 32GB 能跑的最强本地模型排行榜（2026版）",
       "url": "https://juejin.cn/post/7617769259800199210",
-      "hot_value": "热度:477",
+      "hot_value": "热度:540",
       "extra": {
         "author": "掘金安东尼",
-        "collect": 11,
+        "collect": 13,
         "comment": 0,
-        "hot_score": 477,
-        "like": 9,
-        "view": 890
+        "hot_score": 540,
+        "like": 10,
+        "view": 1021
       }
     },
     {
       "index": 15,
-      "title": "JS对象入门｜从创建到原理，一篇吃透核心知识点",
-      "url": "https://juejin.cn/post/7617879883322736690",
-      "hot_value": "热度:396",
+      "title": "RabbitMQ和RocketMQ，哪个更好？",
+      "url": "https://juejin.cn/post/7616923436976996392",
+      "hot_value": "热度:522",
       "extra": {
-        "author": "不甜情歌",
-        "collect": 14,
-        "comment": 3,
-        "hot_score": 396,
-        "like": 13,
-        "view": 565
+        "author": "苏三说技术",
+        "collect": 23,
+        "comment": 1,
+        "hot_score": 522,
+        "like": 11,
+        "view": 940
       }
     },
     {
       "index": 16,
-      "title": "前端发版后页面白屏？一套解决用户停留旧页面问题的完整方案",
-      "url": "https://juejin.cn/post/7617772728414502939",
-      "hot_value": "热度:396",
+      "title": "Electrobun 正式登场：仅 12MB，JS 桌面开发迎来轻量化新方案！",
+      "url": "https://juejin.cn/post/7618065319287750696",
+      "hot_value": "热度:477",
       "extra": {
-        "author": "Lsx_",
-        "collect": 8,
-        "comment": 0,
-        "hot_score": 396,
-        "like": 7,
-        "view": 745
+        "author": "前端Hardy",
+        "collect": 7,
+        "comment": 2,
+        "hot_score": 477,
+        "like": 12,
+        "view": 789
       }
     },
     {
       "index": 17,
-      "title": "2026 年前端 Agent 框架选型：Mastra 与 LangChain 该怎么选 ",
-      "url": "https://juejin.cn/post/7617004481947697162",
-      "hot_value": "热度:378",
+      "title": "前端发版后页面白屏？一套解决用户停留旧页面问题的完整方案",
+      "url": "https://juejin.cn/post/7617772728414502939",
+      "hot_value": "热度:459",
       "extra": {
-        "author": "Moment",
-        "collect": 11,
-        "comment": 1,
-        "hot_score": 378,
+        "author": "Lsx_",
+        "collect": 12,
+        "comment": 0,
+        "hot_score": 459,
         "like": 9,
-        "view": 644
+        "view": 845
       }
     },
     {
       "index": 18,
-      "title": "AI 智能体 Memory 记忆模块",
-      "url": "https://juejin.cn/post/7617677528958959651",
-      "hot_value": "热度:360",
+      "title": "JS对象入门｜从创建到原理，一篇吃透核心知识点",
+      "url": "https://juejin.cn/post/7617879883322736690",
+      "hot_value": "热度:423",
       "extra": {
-        "author": "前端双越老师",
-        "collect": 7,
-        "comment": 0,
-        "hot_score": 360,
-        "like": 12,
-        "view": 579
+        "author": "不甜情歌",
+        "collect": 15,
+        "comment": 3,
+        "hot_score": 423,
+        "like": 13,
+        "view": 620
       }
     },
     {
       "index": 19,
-      "title": "尤雨溪新公司官宣！Vite+ 正式开源，前端圈要变天了？",
-      "url": "https://juejin.cn/post/7617374417443045386",
-      "hot_value": "热度:333",
+      "title": "2026 年前端 Agent 框架选型：Mastra 与 LangChain 该怎么选 ",
+      "url": "https://juejin.cn/post/7617004481947697162",
+      "hot_value": "热度:405",
       "extra": {
-        "author": "程序员凌览",
-        "collect": 3,
-        "comment": 0,
-        "hot_score": 333,
-        "like": 5,
-        "view": 643
+        "author": "Moment",
+        "collect": 15,
+        "comment": 2,
+        "hot_score": 405,
+        "like": 9,
+        "view": 719
       }
     },
     {
       "index": 20,
-      "title": "Milkup 技术内幕：一个 Typora 风格的即时渲染 Markdown 编辑器是怎样炼成的",
-      "url": "https://juejin.cn/post/7617402856614412342",
-      "hot_value": "热度:324",
+      "title": "AI 智能体 Memory 记忆模块",
+      "url": "https://juejin.cn/post/7617677528958959651",
+      "hot_value": "热度:396",
       "extra": {
-        "author": "德莱厄斯",
-        "collect": 6,
-        "comment": 4,
-        "hot_score": 324,
-        "like": 6,
-        "view": 536
+        "author": "前端双越老师",
+        "collect": 7,
+        "comment": 0,
+        "hot_score": 396,
+        "like": 14,
+        "view": 632
       }
     },
     {
       "index": 21,
-      "title": "AI辅助开发最佳实践：2026年新方法",
-      "url": "https://juejin.cn/post/7618125717470085129",
-      "hot_value": "热度:306",
+      "title": "尤雨溪新公司官宣！Vite+ 正式开源，前端圈要变天了？",
+      "url": "https://juejin.cn/post/7617374417443045386",
+      "hot_value": "热度:378",
       "extra": {
-        "author": "牛奶",
-        "collect": 9,
+        "author": "程序员凌览",
+        "collect": 3,
         "comment": 0,
-        "hot_score": 306,
-        "like": 10,
-        "view": 481
+        "hot_score": 378,
+        "like": 6,
+        "view": 722
       }
     },
     {
       "index": 22,
-      "title": "让你的 OpenClaw 带你学习，清华开源 AI 私人导师 OpenMAIC",
-      "url": "https://juejin.cn/post/7618109587552059398",
-      "hot_value": "热度:306",
+      "title": "AI辅助开发最佳实践：2026年新方法",
+      "url": "https://juejin.cn/post/7618125717470085129",
+      "hot_value": "热度:378",
       "extra": {
-        "author": "恋猫de小郭",
-        "collect": 7,
-        "comment": 4,
-        "hot_score": 306,
+        "author": "牛奶",
+        "collect": 10,
+        "comment": 0,
+        "hot_score": 378,
         "like": 13,
-        "view": 346
+        "view": 589
       }
     },
     {
       "index": 23,
-      "title": "弃用 vue-i18n？只用 uView Pro 即可实现 uni-app 全端国际化",
-      "url": "https://juejin.cn/post/7617454799432482856",
-      "hot_value": "热度:306",
+      "title": "让你的 OpenClaw 带你学习，清华开源 AI 私人导师 OpenMAIC",
+      "url": "https://juejin.cn/post/7618109587552059398",
+      "hot_value": "热度:351",
       "extra": {
-        "author": "前端梦工厂",
-        "collect": 9,
-        "comment": 0,
-        "hot_score": 306,
-        "like": 6,
-        "view": 567
+        "author": "恋猫de小郭",
+        "collect": 7,
+        "comment": 4,
+        "hot_score": 351,
+        "like": 13,
+        "view": 459
       }
     },
     {
       "index": 24,
       "title": "穷鬼快乐AI工具Ollama",
       "url": "https://juejin.cn/post/7617480512559792179",
-      "hot_value": "热度:297",
+      "hot_value": "热度:351",
       "extra": {
         "author": "敲敲敲敲暴你脑袋",
-        "collect": 6,
+        "collect": 8,
         "comment": 0,
-        "hot_score": 297,
-        "like": 6,
-        "view": 550
+        "hot_score": 351,
+        "like": 7,
+        "view": 648
       }
     },
     {
       "index": 25,
-      "title": "我的Three.js3D场景编辑器免费开源啦🎉🎉🎉",
-      "url": "https://juejin.cn/post/7617857527662051362",
-      "hot_value": "热度:288",
+      "title": "Milkup 技术内幕：一个 Typora 风格的即时渲染 Markdown 编辑器是怎样炼成的",
+      "url": "https://juejin.cn/post/7617402856614412342",
+      "hot_value": "热度:342",
       "extra": {
-        "author": "答案answer",
-        "collect": 10,
+        "author": "德莱厄斯",
+        "collect": 6,
         "comment": 4,
-        "hot_score": 288,
-        "like": 10,
-        "view": 360
+        "hot_score": 342,
+        "like": 6,
+        "view": 565
       }
     },
     {
       "index": 26,
-      "title": "大家都在装 OpenClaw，我选择自己实现一个",
-      "url": "https://juejin.cn/post/7617744579778330678",
-      "hot_value": "热度:288",
+      "title": "弃用 vue-i18n？只用 uView Pro 即可实现 uni-app 全端国际化",
+      "url": "https://juejin.cn/post/7617454799432482856",
+      "hot_value": "热度:333",
       "extra": {
-        "author": "文叔叔",
-        "collect": 12,
-        "comment": 1,
-        "hot_score": 288,
-        "like": 8,
-        "view": 460
+        "author": "前端梦工厂",
+        "collect": 9,
+        "comment": 0,
+        "hot_score": 333,
+        "like": 7,
+        "view": 611
       }
     },
     {
       "index": 27,
-      "title": "Electrobun 正式登场：仅 12MB，JS 桌面开发迎来轻量化新方案！",
-      "url": "https://juejin.cn/post/7618065319287750696",
-      "hot_value": "热度:270",
+      "title": "大家都在装 OpenClaw，我选择自己实现一个",
+      "url": "https://juejin.cn/post/7617744579778330678",
+      "hot_value": "热度:324",
       "extra": {
-        "author": "前端Hardy",
-        "collect": 2,
+        "author": "文叔叔",
+        "collect": 14,
         "comment": 1,
-        "hot_score": 270,
-        "like": 5,
-        "view": 495
+        "hot_score": 324,
+        "like": 10,
+        "view": 510
       }
     },
     {
       "index": 28,
-      "title": "AI焦虑下，前端该何去何从",
-      "url": "https://juejin.cn/post/7618157782085910543",
-      "hot_value": "热度:252",
+      "title": "我的Three.js3D场景编辑器免费开源啦🎉🎉🎉",
+      "url": "https://juejin.cn/post/7617857527662051362",
+      "hot_value": "热度:315",
       "extra": {
-        "author": "石小石Orz",
-        "collect": 7,
-        "comment": 6,
-        "hot_score": 252,
-        "like": 8,
-        "view": 286
+        "author": "答案answer",
+        "collect": 11,
+        "comment": 4,
+        "hot_score": 315,
+        "like": 10,
+        "view": 428
       }
     },
     {
       "index": 29,
-      "title": "Flutter Beta 版本引入 ScrollCacheExtent ，并修复长久存在的 shrinkWrap NaN 问题",
-      "url": "https://juejin.cn/post/7618098747672051766",
-      "hot_value": "热度:252",
+      "title": "AI焦虑下，前端该何去何从",
+      "url": "https://juejin.cn/post/7618157782085910543",
+      "hot_value": "热度:288",
       "extra": {
-        "author": "恋猫de小郭",
-        "collect": 2,
-        "comment": 4,
-        "hot_score": 252,
-        "like": 7,
-        "view": 353
+        "author": "石小石Orz",
+        "collect": 8,
+        "comment": 6,
+        "hot_score": 288,
+        "like": 8,
+        "view": 378
       }
     },
     {
       "index": 30,
-      "title": "Android 中大型项目架构梳理",
-      "url": "https://juejin.cn/post/7617667131413086250",
-      "hot_value": "热度:252",
+      "title": "Flutter Beta 版本引入 ScrollCacheExtent ，并修复长久存在的 shrinkWrap NaN 问题",
+      "url": "https://juejin.cn/post/7618098747672051766",
+      "hot_value": "热度:288",
       "extra": {
-        "author": "没有了遇见",
-        "collect": 13,
-        "comment": 3,
-        "hot_score": 252,
-        "like": 7,
-        "view": 361
+        "author": "恋猫de小郭",
+        "collect": 2,
+        "comment": 4,
+        "hot_score": 288,
+        "like": 9,
+        "view": 413
       }
     },
     {
       "index": 31,
-      "title": "重塑站外体验：大众点评 M 站基于 Qwik.js 的重构实践",
-      "url": "https://juejin.cn/post/7617659560115798057",
-      "hot_value": "热度:252",
-      "extra": {
-        "author": "美团技术团队",
-        "collect": 7,
-        "comment": 5,
-        "hot_score": 252,
-        "like": 8,
-        "view": 304
-      }
-    },
-    {
-      "index": 32,
       "title": "AI写Flutter代码比我快100倍，我慌了吗？",
       "url": "https://juejin.cn/post/7617454306797191209",
-      "hot_value": "热度:252",
+      "hot_value": "热度:279",
       "extra": {
         "author": "程序员老刘",
         "collect": 2,
         "comment": 1,
-        "hot_score": 252,
+        "hot_score": 279,
         "like": 3,
-        "view": 498
+        "view": 544
+      }
+    },
+    {
+      "index": 32,
+      "title": "TikTok 通过 Jetpack Compose 将代码大小减少 58%，并提升了新功能的 app 性能",
+      "url": "https://juejin.cn/post/7617772728414847003",
+      "hot_value": "热度:261",
+      "extra": {
+        "author": "simplepeng",
+        "collect": 2,
+        "comment": 1,
+        "hot_score": 261,
+        "like": 4,
+        "view": 488
       }
     },
     {
       "index": 33,
-      "title": "TikTok 通过 Jetpack Compose 将代码大小减少 58%，并提升了新功能的 app 性能",
-      "url": "https://juejin.cn/post/7617772728414847003",
-      "hot_value": "热度:234",
+      "title": "Android 中大型项目架构梳理",
+      "url": "https://juejin.cn/post/7617667131413086250",
+      "hot_value": "热度:261",
       "extra": {
-        "author": "simplepeng",
-        "collect": 2,
-        "comment": 0,
-        "hot_score": 234,
-        "like": 4,
-        "view": 446
+        "author": "没有了遇见",
+        "collect": 13,
+        "comment": 3,
+        "hot_score": 261,
+        "like": 7,
+        "view": 386
       }
     },
     {
       "index": 34,
-      "title": "Agent教程19：🤖记忆的提取与压缩！再也不担心记忆混乱了",
-      "url": "https://juejin.cn/post/7616923436976963624",
-      "hot_value": "热度:234",
+      "title": "OpenClaw、Claude Code 等 Agent 为什么都选择 Node.js？",
+      "url": "https://juejin.cn/post/7617728986828865563",
+      "hot_value": "热度:252",
       "extra": {
-        "author": "摸鱼的春哥",
-        "collect": 7,
-        "comment": 2,
-        "hot_score": 234,
-        "like": 7,
-        "view": 353
+        "author": "吴佳浩",
+        "collect": 12,
+        "comment": 0,
+        "hot_score": 252,
+        "like": 4,
+        "view": 495
       }
     },
     {
       "index": 35,
-      "title": "OpenClaw、Claude Code 等 Agent 为什么都选择 Node.js？",
-      "url": "https://juejin.cn/post/7617728986828865563",
-      "hot_value": "热度:216",
+      "title": "我用一个SaaS模板做了个小工具，第一个月赚了$3200",
+      "url": "https://juejin.cn/post/7617410783702532139",
+      "hot_value": "热度:234",
       "extra": {
-        "author": "吴佳浩",
-        "collect": 9,
+        "author": "HBLOG",
+        "collect": 4,
         "comment": 0,
-        "hot_score": 216,
-        "like": 3,
-        "view": 429
+        "hot_score": 234,
+        "like": 4,
+        "view": 447
       }
     },
     {
       "index": 36,
       "title": "Vibe Coding指南【道、法、术】",
       "url": "https://juejin.cn/post/7617398248308588554",
-      "hot_value": "热度:216",
+      "hot_value": "热度:234",
       "extra": {
         "author": "冉冉同学",
         "collect": 14,
         "comment": 1,
-        "hot_score": 216,
-        "like": 5,
-        "view": 373
-      }
-    },
-    {
-      "index": 37,
-      "title": "《OpenClaw 从入门到精通指南》正式发布，开源免费！",
-      "url": "https://juejin.cn/post/7617004481947631626",
-      "hot_value": "热度:216",
-      "extra": {
-        "author": "苍何",
-        "collect": 8,
-        "comment": 0,
-        "hot_score": 216,
-        "like": 5,
-        "view": 385
-      }
-    },
-    {
-      "index": 38,
-      "title": "我用一个SaaS模板做了个小工具，第一个月赚了$3200",
-      "url": "https://juejin.cn/post/7617410783702532139",
-      "hot_value": "热度:207",
-      "extra": {
-        "author": "HBLOG",
-        "collect": 4,
-        "comment": 0,
-        "hot_score": 207,
-        "like": 4,
+        "hot_score": 234,
+        "like": 6,
         "view": 392
       }
     },
     {
-      "index": 39,
-      "title": " 为什么我不建议UI 直接访问 Repository",
-      "url": "https://juejin.cn/post/7617108607432589322",
-      "hot_value": "热度:189",
-      "extra": {
-        "author": "潜龙勿用之化骨龙",
-        "collect": 3,
-        "comment": 1,
-        "hot_score": 189,
-        "like": 2,
-        "view": 374
-      }
-    },
-    {
-      "index": 40,
-      "title": "向日葵+AI，远程操控又进化了",
-      "url": "https://juejin.cn/post/7617004481948024842",
-      "hot_value": "热度:189",
-      "extra": {
-        "author": "前端之虎陈随易",
-        "collect": 3,
-        "comment": 1,
-        "hot_score": 189,
-        "like": 3,
-        "view": 352
-      }
-    },
-    {
-      "index": 41,
-      "title": "Claude Code Skill 从入门到自定义完整教程（Windows 版）",
-      "url": "https://juejin.cn/post/7617682877929127987",
-      "hot_value": "热度:180",
-      "extra": {
-        "author": "烛阴",
-        "collect": 8,
-        "comment": 0,
-        "hot_score": 180,
-        "like": 3,
-        "view": 354
-      }
-    },
-    {
-      "index": 42,
-      "title": "OpenClaw 筛掉了 90%的人，这个工具专门来接这 90%",
-      "url": "https://juejin.cn/post/7617141684896612352",
-      "hot_value": "热度:180",
-      "extra": {
-        "author": "小虎AI生活",
-        "collect": 2,
-        "comment": 1,
-        "hot_score": 180,
-        "like": 1,
-        "view": 367
-      }
-    },
-    {
-      "index": 43,
-      "title": "为什么这道初中数学题击溃了所有 AI ",
-      "url": "https://juejin.cn/post/7618167499356962843",
-      "hot_value": "热度:171",
-      "extra": {
-        "author": "五阳",
-        "collect": 1,
-        "comment": 6,
-        "hot_score": 171,
-        "like": 1,
-        "view": 247
-      }
-    },
-    {
-      "index": 44,
-      "title": "从IDE到Terminal：适合后端宝宝体质的Claude Code工作流｜得物技术",
-      "url": "https://juejin.cn/post/7617796378903117839",
-      "hot_value": "热度:171",
-      "extra": {
-        "author": "得物技术",
-        "collect": 4,
-        "comment": 0,
-        "hot_score": 171,
-        "like": 3,
-        "view": 338
-      }
-    },
-    {
-      "index": 45,
-      "title": "Android 17 重磅发布：详解四大颠覆性变革与保姆级适配指南",
-      "url": "https://juejin.cn/post/7617041881097666560",
-      "hot_value": "热度:171",
-      "extra": {
-        "author": "Carson带你学Android",
-        "collect": 2,
-        "comment": 0,
-        "hot_score": 171,
-        "like": 5,
-        "view": 284
-      }
-    },
-    {
-      "index": 46,
-      "title": "体验完阿里「悟空」，我想把电脑里的龙虾换掉了，是真NB！",
-      "url": "https://juejin.cn/post/7618418125198196779",
-      "hot_value": "热度:162",
-      "extra": {
-        "author": "AI袋鼠帝",
-        "collect": 4,
-        "comment": 1,
-        "hot_score": 162,
-        "like": 1,
-        "view": 334
-      }
-    },
-    {
-      "index": 47,
-      "title": "面向“传统程序员”的端到端 10x Vibe Coding 指南(大型需求) - 从面向业务开发转向面向“Agent 员工”开发",
-      "url": "https://juejin.cn/post/7617692680530149402",
-      "hot_value": "热度:162",
-      "extra": {
-        "author": "立子",
-        "collect": 3,
-        "comment": 0,
-        "hot_score": 162,
-        "like": 2,
-        "view": 323
-      }
-    },
-    {
-      "index": 48,
-      "title": "AI时代，告别焦虑，前端工程师的心态转变",
-      "url": "https://juejin.cn/post/7618131518842863658",
-      "hot_value": "热度:153",
-      "extra": {
-        "author": "咸鱼老弟",
-        "collect": 0,
-        "comment": 0,
-        "hot_score": 153,
-        "like": 6,
-        "view": 222
-      }
-    },
-    {
-      "index": 49,
+      "index": 37,
       "title": "求你了，别用 YYYY-MM-dd！",
       "url": "https://juejin.cn/post/7617784118910205994",
-      "hot_value": "热度:153",
+      "hot_value": "热度:216",
       "extra": {
         "author": "尤理有理",
         "collect": 4,
         "comment": 1,
-        "hot_score": 153,
+        "hot_score": 216,
         "like": 1,
-        "view": 315
+        "view": 452
+      }
+    },
+    {
+      "index": 38,
+      "title": "为什么这道初中数学题击溃了所有 AI ",
+      "url": "https://juejin.cn/post/7618167499356962843",
+      "hot_value": "热度:207",
+      "extra": {
+        "author": "五阳",
+        "collect": 1,
+        "comment": 8,
+        "hot_score": 207,
+        "like": 1,
+        "view": 281
+      }
+    },
+    {
+      "index": 39,
+      "title": "Claude Code Skill 从入门到自定义完整教程（Windows 版）",
+      "url": "https://juejin.cn/post/7617682877929127987",
+      "hot_value": "热度:207",
+      "extra": {
+        "author": "烛阴",
+        "collect": 10,
+        "comment": 0,
+        "hot_score": 207,
+        "like": 4,
+        "view": 401
+      }
+    },
+    {
+      "index": 40,
+      "title": "从「亡羊补牢」到「规则先行」：金仓数据库 SQL 防火墙实战解析",
+      "url": "https://juejin.cn/post/7618215792573562889",
+      "hot_value": "热度:207",
+      "extra": {
+        "author": "一只牛博",
+        "collect": 0,
+        "comment": 0,
+        "hot_score": 207,
+        "like": 0,
+        "view": 485
+      }
+    },
+    {
+      "index": 41,
+      "title": "从IDE到Terminal：适合后端宝宝体质的Claude Code工作流｜得物技术",
+      "url": "https://juejin.cn/post/7617796378903117839",
+      "hot_value": "热度:189",
+      "extra": {
+        "author": "得物技术",
+        "collect": 4,
+        "comment": 0,
+        "hot_score": 189,
+        "like": 3,
+        "view": 380
+      }
+    },
+    {
+      "index": 42,
+      "title": "魔幻！MiniMax市值正式超越百度，老板曾是百度实习生，网友一针见血。",
+      "url": "https://juejin.cn/post/7618497511616151604",
+      "hot_value": "热度:189",
+      "extra": {
+        "author": "CodeSheep",
+        "collect": 0,
+        "comment": 5,
+        "hot_score": 189,
+        "like": 0,
+        "view": 375
+      }
+    },
+    {
+      "index": 43,
+      "title": " 我拿到了腾讯QClaw的内测码，然后沉默了。",
+      "url": "https://juejin.cn/post/7618238003828801582",
+      "hot_value": "热度:180",
+      "extra": {
+        "author": "why技术",
+        "collect": 2,
+        "comment": 1,
+        "hot_score": 180,
+        "like": 2,
+        "view": 355
+      }
+    },
+    {
+      "index": 44,
+      "title": "面向“传统程序员”的端到端 10x Vibe Coding 指南(大型需求) - 从面向业务开发转向面向“Agent 员工”开发",
+      "url": "https://juejin.cn/post/7617692680530149402",
+      "hot_value": "热度:171",
+      "extra": {
+        "author": "立子",
+        "collect": 4,
+        "comment": 0,
+        "hot_score": 171,
+        "like": 3,
+        "view": 333
+      }
+    },
+    {
+      "index": 45,
+      "title": "AI时代，告别焦虑，前端工程师的心态转变",
+      "url": "https://juejin.cn/post/7618131518842863658",
+      "hot_value": "热度:162",
+      "extra": {
+        "author": "咸鱼老弟",
+        "collect": 0,
+        "comment": 0,
+        "hot_score": 162,
+        "like": 6,
+        "view": 254
+      }
+    },
+    {
+      "index": 46,
+      "title": "node版本升级后，项目跑不起来",
+      "url": "https://juejin.cn/post/7617806011366277171",
+      "hot_value": "热度:162",
+      "extra": {
+        "author": "什么时候星期五",
+        "collect": 1,
+        "comment": 7,
+        "hot_score": 162,
+        "like": 2,
+        "view": 183
+      }
+    },
+    {
+      "index": 47,
+      "title": "MiniMax 发布 M2.7，Agent 开始走向自我进化",
+      "url": "https://juejin.cn/post/7618157923806248996",
+      "hot_value": "热度:144",
+      "extra": {
+        "author": "Moment",
+        "collect": 2,
+        "comment": 0,
+        "hot_score": 144,
+        "like": 2,
+        "view": 301
+      }
+    },
+    {
+      "index": 48,
+      "title": "JDK17的语法变化真大，这是Java？",
+      "url": "https://juejin.cn/post/7618153651195101184",
+      "hot_value": "热度:144",
+      "extra": {
+        "author": "苏三说技术",
+        "collect": 4,
+        "comment": 0,
+        "hot_score": 144,
+        "like": 5,
+        "view": 234
+      }
+    },
+    {
+      "index": 49,
+      "title": "🚀 2026 年 2 月 GitHub 十大热门项目排行榜 🔥",
+      "url": "https://juejin.cn/post/7618088103119536138",
+      "hot_value": "热度:144",
+      "extra": {
+        "author": "一点一木",
+        "collect": 4,
+        "comment": 1,
+        "hot_score": 144,
+        "like": 3,
+        "view": 248
       }
     },
     {
       "index": 50,
-      "title": "node版本升级后，项目跑不起来",
-      "url": "https://juejin.cn/post/7617806011366277171",
+      "title": " Android 17 要下狠手了：无障碍服务 API 将被严格限制",
+      "url": "https://juejin.cn/post/7617692680530575386",
       "hot_value": "热度:144",
       "extra": {
-        "author": "什么时候星期五",
+        "author": "黄林晴",
         "collect": 1,
-        "comment": 6,
+        "comment": 0,
         "hot_score": 144,
         "like": 2,
-        "view": 161
+        "view": 290
       }
     }
   ],
-  "_synced_at": "2026-03-18T22:22:51Z"
+  "_synced_at": "2026-03-19T05:18:35Z"
 }

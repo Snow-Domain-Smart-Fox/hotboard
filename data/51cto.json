@@ -1,14 +1,14 @@
 {
   "type": "51cto",
-  "update_time": "2026-03-18T22:16:09.366Z",
+  "update_time": "2026-03-19T04:08:02.690Z",
   "list": [
     {
       "index": 1,
-      "title": "阿里通义实验室开源Agent记忆框架ReMe",
-      "url": "https://www.51cto.com/article/838417.html",
+      "title": "当AI第一次读完整本基因之书，十亿参数单细胞大模型能干什么？",
+      "url": "https://www.51cto.com/article/838438.html",
       "hot_value": "",
       "extra": {
-        "description": "现有框架普遍陷入“被动累积”范式，将记忆当作静态的仅追加式存档。为弥合静态存储与动态推理之间的鸿沟，阿里通义实验室提出了ReMe（Remember Me, Refine Me）—— 一套用于经验驱动智能体进化的完整记忆框架。"
+        "description": "十亿参数单细胞基础模型scLong不再只看少数高表达基因，而是把一个细胞里接近 2.8 万个基因 都纳入建模，并结合 Gene Ontology（GO） 的生物学知识，去理解更完整的基因上下文。"
       }
     },
     {
@@ -22,6 +22,15 @@
     },
     {
       "index": 3,
+      "title": "阿里通义实验室开源Agent记忆框架ReMe",
+      "url": "https://www.51cto.com/article/838417.html",
+      "hot_value": "",
+      "extra": {
+        "description": ""
+      }
+    },
+    {
+      "index": 4,
       "title": "让龙虾越用越聪明！普林斯顿大学为OpenClaw搞了个强化学习框架",
       "url": "https://www.51cto.com/article/838252.html",
       "hot_value": "",
@@ -30,7 +39,7 @@
       }
     },
     {
-      "index": 4,
+      "index": 5,
       "title": "六个让我作为软件工程师生活更轻松的工具",
       "url": "https://www.51cto.com/article/838355.html",
       "hot_value": "",
@@ -39,7 +48,7 @@
       }
     },
     {
-      "index": 5,
+      "index": 6,
       "title": "阿里联手中山大学放狠话：75%的Agent都在造“屎山”！233天连环大测，代码库全崩了！自研新基准：GLM表现亮眼！网友：程序员饭碗保住了！",
       "url": "https://www.51cto.com/article/838382.html",
       "hot_value": "",
@@ -48,7 +57,7 @@
       }
     },
     {
-      "index": 6,
+      "index": 7,
       "title": "Transformer祖制，被Kimi捅破了！谷歌大V高赞：Kimi触碰了十年没人敢碰的禁区！性能炸裂，相当于免费得1.25倍算力，网友：简直天才洞察",
       "url": "https://www.51cto.com/article/838292.html",
       "hot_value": "",
@@ -57,7 +66,16 @@
       }
     },
     {
-      "index": 7,
+      "index": 8,
+      "title": "从零折腾 OpenClaw 本地部署：一个普通开发者的踩坑实录与实战心得",
+      "url": "https://blog.51cto.com/u_17035626/14511786",
+      "hot_value": "",
+      "extra": {
+        "description": ""
+      }
+    },
+    {
+      "index": 9,
       "title": "玩转OpenClaw | 基于Linux 系统OpenClaw本地部署实践指南",
       "url": "https://blog.51cto.com/u_14664141/14510450",
       "hot_value": "",
@@ -66,32 +84,14 @@
       }
     },
     {
-      "index": 8,
+      "index": 10,
       "title": "鸿蒙应用开发UI基础第二十五节：手把手教打造第三方库HAR构建、混淆与发布",
       "url": "https://ost.51cto.com/posts/39207#24read",
       "hot_value": "",
       "extra": {
         "description": ""
       }
-    },
-    {
-      "index": 9,
-      "title": "鸿蒙应用开发UI基础第二十四节：构造Preferences用户首选项数据存储开源工具HAR静态包",
-      "url": "https://ost.51cto.com/posts/39204#24read",
-      "hot_value": "",
-      "extra": {
-        "description": ""
-      }
-    },
-    {
-      "index": 10,
-      "title": "#星光计划4.0# ArkTS collections.Map 学习笔记：从会用到看懂它的约束",
-      "url": "https://ost.51cto.com/posts/39205#24read",
-      "hot_value": "",
-      "extra": {
-        "description": ""
-      }
     }
   ],
-  "_synced_at": "2026-03-18T22:22:47Z"
+  "_synced_at": "2026-03-19T05:18:31Z"
 }
