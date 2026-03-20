@@ -1,86 +1,97 @@
 {
   "type": "weread",
-  "update_time": "2026-03-19T21:07:10.779Z",
+  "update_time": "2026-03-20T09:42:56.546Z",
   "list": [
     {
       "index": 1,
-      "title": "挽救计划（同名电影原著）",
+      "title": "无条件养育",
       "url": "",
-      "hot_value": "3693人在读",
+      "hot_value": "955人在读",
       "extra": {
-        "author": "[美]安迪·威尔",
-        "cover": "https://cdn.weread.qq.com/weread/cover/0/yuewen_41100356/t6_yuewen_411003561772520377.jpg",
-        "reading_count": 3693
+        "author": "艾尔菲·科恩",
+        "cover": "https://cdn.weread.qq.com/weread/cover/76/YueWen_935106/t6_YueWen_935106.jpg",
+        "reading_count": 955
       }
     },
     {
       "index": 2,
       "title": "呼啸山庄",
       "url": "",
-      "hot_value": "6025人在读",
+      "hot_value": "5682人在读",
       "extra": {
         "author": "[英]艾米莉·勃朗特",
         "cover": "https://cdn.weread.qq.com/weread/cover/51/cpplatform_afb2dr2nymitjkkz3kcudp/t6_cpplatform_afb2dr2nymitjkkz3kcudp1754469527.jpg",
-        "reading_count": 6025
+        "reading_count": 5682
       }
     },
     {
       "index": 3,
-      "title": "大棋局",
+      "title": "挽救计划（同名电影原著）",
       "url": "",
-      "hot_value": "698人在读",
+      "hot_value": "4119人在读",
       "extra": {
-        "author": "兹比格纽·布热津斯基",
-        "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/996/32282996/t6_32282996.jpg",
-        "reading_count": 698
+        "author": "[美]安迪·威尔",
+        "cover": "https://cdn.weread.qq.com/weread/cover/0/yuewen_41100356/t6_yuewen_411003561772520377.jpg",
+        "reading_count": 4119
       }
     },
     {
       "index": 4,
-      "title": "百万富翁快车道",
+      "title": "货币战争（全5册）",
       "url": "",
-      "hot_value": "1044人在读",
+      "hot_value": "1444人在读",
       "extra": {
-        "author": "MJ·德马科",
-        "cover": "https://cdn.weread.qq.com/weread/cover/66/YueWen_34156605/t6_YueWen_34156605.jpg",
-        "reading_count": 1044
+        "author": "宋鸿兵",
+        "cover": "https://cdn.weread.qq.com/weread/cover/28/yuewen_800224/t6_yuewen_8002241732692617.jpg",
+        "reading_count": 1444
       }
     },
     {
       "index": 5,
       "title": "半小时玩转小龙虾：OpenClaw极简入门（轻科技）",
       "url": "",
-      "hot_value": "3344人在读",
+      "hot_value": "3219人在读",
       "extra": {
         "author": "图灵智能研究院 刘江",
         "cover": "https://cdn.weread.qq.com/weread/cover/88/cpplatform_1ajxmfgn8uo6ncapuhqj4c/t6_cpplatform_1ajxmfgn8uo6ncapuhqj4c1773388806.jpg",
-        "reading_count": 3344
+        "reading_count": 3219
       }
     },
     {
       "index": 6,
-      "title": "我和我的命（电视剧《我的山与海》原著）",
+      "title": "百万富翁快车道",
       "url": "",
-      "hot_value": "2053人在读",
+      "hot_value": "1089人在读",
       "extra": {
-        "author": "梁晓声",
-        "cover": "https://cdn.weread.qq.com/weread/cover/36/YueWen_35681669/t6_YueWen_35681669.jpg",
-        "reading_count": 2053
+        "author": "MJ·德马科",
+        "cover": "https://cdn.weread.qq.com/weread/cover/66/YueWen_34156605/t6_YueWen_34156605.jpg",
+        "reading_count": 1089
       }
     },
     {
       "index": 7,
-      "title": "理解人性（知书经典）",
+      "title": "我和我的命（电视剧《我的山与海》原著）",
       "url": "",
-      "hot_value": "94人在读",
+      "hot_value": "2046人在读",
       "extra": {
-        "author": "[奥]阿尔弗雷德·阿德勒",
-        "cover": "https://cdn.weread.qq.com/weread/cover/1/cpplatform_meaxmp69cv4uwwmpld2m54/t6_cpplatform_meaxmp69cv4uwwmpld2m541741171213.jpg",
-        "reading_count": 94
+        "author": "梁晓声",
+        "cover": "https://cdn.weread.qq.com/weread/cover/36/YueWen_35681669/t6_YueWen_35681669.jpg",
+        "reading_count": 2046
       }
     },
     {
       "index": 8,
+      "title": "理解人性（知书经典）",
+      "url": "",
+      "hot_value": "139人在读",
+      "extra": {
+        "author": "[奥]阿尔弗雷德·阿德勒",
+        "cover": "https://cdn.weread.qq.com/weread/cover/1/cpplatform_meaxmp69cv4uwwmpld2m54/t6_cpplatform_meaxmp69cv4uwwmpld2m541741171213.jpg",
+        "reading_count": 139
+      }
+    },
+    {
+      "index": 9,
       "title": "一句顶一万句（2022新版）",
       "url": "",
       "hot_value": "1人在读",
@@ -91,137 +102,126 @@
       }
     },
     {
-      "index": 9,
-      "title": "货币战争（全5册）",
-      "url": "",
-      "hot_value": "1393人在读",
-      "extra": {
-        "author": "宋鸿兵",
-        "cover": "https://cdn.weread.qq.com/weread/cover/28/yuewen_800224/t6_yuewen_8002241732692617.jpg",
-        "reading_count": 1393
-      }
-    },
-    {
       "index": 10,
-      "title": "你值得过更好的生活（独家首发｜全新修订本）",
+      "title": "写作是门手艺",
       "url": "",
-      "hot_value": "970人在读",
+      "hot_value": "1370人在读",
       "extra": {
-        "author": "罗伯特·沙因费尔德",
-        "cover": "https://cdn.weread.qq.com/weread/cover/43/cpplatform_gmpxvbdjh8x2d2cn7xmyzv/t6_cpplatform_gmpxvbdjh8x2d2cn7xmyzv1679490024.jpg",
-        "reading_count": 970
+        "author": "刘军强",
+        "cover": "https://cdn.weread.qq.com/weread/cover/26/cpplatform_1sihztdys5mvqdsaviwubl/t6_cpplatform_1sihztdys5mvqdsaviwubl1769653383.jpg",
+        "reading_count": 1370
       }
     },
     {
       "index": 11,
       "title": "万历十五年（经典版）",
       "url": "",
-      "hot_value": "2328人在读",
+      "hot_value": "2305人在读",
       "extra": {
         "author": "[美]黄仁宇",
         "cover": "https://cdn.weread.qq.com/weread/cover/44/cpPlatform_wFh3Z1Xnp72HsAox1y9nUb/t6_cpPlatform_wFh3Z1Xnp72HsAox1y9nUb.jpg",
-        "reading_count": 2328
+        "reading_count": 2305
       }
     },
     {
       "index": 12,
-      "title": "毛泽东选集（全四卷）",
+      "title": "以日为鉴：衰退时代生存指南（微信读书特别版）",
       "url": "",
-      "hot_value": "1人在读",
+      "hot_value": "3564人在读",
       "extra": {
-        "author": "",
-        "cover": "https://cdn.weread.qq.com/weread/cover/84/3300024284/t6_3300024284.jpg",
-        "reading_count": 1
+        "author": "分析师Boden",
+        "cover": "https://cdn.weread.qq.com/weread/cover/4/cpplatform_c51jhaugkycsgy414tbhz2/t6_cpplatform_c51jhaugkycsgy414tbhz21755763748.jpg",
+        "reading_count": 3564
       }
     },
     {
       "index": 13,
-      "title": "爱的五种语言",
+      "title": "毛泽东选集（全四卷）",
       "url": "",
-      "hot_value": "2515人在读",
+      "hot_value": "9859人在读",
       "extra": {
-        "author": "[美]盖瑞·查普曼",
-        "cover": "https://cdn.weread.qq.com/weread/cover/84/cpplatform_cs1rjysvneq3fi2r5q9oue/t6_cpplatform_cs1rjysvneq3fi2r5q9oue1701933444.jpg",
-        "reading_count": 2515
+        "author": "",
+        "cover": "https://cdn.weread.qq.com/weread/cover/84/3300024284/t6_3300024284.jpg",
+        "reading_count": 9859
       }
     },
     {
       "index": 14,
-      "title": "牛虻（经典译林）",
+      "title": "飘",
       "url": "",
-      "hot_value": "966人在读",
+      "hot_value": "643人在读",
       "extra": {
-        "author": "[英]埃·莉·伏尼契",
-        "cover": "https://cdn.weread.qq.com/weread/cover/61/YueWen_856086/t6_YueWen_856086.jpg",
-        "reading_count": 966
+        "author": "[美]玛格丽特·米切尔",
+        "cover": "https://cdn.weread.qq.com/weread/cover/57/cpplatform_gphbw2c9duvae1kcvxmhfo/t6_cpplatform_gphbw2c9duvae1kcvxmhfo1753438332.jpg",
+        "reading_count": 643
       }
     },
     {
       "index": 15,
-      "title": "苏轼传",
+      "title": "控糖革命",
       "url": "",
-      "hot_value": "1045人在读",
+      "hot_value": "1626人在读",
       "extra": {
-        "author": "王水照 崔铭",
-        "cover": "https://cdn.weread.qq.com/weread/cover/94/YueWen_26278269/t6_YueWen_26278269.jpg",
-        "reading_count": 1045
+        "author": "[法]杰西·安佐斯佩",
+        "cover": "https://cdn.weread.qq.com/weread/cover/64/cpplatform_qpqefbrrjjgqq7t62wt1ca/t6_cpplatform_qpqefbrrjjgqq7t62wt1ca1706772686.jpg",
+        "reading_count": 1626
       }
     },
     {
       "index": 16,
-      "title": "写作是门手艺",
+      "title": "爱的五种语言",
       "url": "",
-      "hot_value": "1472人在读",
+      "hot_value": "2330人在读",
       "extra": {
-        "author": "刘军强",
-        "cover": "https://cdn.weread.qq.com/weread/cover/26/cpplatform_1sihztdys5mvqdsaviwubl/t6_cpplatform_1sihztdys5mvqdsaviwubl1769653383.jpg",
-        "reading_count": 1472
+        "author": "[美]盖瑞·查普曼",
+        "cover": "https://cdn.weread.qq.com/weread/cover/84/cpplatform_cs1rjysvneq3fi2r5q9oue/t6_cpplatform_cs1rjysvneq3fi2r5q9oue1701933444.jpg",
+        "reading_count": 2330
       }
     },
     {
       "index": 17,
       "title": "慢慢仙途之仙灵界",
       "url": "",
-      "hot_value": "162人在读",
+      "hot_value": "168人在读",
       "extra": {
         "author": "绝世小白",
         "cover": "https://cdn.weread.qq.com/weread/cover/17/yuewen_310308/t6_yuewen_3103081766460830.jpg",
-        "reading_count": 162
+        "reading_count": 168
       }
     },
     {
       "index": 18,
-      "title": "金花的秘密（果麦经典）",
+      "title": "被讨厌的勇气：“自我启发之父”阿德勒的哲学课",
       "url": "",
-      "hot_value": "372人在读",
+      "hot_value": "1人在读",
       "extra": {
-        "author": "[瑞士]卡尔·荣格 [德]卫礼贤",
-        "cover": "https://cdn.weread.qq.com/weread/cover/67/yuewen_24217632/t6_yuewen_242176321757658900.jpg",
-        "reading_count": 372
+        "author": "岸见一郎 古贺史健",
+        "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/385/25615385/t6_25615385.jpg",
+        "reading_count": 1
       }
     },
     {
       "index": 19,
-      "title": "以日为鉴：衰退时代生存指南（微信读书特别版）",
+      "title": "罪与罚",
       "url": "",
-      "hot_value": "3632人在读",
+      "hot_value": "270人在读",
       "extra": {
-        "author": "分析师Boden",
-        "cover": "https://cdn.weread.qq.com/weread/cover/4/cpplatform_c51jhaugkycsgy414tbhz2/t6_cpplatform_c51jhaugkycsgy414tbhz21755763748.jpg",
-        "reading_count": 3632
+        "author": "[俄]陀思妥耶夫斯基",
+        "cover": "https://cdn.weread.qq.com/weread/cover/0/cpplatform_3bvihyrm5sqhafgnjwqsqh/t6_cpplatform_3bvihyrm5sqhafgnjwqsqh1772682727.jpg",
+        "reading_count": 270
       }
     },
     {
       "index": 20,
-      "title": "不要担心2小时和8公里以外的事情",
+      "title": "明朝那些事儿（全集）",
       "url": "",
-      "hot_value": "3700人在读",
+      "hot_value": "4人在读",
       "extra": {
-        "author": "李松涛",
-        "cover": "https://cdn.weread.qq.com/weread/cover/31/cpplatform_7uy2tcmvutzrkj82wvxviu/t6_cpplatform_7uy2tcmvutzrkj82wvxviu1761804278.jpg",
-        "reading_count": 3700
+        "author": "当年明月",
+        "cover": "https://cdn.weread.qq.com/weread/cover/97/yuewen_822995/t6_yuewen_8229951695023669.jpg",
+        "reading_count": 4
       }
     }
   ],
-  "_synced_at": "2026-03-19T22:17:32Z"
+  "_synced_at": "2026-03-20T10:27:55Z"
 }

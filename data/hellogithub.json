@@ -1,12 +1,26 @@
 {
   "type": "hellogithub",
-  "update_time": "2026-03-20 06:08:14",
+  "update_time": "2026-03-20 18:14:15",
   "list": [
     {
       "index": 1,
+      "title": "让大模型直接帮你干活的智能体",
+      "url": "https://github.com/TurixAI/TuriX-CUA",
+      "hot_value": "409",
+      "extra": {
+        "author": "TurixAI",
+        "full_name": "TurixAI/TuriX-CUA",
+        "item_id": "03c038457f164b64bbbafa5f48dda056",
+        "primary_lang": "Python",
+        "summary": "这是一款由 AI 驱动的桌面自动化工具（Computer-use-Agent），用户只需通过自然语言描述任务，即可让 AI 自主规划并在桌面环境中自动执行点击、",
+        "updated_at": "2026-03-20T08:18:13"
+      }
+    },
+    {
+      "index": 2,
       "title": "从零开始动手实现 AI Agent",
       "url": "https://github.com/shareAI-lab/learn-claude-code",
-      "hot_value": "6205",
+      "hot_value": "6395",
       "extra": {
         "author": "shareAI-lab",
         "full_name": "shareAI-lab/learn-claude-code",
@@ -17,10 +31,10 @@
       }
     },
     {
-      "index": 2,
+      "index": 3,
       "title": "现象级的个人 AI 助手",
       "url": "https://github.com/openclaw/openclaw",
-      "hot_value": "5649",
+      "hot_value": "5760",
       "extra": {
         "author": "openclaw",
         "full_name": "openclaw/openclaw",
@@ -31,10 +45,10 @@
       }
     },
     {
-      "index": 3,
+      "index": 4,
       "title": "基于 LLM 的智能股票分析系统",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "hot_value": "3843",
+      "hot_value": "3993",
       "extra": {
         "author": "ZhuLinsen",
         "full_name": "ZhuLinsen/daily_stock_analysis",
@@ -45,10 +59,10 @@
       }
     },
     {
-      "index": 4,
+      "index": 5,
       "title": "Claude 官方开源的 Skills 教程",
       "url": "https://github.com/anthropics/skills",
-      "hot_value": "2674",
+      "hot_value": "2757",
       "extra": {
         "author": "anthropics",
         "full_name": "anthropics/skills",
@@ -59,10 +73,10 @@
       }
     },
     {
-      "index": 5,
+      "index": 6,
       "title": "开箱即用的 Windows 系统优化工具",
       "url": "https://github.com/memstechtips/Winhance",
-      "hot_value": "2870",
+      "hot_value": "2949",
       "extra": {
         "author": "memstechtips",
         "full_name": "memstechtips/Winhance",
@@ -73,10 +87,10 @@
       }
     },
     {
-      "index": 6,
+      "index": 7,
       "title": "Rust 写的实时 ASCII 天气动画",
       "url": "https://github.com/Veirt/weathr",
-      "hot_value": "1986",
+      "hot_value": "2048",
       "extra": {
         "author": "Veirt",
         "full_name": "Veirt/weathr",
@@ -87,10 +101,10 @@
       }
     },
     {
-      "index": 7,
+      "index": 8,
       "title": "Windows 鼠标特效增强工具",
       "url": "https://github.com/sqmw/MFCMouseEffect",
-      "hot_value": "1456",
+      "hot_value": "1504",
       "extra": {
         "author": "sqmw",
         "full_name": "sqmw/MFCMouseEffect",
@@ -101,24 +115,10 @@
       }
     },
     {
-      "index": 8,
-      "title": "AI 驱动的修仙世界模拟器",
-      "url": "https://github.com/4thfever/cultivation-world-simulator",
-      "hot_value": "6156",
-      "extra": {
-        "author": "4thfever",
-        "full_name": "4thfever/cultivation-world-simulator",
-        "item_id": "d0d75240fb95445bba1d7af7574d8420",
-        "primary_lang": "Python",
-        "summary": "这是一款基于 LLM 的修仙模拟器游戏，不同于传统 RPG，游戏内的 NPC 均是 AI 智能体，有独立的性格、记忆和行为逻辑，而玩家在游戏中扮演“天道”，以上",
-        "updated_at": "2026-01-28T08:10:57"
-      }
-    },
-    {
       "index": 9,
       "title": "当个人主页变成 3D 游戏",
       "url": "https://github.com/brunosimon/folio-2025",
-      "hot_value": "1513",
+      "hot_value": "1560",
       "extra": {
         "author": "brunosimon",
         "full_name": "brunosimon/folio-2025",
@@ -130,9 +130,23 @@
     },
     {
       "index": 10,
+      "title": "AI 驱动的修仙世界模拟器",
+      "url": "https://github.com/4thfever/cultivation-world-simulator",
+      "hot_value": "6216",
+      "extra": {
+        "author": "4thfever",
+        "full_name": "4thfever/cultivation-world-simulator",
+        "item_id": "d0d75240fb95445bba1d7af7574d8420",
+        "primary_lang": "Python",
+        "summary": "这是一款基于 LLM 的修仙模拟器游戏，不同于传统 RPG，游戏内的 NPC 均是 AI 智能体，有独立的性格、记忆和行为逻辑，而玩家在游戏中扮演“天道”，以上",
+        "updated_at": "2026-01-28T08:10:57"
+      }
+    },
+    {
+      "index": 11,
       "title": "只需一句话即可创造你的专属智能体",
       "url": "https://github.com/ModelEngine-Group/nexent",
-      "hot_value": "2005",
+      "hot_value": "2040",
       "extra": {
         "author": "ModelEngine-Group",
         "full_name": "ModelEngine-Group/nexent",
@@ -143,10 +157,10 @@
       }
     },
     {
-      "index": 11,
+      "index": 12,
       "title": "无需上传文件的 PDF 全能工具箱",
       "url": "https://github.com/PDFCraftTool/pdfcraft",
-      "hot_value": "3675",
+      "hot_value": "3719",
       "extra": {
         "author": "PDFCraftTool",
         "full_name": "PDFCraftTool/pdfcraft",
@@ -157,10 +171,10 @@
       }
     },
     {
-      "index": 12,
+      "index": 13,
       "title": "开源的 AI 手机自动化助手",
       "url": "https://github.com/Turbo1123/roubao",
-      "hot_value": "4543",
+      "hot_value": "4584",
       "extra": {
         "author": "Turbo1123",
         "full_name": "Turbo1123/roubao",
@@ -171,10 +185,10 @@
       }
     },
     {
-      "index": 13,
+      "index": 14,
       "title": "一键将 macOS 应用迁移到外部硬盘",
       "url": "https://github.com/wzh4869/AppPorts",
-      "hot_value": "419",
+      "hot_value": "441",
       "extra": {
         "author": "wzh4869",
         "full_name": "wzh4869/AppPorts",
@@ -185,10 +199,10 @@
       }
     },
     {
-      "index": 14,
+      "index": 15,
       "title": "本地运行的智能知识库搜索工具",
       "url": "https://github.com/tobi/qmd",
-      "hot_value": "1624",
+      "hot_value": "1663",
       "extra": {
         "author": "tobi",
         "full_name": "tobi/qmd",
@@ -199,10 +213,10 @@
       }
     },
     {
-      "index": 15,
+      "index": 16,
       "title": "终端里的高速下载工具",
       "url": "https://github.com/surge-downloader/Surge",
-      "hot_value": "1299",
+      "hot_value": "1327",
       "extra": {
         "author": "surge-downloader",
         "full_name": "surge-downloader/Surge",
@@ -213,10 +227,10 @@
       }
     },
     {
-      "index": 16,
+      "index": 17,
       "title": "基于 Cloudflare 的轻量级邮箱服务",
       "url": "https://github.com/maillab/cloud-mail",
-      "hot_value": "730",
+      "hot_value": "756",
       "extra": {
         "author": "maillab",
         "full_name": "maillab/cloud-mail",
@@ -227,38 +241,10 @@
       }
     },
     {
-      "index": 17,
-      "title": "开源的键鼠统计工具",
-      "url": "https://github.com/debugtheworldbot/keyStats",
-      "hot_value": "2510",
-      "extra": {
-        "author": "debugtheworldbot",
-        "full_name": "debugtheworldbot/keyStats",
-        "item_id": "7ea63f77647141a2bad1f8346c3738b3",
-        "primary_lang": "Swift",
-        "summary": "这是一款轻量级的 macOS/Windows 应用，在不记录具体输入内容的前提下，量化用户的输入行为，支持统计键盘敲击次数、鼠标点击次数、鼠标移动和滚动距离。",
-        "updated_at": "2026-01-28T08:10:57"
-      }
-    },
-    {
       "index": 18,
-      "title": "新一代 AI 模型聚合管理与分发系统",
-      "url": "https://github.com/QuantumNous/new-api",
-      "hot_value": "4368",
-      "extra": {
-        "author": "QuantumNous",
-        "full_name": "QuantumNous/new-api",
-        "item_id": "539ac4217e69431684ad4a0bab768811",
-        "primary_lang": "Go",
-        "summary": "该项目是基于 One API 二次开发的 AI 模型接口管理与分发平台。它将 OpenAl、Claude、Gemini、DeepSeek 等多种主流大模型与 A",
-        "updated_at": "2026-01-28T08:10:57"
-      }
-    },
-    {
-      "index": 19,
       "title": "用手机操控 Claude Code 和 Codex",
       "url": "https://github.com/slopus/happy",
-      "hot_value": "2863",
+      "hot_value": "2890",
       "extra": {
         "author": "slopus",
         "full_name": "slopus/happy",
@@ -269,19 +255,33 @@
       }
     },
     {
-      "index": 20,
-      "title": "极简的 AI Agent 工具箱",
-      "url": "https://github.com/badlogic/pi-mono",
-      "hot_value": "1575",
+      "index": 19,
+      "title": "开源的键鼠统计工具",
+      "url": "https://github.com/debugtheworldbot/keyStats",
+      "hot_value": "2534",
       "extra": {
-        "author": "badlogic",
-        "full_name": "badlogic/pi-mono",
-        "item_id": "dd16fb9fba044e039d2bedc76813d801",
-        "primary_lang": "TypeScript",
-        "summary": "这是一款基于 TypeScript 开发的 AI Agent 工具箱，爆火的 OpenClaw 就是基于该项目开发出来的。它提供开发 AI Agent 所需的基",
-        "updated_at": "2026-02-28T08:10:09"
+        "author": "debugtheworldbot",
+        "full_name": "debugtheworldbot/keyStats",
+        "item_id": "7ea63f77647141a2bad1f8346c3738b3",
+        "primary_lang": "Swift",
+        "summary": "这是一款轻量级的 macOS/Windows 应用，在不记录具体输入内容的前提下，量化用户的输入行为，支持统计键盘敲击次数、鼠标点击次数、鼠标移动和滚动距离。",
+        "updated_at": "2026-01-28T08:10:57"
+      }
+    },
+    {
+      "index": 20,
+      "title": "新一代 AI 模型聚合管理与分发系统",
+      "url": "https://github.com/QuantumNous/new-api",
+      "hot_value": "4403",
+      "extra": {
+        "author": "QuantumNous",
+        "full_name": "QuantumNous/new-api",
+        "item_id": "539ac4217e69431684ad4a0bab768811",
+        "primary_lang": "Go",
+        "summary": "该项目是基于 One API 二次开发的 AI 模型接口管理与分发平台。它将 OpenAl、Claude、Gemini、DeepSeek 等多种主流大模型与 A",
+        "updated_at": "2026-01-28T08:10:57"
       }
     }
   ],
-  "_synced_at": "2026-03-19T22:17:31Z"
+  "_synced_at": "2026-03-20T10:27:43Z"
 }

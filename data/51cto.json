@@ -1,27 +1,18 @@
 {
   "type": "51cto",
-  "update_time": "2026-03-19T22:10:42.271Z",
+  "update_time": "2026-03-20T09:07:35.251Z",
   "list": [
     {
       "index": 1,
-      "title": "从2天到5分钟：搞定Java服务监控，Netdata这波操作我给满分！！",
-      "url": "https://www.51cto.com/article/838328.html",
-      "hot_value": "",
-      "extra": {
-        "description": "今天我就带大伙儿从头到尾体验一遍，怎么用 Netdata 把 Java 应用伺候得明明白白。顺便让你看看，什么叫“监控界的小米”——颜值高、配置低、价格免费。"
-      }
-    },
-    {
-      "index": 2,
       "title": "阿里通义实验室开源Agent记忆框架ReMe",
       "url": "https://www.51cto.com/article/838417.html",
       "hot_value": "",
       "extra": {
-        "description": ""
+        "description": "现有框架普遍陷入“被动累积”范式，将记忆当作静态的仅追加式存档。为弥合静态存储与动态推理之间的鸿沟，阿里通义实验室提出了ReMe（Remember Me, Refine Me）—— 一套用于经验驱动智能体进化的完整记忆框架。"
       }
     },
     {
-      "index": 3,
+      "index": 2,
       "title": "当AI第一次读完整本基因之书，十亿参数单细胞大模型能干什么？",
       "url": "https://www.51cto.com/article/838438.html",
       "hot_value": "",
@@ -30,9 +21,18 @@
       }
     },
     {
+      "index": 3,
+      "title": "六个让我作为软件工程师生活更轻松的工具",
+      "url": "https://www.51cto.com/article/838355.html",
+      "hot_value": "",
+      "extra": {
+        "description": ""
+      }
+    },
+    {
       "index": 4,
-      "title": "让龙虾越用越聪明！普林斯顿大学为OpenClaw搞了个强化学习框架",
-      "url": "https://www.51cto.com/article/838252.html",
+      "title": "神秘霸榜模型现真身：小米MiMo-V2 Pro，国内首个万亿参数+1M上下文，为Agent而生！",
+      "url": "https://www.51cto.com/article/838544.html",
       "hot_value": "",
       "extra": {
         "description": ""
@@ -40,8 +40,8 @@
     },
     {
       "index": 5,
-      "title": "六个让我作为软件工程师生活更轻松的工具",
-      "url": "https://www.51cto.com/article/838355.html",
+      "title": "阿里联手中山大学放狠话：75%的Agent都在造“屎山”！233天连环大测，代码库全崩了！自研新基准：GLM表现亮眼！网友：程序员饭碗保住了！",
+      "url": "https://www.51cto.com/article/838382.html",
       "hot_value": "",
       "extra": {
         "description": ""
@@ -58,8 +58,8 @@
     },
     {
       "index": 7,
-      "title": "阿里联手中山大学放狠话：75%的Agent都在造“屎山”！233天连环大测，代码库全崩了！自研新基准：GLM表现亮眼！网友：程序员饭碗保住了！",
-      "url": "https://www.51cto.com/article/838382.html",
+      "title": "职场新利器，无人办公时代已来：看我用OpenClaw给自己弄个超实用的职场邮件助手",
+      "url": "https://blog.51cto.com/u_17370638/14517865",
       "hot_value": "",
       "extra": {
         "description": ""
@@ -76,8 +76,8 @@
     },
     {
       "index": 9,
-      "title": "玩转OpenClaw | 基于Linux 系统OpenClaw本地部署实践指南",
-      "url": "https://blog.51cto.com/u_14664141/14510450",
+      "title": "HarmonyOS6.0 文本朗读控件 TextReader 技术实践与避坑指南",
+      "url": "https://ost.51cto.com/posts/39249#24read",
       "hot_value": "",
       "extra": {
         "description": ""
@@ -85,13 +85,13 @@
     },
     {
       "index": 10,
-      "title": "HarmonyOS6.0 文本朗读控件 TextReader 技术实践与避坑指南",
-      "url": "https://ost.51cto.com/posts/39249#24read",
+      "title": "#星光计划4.0#鸿蒙后台代理提醒实战：手把手教你打造永不失效的天气提醒 App",
+      "url": "https://ost.51cto.com/posts/39264#24read",
       "hot_value": "",
       "extra": {
         "description": ""
       }
     }
   ],
-  "_synced_at": "2026-03-19T22:17:30Z"
+  "_synced_at": "2026-03-20T10:27:39Z"
 }

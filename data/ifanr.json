@@ -1,9 +1,61 @@
 {
   "type": "ifanr",
-  "update_time": "2026-03-19T21:23:29.619Z",
+  "update_time": "2026-03-20T08:47:52.880Z",
   "list": [
     {
       "index": 1,
+      "title": "专访 Nothing Smart Products 负责人高岩：从一开始，我们就被拿来和苹果做对比",
+      "url": "https://www.ifanr.com/1659028",
+      "hot_value": "",
+      "extra": {
+        "author": "刘学文",
+        "category": "专访",
+        "id": "1659028",
+        "summary": "只有当产品首先解决了自己的需求，它才有机会打动一群相似的人。",
+        "timestamp": "2026-03-20T07:00:57.000Z"
+      }
+    },
+    {
+      "index": 2,
+      "title": "小米 Xiaomi Book Pro 14 评测：小贵，超值",
+      "url": "https://www.ifanr.com/1659053",
+      "hot_value": "",
+      "extra": {
+        "author": "苏伟鸿",
+        "category": "产品",
+        "id": "1659053",
+        "summary": "有史以来最贵的小米笔记本",
+        "timestamp": "2026-03-20T06:05:26.000Z"
+      }
+    },
+    {
+      "index": 3,
+      "title": "实测 MiniMax M2.7：AI 狠起来，连自己都卷",
+      "url": "https://www.ifanr.com/1658997",
+      "hot_value": "",
+      "extra": {
+        "author": "张子豪",
+        "category": "软件",
+        "id": "1658997",
+        "summary": "AI 工作流的关键，从工具转向模型",
+        "timestamp": "2026-03-20T03:13:03.000Z"
+      }
+    },
+    {
+      "index": 4,
+      "title": "早报｜21.99万起，新一代小米SU7正式发布/苹果折叠屏或拿下28%市场份额/电脑微信推出三项新功能",
+      "url": "https://www.ifanr.com/1659017",
+      "hot_value": "",
+      "extra": {
+        "author": "Shawn Rain",
+        "category": "早报",
+        "id": "1659017",
+        "summary": "· OpenAI 收购 Python 工具公司 Astral\r\n· AI 冲击就业，汇丰拟裁员 2 万人\r\n· 贾国龙推新品牌「天边砂锅焖面」，人均 61 元承接西贝关店员工",
+        "timestamp": "2026-03-20T01:14:47.000Z"
+      }
+    },
+    {
+      "index": 5,
       "title": "21.99 万元起，新一代小米 SU7 变贵了，但强到可怕",
       "url": "https://www.ifanr.com/1658962",
       "hot_value": "",
@@ -16,7 +68,7 @@
       }
     },
     {
-      "index": 2,
+      "index": 6,
       "title": "AI 都能自己做视频了，我却比任何时候更想要创作",
       "url": "https://www.ifanr.com/1658954",
       "hot_value": "",
@@ -29,7 +81,7 @@
       }
     },
     {
-      "index": 3,
+      "index": 7,
       "title": "被 OpenClaw 选中的飞书 ，终于给出小白无痛养虾「版本答案」",
       "url": "https://www.ifanr.com/1658950",
       "hot_value": "",
@@ -42,7 +94,7 @@
       }
     },
     {
-      "index": 4,
+      "index": 8,
       "title": "英伟达给游戏玩家喂 AI 泔水？事情可能没有想象的那么糟",
       "url": "https://www.ifanr.com/1658826",
       "hot_value": "",
@@ -55,7 +107,7 @@
       }
     },
     {
-      "index": 5,
+      "index": 9,
       "title": "全网猜了一周 DeepSeek V4，结果是小米干的",
       "url": "https://www.ifanr.com/1658781",
       "hot_value": "",
@@ -68,7 +120,7 @@
       }
     },
     {
-      "index": 6,
+      "index": 10,
       "title": "配置反转、价格倒挂：iPad Air 还是 MacBook Neo，到底选谁？",
       "url": "https://www.ifanr.com/1658371",
       "hot_value": "",
@@ -81,7 +133,20 @@
       }
     },
     {
-      "index": 7,
+      "index": 11,
+      "title": "降价减配！小鹏 P7 认清了现实，只卖 20.38 万元",
+      "url": "https://www.ifanr.com/1658862",
+      "hot_value": "",
+      "extra": {
+        "author": "李华",
+        "category": "董车会",
+        "id": "1658862",
+        "summary": "卸下走量报复，把底牌留给 GX。",
+        "timestamp": "2026-03-19T07:06:38.000Z"
+      }
+    },
+    {
+      "index": 12,
       "title": "这辆「风格大胆」的 i3，是宝马 10 年来最好的纯电车",
       "url": "https://www.ifanr.com/1658763",
       "hot_value": "",
@@ -94,7 +159,7 @@
       }
     },
     {
-      "index": 8,
+      "index": 13,
       "title": "200 块的柯达「盲盒相机」：画质稀烂，但为什么人人抢着买？",
       "url": "https://www.ifanr.com/1657488",
       "hot_value": "",
@@ -107,7 +172,7 @@
       }
     },
     {
-      "index": 9,
+      "index": 14,
       "title": "实测 Seedance 2.0 加持的小云雀最新 Agent，我一键生成了龙王赘婿短剧",
       "url": "https://www.ifanr.com/1658787",
       "hot_value": "",
@@ -120,7 +185,7 @@
       }
     },
     {
-      "index": 10,
+      "index": 15,
       "title": "早报｜库克现身成都苹果50周年庆，李宇春受邀演出/微信灰度测试「折叠发图」功能/阿里、百度官宣算力涨价",
       "url": "https://www.ifanr.com/1658782",
       "hot_value": "",
@@ -133,7 +198,20 @@
       }
     },
     {
-      "index": 11,
+      "index": 16,
+      "title": "奥迪 Q9 即将亮相！六座加上大 V8，还有一辆两厢小车",
+      "url": "https://www.ifanr.com/1658720",
+      "hot_value": "",
+      "extra": {
+        "author": "李华",
+        "category": "董车会",
+        "id": "1658720",
+        "summary": "奥迪这回是双管齐下。",
+        "timestamp": "2026-03-18T10:08:15.000Z"
+      }
+    },
+    {
+      "index": 17,
       "title": "我在微信养了一天龙虾🦞，花了 20 万Token让它给我发压缩包",
       "url": "https://www.ifanr.com/1658689",
       "hot_value": "",
@@ -146,7 +224,7 @@
       }
     },
     {
-      "index": 12,
+      "index": 18,
       "title": "马斯克下场点赞！Kimi 这篇论文撬动了大模型的「祖传地基」",
       "url": "https://www.ifanr.com/1658668",
       "hot_value": "",
@@ -159,7 +237,7 @@
       }
     },
     {
-      "index": 13,
+      "index": 19,
       "title": "拆开 MacBook Neo，我发现了未来苹果电脑的蛛丝马迹",
       "url": "https://www.ifanr.com/1658426",
       "hot_value": "",
@@ -172,7 +250,7 @@
       }
     },
     {
-      "index": 14,
+      "index": 20,
       "title": "「日本最强AI」塌房了！扒开代码全是DeepSeek，日本网友集体破防",
       "url": "https://www.ifanr.com/1658639",
       "hot_value": "",
@@ -183,85 +261,7 @@
         "summary": "不如再等等 DeepSeek V4",
         "timestamp": "2026-03-18T04:33:22.000Z"
       }
-    },
-    {
-      "index": 15,
-      "title": "OPPO Watch X3 发布：定价 2799 元，健康、睡眠检测和质感全升级",
-      "url": "https://www.ifanr.com/1658622",
-      "hot_value": "",
-      "extra": {
-        "author": "梁梦麟",
-        "category": "公司",
-        "id": "1658622",
-        "summary": "钛机身，钛健康",
-        "timestamp": "2026-03-18T03:54:28.000Z"
-      }
-    },
-    {
-      "index": 16,
-      "title": "早报｜苹果家庭硬件负责人离职，加入智能戒指公司/黄仁勋回应DLSS5「AI垃圾」争议/9999起，OPPO Find N6正式发布",
-      "url": "https://www.ifanr.com/1658609",
-      "hot_value": "",
-      "extra": {
-        "author": "Shawn Rain",
-        "category": "早报",
-        "id": "1658609",
-        "summary": "· 曝 iPhone 19e 在 2028 年迎来高刷屏\r\n· 任天堂 Switch 2 升级新增「官方超频」模式\r\n· 微软电脑管家上线「一键卸载龙虾」功能",
-        "timestamp": "2026-03-18T00:39:04.000Z"
-      }
-    },
-    {
-      "index": 17,
-      "title": "启境 GT7 正式亮相！华为乾坤深度赋能，首发赤兔底盘平台",
-      "url": "https://www.ifanr.com/1658588",
-      "hot_value": "",
-      "extra": {
-        "author": "李华",
-        "category": "董车会",
-        "id": "1658588",
-        "summary": "广汽再冲高端。",
-        "timestamp": "2026-03-17T14:51:12.000Z"
-      }
-    },
-    {
-      "index": 18,
-      "title": "第一台「无折痕」手机，为所有「不敢折」的人而来｜OPPO Find N6 评测",
-      "url": "https://www.ifanr.com/1658541",
-      "hot_value": "",
-      "extra": {
-        "author": "马扶摇",
-        "category": "产品",
-        "id": "1658541",
-        "summary": "一马平川，鱼龙漫衍。",
-        "timestamp": "2026-03-17T12:48:20.000Z"
-      }
-    },
-    {
-      "index": 19,
-      "title": "专访苹果医学家：房颤患者，为什么应该戴一块 Apple Watch？",
-      "url": "https://www.ifanr.com/1658498",
-      "hot_value": "",
-      "extra": {
-        "author": "苏伟鸿",
-        "category": "产品",
-        "id": "1658498",
-        "summary": "从患者成为健康主理人",
-        "timestamp": "2026-03-17T08:35:56.000Z"
-      }
-    },
-    {
-      "index": 20,
-      "title": "刚刚，阿里ATH事业群甩出王炸「悟空」！企业级正规军下场，龙虾们这次真要炸了",
-      "url": "https://www.ifanr.com/1658400",
-      "hot_value": "",
-      "extra": {
-        "author": "张子豪",
-        "category": "公司",
-        "id": "1658400",
-        "summary": "超级个体时代的入场券",
-        "timestamp": "2026-03-17T04:43:49.000Z"
-      }
     }
   ],
-  "_synced_at": "2026-03-19T22:17:29Z"
+  "_synced_at": "2026-03-20T10:27:38Z"
 }

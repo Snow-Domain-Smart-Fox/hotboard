@@ -1,6 +1,6 @@
 {
   "type": "lol",
-  "update_time": "2026-03-19T21:17:09.761Z",
+  "update_time": "2026-03-20T09:37:14.239Z",
   "list": [
     {
       "index": 1,
@@ -14,6 +14,16 @@
     },
     {
       "index": 2,
+      "title": "胖胖龙好运乐园x玩家集市宣传",
+      "url": "https://lol.qq.com/news/detail.shtml?docid=6592380987328475224",
+      "hot_value": "",
+      "extra": {
+        "date": "2026-03-20",
+        "type": "新闻"
+      }
+    },
+    {
+      "index": 3,
       "title": "华彩秘宝·召唤活动限时开启",
       "url": "https://lol.qq.com/news/detail.shtml?docid=2799059175006250539",
       "hot_value": "",
@@ -23,7 +33,7 @@
       }
     },
     {
-      "index": 3,
+      "index": 4,
       "title": "银焰骑士(2026)皮肤即将上线",
       "url": "https://lol.qq.com/news/detail.shtml?docid=6242660078107348431",
       "hot_value": "",
@@ -33,7 +43,7 @@
       }
     },
     {
-      "index": 4,
+      "index": 5,
       "title": "【云顶之弈】光明哨兵不朽薇恩上线公告",
       "url": "https://lol.qq.com/news/detail.shtml?docid=9114750707651636929",
       "hot_value": "",
@@ -43,7 +53,7 @@
       }
     },
     {
-      "index": 5,
+      "index": 6,
       "title": "16.7云顶之弈版本更新公告",
       "url": "https://lol.qq.com/gicp/news/662/37079852.html",
       "hot_value": "",
@@ -53,7 +63,7 @@
       }
     },
     {
-      "index": 6,
+      "index": 7,
       "title": "幸运之门·召唤 限时开启",
       "url": "https://lol.qq.com/news/detail.shtml?docid=11003397577189622969",
       "hot_value": "",
@@ -63,23 +73,13 @@
       }
     },
     {
-      "index": 7,
+      "index": 8,
       "title": "《英雄联盟：云顶之弈》公开赛春季赛 全国总决赛",
       "url": "https://lol.qq.com/news/detail.shtml?docid=2774486724195468836",
       "hot_value": "",
       "extra": {
         "date": "2026-03-18",
         "type": "新闻"
-      }
-    },
-    {
-      "index": 8,
-      "title": "【英雄联盟】 愚人节新皮肤系列PBE预览",
-      "url": "https://lol.qq.com/v/v2/detail.shtml?docid=12760206288951528692",
-      "hot_value": "",
-      "extra": {
-        "date": "2026-03-18",
-        "type": "视频"
       }
     },
     {
@@ -94,6 +94,16 @@
     },
     {
       "index": 10,
+      "title": "【英雄联盟】 愚人节新皮肤系列PBE预览",
+      "url": "https://lol.qq.com/v/v2/detail.shtml?docid=12760206288951528692",
+      "hot_value": "",
+      "extra": {
+        "date": "2026-03-18",
+        "type": "视频"
+      }
+    },
+    {
+      "index": 11,
       "title": "【英雄联盟】 愚人节新皮肤系列原画",
       "url": "https://lol.qq.com/news/detail.shtml?docid=10184768342255672772",
       "hot_value": "",
@@ -103,7 +113,7 @@
       }
     },
     {
-      "index": 11,
+      "index": 12,
       "title": "【云顶之弈】命运之轮召唤活动上线公告",
       "url": "https://lol.qq.com/news/detail.shtml?docid=11062105026103393312",
       "hot_value": "",
@@ -113,7 +123,7 @@
       }
     },
     {
-      "index": 12,
+      "index": 13,
       "title": "【云顶之弈】广州胖胖龙好运乐园邀请函",
       "url": "https://lol.qq.com/news/detail.shtml?docid=872227469335444518",
       "hot_value": "",
@@ -123,7 +133,7 @@
       }
     },
     {
-      "index": 13,
+      "index": 14,
       "title": "【云顶之弈】胖胖龙好运乐园广州站来咯！",
       "url": "https://lol.qq.com/news/detail.shtml?docid=14768182708600810225",
       "hot_value": "",
@@ -133,7 +143,7 @@
       }
     },
     {
-      "index": 14,
+      "index": 15,
       "title": "2026云顶之弈公开赛 风起羊城，粤胜云巅！",
       "url": "https://lol.qq.com/news/detail.shtml?docid=18071130833480219924",
       "hot_value": "",
@@ -143,7 +153,7 @@
       }
     },
     {
-      "index": 15,
+      "index": 16,
       "title": "全球先锋赛开打!组队活跃必得皮肤",
       "url": "https://lol.qq.com/news/detail.shtml?docid=993219050700992137",
       "hot_value": "",
@@ -151,17 +161,7 @@
         "date": "2026-03-13",
         "type": "赛事"
       }
-    },
-    {
-      "index": 16,
-      "title": "璀璨臻彩召唤活动上新",
-      "url": "https://lol.qq.com/news/detail.shtml?docid=5798318968870378965",
-      "hot_value": "",
-      "extra": {
-        "date": "2026-03-12",
-        "type": "公告"
-      }
     }
   ],
-  "_synced_at": "2026-03-19T22:17:20Z"
+  "_synced_at": "2026-03-20T10:27:52Z"
 }

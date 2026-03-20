@@ -1,9 +1,19 @@
 {
   "type": "nga",
-  "update_time": "2026-03-19T21:17:13.922Z",
+  "update_time": "2026-03-20T09:27:42.684Z",
   "list": [
     {
       "index": 1,
+      "title": "《红色沙漠》评测",
+      "url": "https://bbs.nga.cn/read.php?tid=46408345",
+      "hot_value": "",
+      "extra": {
+        "category": "games",
+        "tid": "46408345"
+      }
+    },
+    {
+      "index": 2,
       "title": "《零～红蝶～REMAKE》活动",
       "url": "https://bbs.nga.cn/read.php?tid=46353090",
       "hot_value": "",
@@ -13,7 +23,7 @@
       }
     },
     {
-      "index": 2,
+      "index": 3,
       "title": "网球经理25游戏评测",
       "url": "https://bbs.nga.cn/read.php?tid=46300574",
       "hot_value": "",
@@ -23,23 +33,13 @@
       }
     },
     {
-      "index": 3,
+      "index": 4,
       "title": "《生化危机9》游戏评测",
       "url": "https://bbs.nga.cn/read.php?tid=46334397",
       "hot_value": "",
       "extra": {
         "category": "games",
         "tid": "46334397"
-      }
-    },
-    {
-      "index": 4,
-      "title": "《如龙3》游戏评测",
-      "url": "https://bbs.nga.cn/read.php?tid=46260841",
-      "hot_value": "",
-      "extra": {
-        "category": "games",
-        "tid": "46260841"
       }
     },
     {
@@ -164,6 +164,16 @@
     },
     {
       "index": 17,
+      "title": "杀戮尖塔2首个大型补丁",
+      "url": "https://bbs.nga.cn/read.php?tid=46407631",
+      "hot_value": "",
+      "extra": {
+        "category": "games",
+        "tid": "46407631"
+      }
+    },
+    {
+      "index": 18,
       "title": "少前2：追放 NGA镜像冗余活动",
       "url": "https://bbs.nga.cn/read.php?tid=46337707",
       "hot_value": "",
@@ -173,7 +183,7 @@
       }
     },
     {
-      "index": 18,
+      "index": 19,
       "title": "终末地1.1版本抽奖活动",
       "url": "https://bbs.nga.cn/read.php?tid=46347356",
       "hot_value": "",
@@ -183,7 +193,7 @@
       }
     },
     {
-      "index": 19,
+      "index": 20,
       "title": "《卡厄思梦境》国服测试",
       "url": "https://bbs.nga.cn/read.php?tid=46346855",
       "hot_value": "",
@@ -191,17 +201,7 @@
         "category": "games",
         "tid": "46346855"
       }
-    },
-    {
-      "index": 20,
-      "title": "《明日方舟：终末地》开发者日志",
-      "url": "https://bbs.nga.cn/read.php?tid=46287021",
-      "hot_value": "",
-      "extra": {
-        "category": "games",
-        "tid": "46287021"
-      }
     }
   ],
-  "_synced_at": "2026-03-19T22:17:20Z"
+  "_synced_at": "2026-03-20T10:27:38Z"
 }

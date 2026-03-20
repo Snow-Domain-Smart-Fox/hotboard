@@ -1,17 +1,17 @@
 {
   "type": "sspai",
-  "update_time": "2026-03-19T22:01:46.986Z",
+  "update_time": "2026-03-20T10:03:31.435Z",
   "list": [
     {
       "index": 1,
       "title": "勃朗特三姐妹书影单：贫瘠土地生出的女性之花",
       "url": "https://sspai.com/post/107517",
-      "hot_value": "评论:3 点赞:6",
+      "hot_value": "评论:5 点赞:13",
       "extra": {
         "author": "潘誉晗",
-        "comment_count": 3,
+        "comment_count": 5,
         "id": 107517,
-        "like_count": 6,
+        "like_count": 13,
         "summary": "伴着诸多争议的新版《呼啸山庄》上映，与我们一同重温勃朗特三姐妹那些文艺作品……"
       }
     },
@@ -19,12 +19,12 @@
       "index": 2,
       "title": "年度征文｜效率杂谈：告别纸笔拓荒，怎么用 AI 来辅助学习？",
       "url": "https://sspai.com/post/106878",
-      "hot_value": "评论:9 点赞:35",
+      "hot_value": "评论:9 点赞:40",
       "extra": {
         "author": "Haoo_7",
         "comment_count": 9,
         "id": 106878,
-        "like_count": 35,
+        "like_count": 40,
         "summary": "如果你现在比较迷茫，不知道怎么学习才好，那希望这个学习方法论可以给你提供一些参考。切记：一切都要以自己的需求为主。"
       }
     },
@@ -32,12 +32,12 @@
       "index": 3,
       "title": "打造我的「智能家」：使用 Claude Code 轻松使用 Home Assistant",
       "url": "https://sspai.com/post/106992",
-      "hot_value": "评论:19 点赞:29",
+      "hot_value": "评论:19 点赞:31",
       "extra": {
         "author": "yzlnew",
         "comment_count": 19,
         "id": 106992,
-        "like_count": 29,
+        "like_count": 31,
         "summary": "Home Assistant 凭借其强大、丰富、开放的 API 工具，必将成为这个 Agentic 时代智能家居的第一选择。"
       }
     },
@@ -84,12 +84,12 @@
       "index": 7,
       "title": "派评 | 近期值得关注的 App",
       "url": "https://sspai.com/post/107431",
-      "hot_value": "评论:22 点赞:14",
+      "hot_value": "评论:22 点赞:15",
       "extra": {
         "author": "少数派编辑部",
         "comment_count": 22,
         "id": 107431,
-        "like_count": 14,
+        "like_count": 15,
         "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀"
       }
     },
@@ -110,12 +110,12 @@
       "index": 9,
       "title": "TaskTick：macOS 上简单的定时任务管理工具",
       "url": "https://sspai.com/post/107421",
-      "hot_value": "评论:0 点赞:3",
+      "hot_value": "评论:0 点赞:4",
       "extra": {
         "author": "Devid",
         "comment_count": 0,
         "id": 107421,
-        "like_count": 3,
+        "like_count": 4,
         "summary": "▎无需crontab，无需launchd，创建定时任务像设闹钟一样简单。为什么做这个工具作为电脑用户，你一定遇到过这些场景：每天凌晨自动备份数据库定时检查服务器是否在线每周清理一次Docker垃圾镜像 ..."
       }
     },
@@ -133,5 +133,5 @@
       }
     }
   ],
-  "_synced_at": "2026-03-19T22:17:28Z"
+  "_synced_at": "2026-03-20T10:27:47Z"
 }
