@@ -1,10 +1,10 @@
 {
-  "_updated_at": "2026-03-21T08:27:52Z",
+  "_updated_at": "2026-03-21T10:16:21Z",
   "sources": {
     "news-image": {
       "name": "Daily News Image",
       "count": 1,
-      "updated_at": "2026-03-21T08:27:52Z",
+      "updated_at": "2026-03-21T10:16:21Z",
       "url": "data/news-image.jpg",
       "type": "image/jpeg"
     }
