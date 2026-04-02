@@ -3105,3 +3105,43 @@
   ],
   "_synced_at": "2026-03-20T10:27:42Z"
 }
+236,
+          "view": 377303
+        },
+        "tname": "配音"
+      }
+    },
+    {
+      "index": 100,
+      "title": "鞭炮一响，二舅下岗",
+      "url": "https://www.bilibili.com/video/BV1V79LBvER7",
+      "hot_value": "1037806播放",
+      "extra": {
+        "aid": 116327712883452,
+        "bvid": "BV1V79LBvER7",
+        "desc": "-",
+        "duration": 75,
+        "owner": {
+          "face": "https://i2.hdslb.com/bfs/face/14a67baac6b1e1a6e7cb08b0664ee3dacef6ff4b.jpg",
+          "mid": 508752914,
+          "name": "爱画画的子衿"
+        },
+        "pic": "http://i1.hdslb.com/bfs/archive/64f6e5675d71ff0bd3d392139efe01edc28db6d6.jpg",
+        "pubdate": "2026-04-01T05:12:30.000Z",
+        "rcmd_reason": "12万点赞",
+        "short_link": "https://b23.tv/BV1V79LBvER7",
+        "stat": {
+          "coin": 80778,
+          "danmaku": 3379,
+          "favorite": 7934,
+          "like": 123864,
+          "reply": 2881,
+          "share": 1264,
+          "view": 1037806
+        },
+        "tname": "亲子"
+      }
+    }
+  ],
+  "_synced_at": "2026-04-02T13:27:10Z"
+}
